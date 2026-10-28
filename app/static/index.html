@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Misread</title>
+  <meta name="description" content="Find what people will misread in your letter, before you send it.">
+  <meta name="view-transition" content="same-origin">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='1.5' y='1.5' width='29' height='29' rx='8' fill='%23FFE14D' stroke='%23121212' stroke-width='3'/%3E%3Cpath d='M9 11h14M9 16h14M9 21h8' stroke='%23121212' stroke-width='2.6' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="static/app.css">
+</head>
+<body>
+  <header class="top">
+    <a class="logo" href="#" id="homeLink"><span class="hl">mis</span>read</a>
+    <nav class="top-nav">
+      <a href="#examples" data-home-anchor>Examples</a>
+      <a href="#how" data-home-anchor>How it works</a>
+    </nav>
+  </header>
+
+  <main id="app">
+    <!-- ======================================================= HOME -->
+    <div id="home" class="screen">
+      <section class="hero">
+        <h1>Find what people will <span class="marker">misread</span>.</h1>
+        <p class="sub">Drop in a letter. Twelve AI readers skim it the way busy people do — and you see exactly what they get wrong.</p>
+
+        <div class="drop card" id="dropzone">
+          <div class="drop-inner">
+            <div class="drop-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48"><path d="M14 6h14l10 10v24a3 3 0 0 1-3 3H14a3 3 0 0 1-3-3V9a3 3 0 0 1 3-3z"/><path d="M28 6v10h10"/><path d="M24 34V22m-5 5 5-5 5 5"/></svg>
+            </div>
+            <p class="drop-title">Drop a letter here</p>
+            <div class="drop-actions">
+              <label class="btn primary" for="fileInput">Choose a file</label>
+              <input id="fileInput" type="file" accept=".pdf,.docx,.txt,.md,application/pdf,text/plain" hidden>
+              <button class="btn" type="button" id="pasteBtn">Paste text</button>
+            </div>
+            <p class="mono small muted">PDF · DOCX · TXT</p>
+          </div>
+          <div class="paste" id="pasteBox" hidden>
+            <textarea id="pasteText" rows="9" placeholder="Paste the letter here" aria-label="Letter text"></textarea>
+            <div class="row">
+              <button class="btn primary" type="button" id="pasteGo">Check it</button>
+              <button class="btn ghost" type="button" id="pasteCancel">Cancel</button>
+            </div>
+          </div>
+        </div>
+        <p class="small privacy-line"><svg viewBox="0 0 16 16" aria-hidden="true"><rect x="3" y="7" width="10" height="7" rx="1.5"/><path d="M5.5 7V5a2.5 2.5 0 0 1 5 0v2"/></svg>Your letter isn't stored. AI models on Nebius read it for this check, and our server forgets it within 15 minutes.</p>
+        <p class="mono small status-line" id="liveNote" hidden></p>
+      </section>
+
+      <section class="block" id="examples">
+        <div class="block-head">
+          <h2>Or try a real one</h2>
+          <button class="btn small" id="allBtn" type="button">See all 13</button>
+        </div>
+        <div class="examples" id="featured"></div>
+        <div class="examples more" id="allLetters" hidden></div>
+      </section>
+
+      <section class="block" id="how">
+        <div class="block-head"><h2>How it works</h2></div>
+        <div class="bento">
+          <div class="tile how-tile t-read">
+            <span class="mono small">01 · Read</span>
+            <p class="how-big">12 readings</p>
+            <div class="minis">
+              <figure><div class="mini full"><i></i><i></i><i></i><i></i><i></i><i></i></div><figcaption>Full</figcaption></figure>
+              <figure><div class="mini skim"><i></i><i></i><i></i><i></i><i></i><i></i></div><figcaption>Skim</figcaption></figure>
+              <figure><div class="mini glance"><i></i><i></i><i></i><i></i><i></i><i></i></div><figcaption>Glance</figcaption></figure>
+              <figure><div class="mini m-phone"><i></i><i></i><i></i><i></i><i></i><i></i></div><figcaption>Phone</figcaption></figure>
+            </div>
+          </div>
+          <div class="tile how-tile t-ask">
+            <span class="mono small">02 · Ask</span>
+            <p class="how-big">5 questions</p>
+            <p class="how-list">Act? What? When? If not? Who?</p>
+          </div>
+          <div class="tile how-tile t-fix">
+            <span class="mono small">03 · Fix</span>
+            <p class="how-big">Smallest change that works</p>
+            <p class="how-list">Same words, better order.</p>
+          </div>
+          <div class="tile how-tile t-models">
+            <span class="mono small">Powered by</span>
+            <ul class="models">
+              <li><b>Nemotron 3.5 Lightning</b><span>reads</span></li>
+              <li><b>Nemotron 3 Super</b><span>marks</span></li>
+              <li><b>Nemotron 3 Ultra</b><span>writes &amp; fixes</span></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ======================================================= LETTER -->
+    <div id="work" class="screen" hidden>
+      <div class="work-top">
+        <button class="btn small" id="backBtn" type="button">← Back</button>
+        <div class="work-title">
+          <h1 id="docTitle"></h1>
+          <div class="chips" id="docChips"></div>
+          <div class="pop" id="changesPop" hidden></div>
+        </div>
+      </div>
+
+      <div class="layout">
+        <section class="viewer">
+          <div class="viewer-bar">
+            <div class="seg mode" id="modeSeg" role="tablist" aria-label="Show results for" hidden></div>
+            <div class="seg" id="versionSeg" hidden></div>
+          </div>
+          <div class="window" id="window">
+            <div class="window-bar">
+              <span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>
+              <div class="tabs" role="tablist" aria-label="Read as" id="viewTabs"></div>
+            </div>
+            <div class="stage" id="stage"></div>
+          </div>
+        </section>
+        <aside class="side" id="side"></aside>
+      </div>
+    </div>
+  </main>
+
+  <footer class="foot mono small">
+    <span>Misread · Nebius × NVIDIA Global AI Hackathon 2026</span>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="static/app.js"></script>
+</body>
+</html>

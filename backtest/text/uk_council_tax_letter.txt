@@ -1,0 +1,356 @@
+**Local Taxation Division Department for Levelling Up, Housing & Communities**
+Fry Building
+2 Marsham Street
+London
+SW1P 4DF
+To: Local Authorities in England. Email: council.tax@levellingup.gov.uk
+
+www.gov.uk/dluhc
+
+**16/03/2022 FOR THE ATTENTION OF THE COUNCIL TAX SECTION**
+
+Dear Colleague
+
+**The council tax rebate - frequently asked questions**
+
+On 23 February, the Department published guidance to billing authorities on delivery of the council tax
+rebate. The guidance is available at the following link: https://www.gov.uk/government/publications/the-
+council-tax-rebate-2022-23-billing-authority-guidance/support-for-energy-bills-the-council-tax-rebate-
+2022-23-billing-authority-guidance.
+
+Since publication, we have engaged closely with local authorities through various forums. In order to
+clarify issues raised in response to the guidance and make sure that all authorities are receiving consistent
+advice, the Government is now providing a summary of answers to the most frequently asked questions.
+These are available at Annex A.
+
+These FAQs are intended to expand on, rather than replace the guidance. They provide further detail on
+payment mechanisms, scheme eligibility, the discretionary fund, fraud risk management, funding and
+monitoring requirements.
+
+Should you have any queries, please contact the Department at: council.tax@levellingup.gov.uk.
+
+**Local Taxation Division DLUHC Annex A Council tax rebate FAQs**
+
+## Contents
+
+Making payments ........................................................................................................................................... 2
+Eligibility for the Council Tax Rebate ........................................................................................................... 5
+The Discretionary Fund ................................................................................................................................. 5
+Fraud risk ....................................................................................................................................................... 6
+Funding for councils ...................................................................................................................................... 7
+Monitoring and reconciliation ....................................................................................................................... 7
+
+## Making payments
+
+**Q1. What is expected where the name on the direct debit bank account details does not match a liable party?**
+
+The guidance advises at paragraph 20 that councils should exclude eligible households from automated
+payments where the name on the direct debit bank details does not match someone who is liable for
+council tax in that household. The name does not need to be an exact match (for example, an initial
+matching a first name should be sufficient), but councils should be satisfied as far as possible that they are
+not making automated payments to a third party.
+
+Where direct debit details belong to a third party, councils should contact a liable person to confirm
+whether they would like the rebate paid into the existing direct debit account, or to arrange an alternate
+payment method (following the process for eligible households for whom the council does not hold bank
+account details), as referenced elsewhere in this section. Payment should not be made to a third party
+without explicit consent, which should be evidenced.
+
+**Q2. Do councils have to write out to every household that receives an automatic payment to inform them of the grounds on which a payment has been made?**
+
+No. The information at paragraph 21 of the guidance is intended to provide clarity to taxpayers, to
+encourage people to identify and report errors and to support councils in the event of needing to clawback
+money following erroneous payments.
+
+Ultimately, it is for councils to determine the most appropriate method of providing this information,
+weighing up costs against benefits, and to conclude whether individual direct communication to each
+recipient is most appropriate or whether information published on their website is sufficient.
+
+**Q3. Is an application required from all eligible households where councils do not already hold current payment details?**
+
+No. The guidance from paragraph 23 onwards sets the expectation of a claims process where a live
+council tax direct debit instruction is not already held by councils. This is to help prevent erroneous
+payments and to give councils the cover to clawback money in the event of error, or to bring criminal
+proceedings if there is evidence of fraud.
+
+2
+
+The exact process can be determined locally by councils in consideration of the software and resources
+available to them, the needs and preferences of their residents, the data requirements for monitoring and
+the security offered against fraud. The process should fit with the statutory responsibilities of Chief
+Financial Officers to support the proper administration of their council’s financial affairs and to put in
+place internal audit systems to ensure effective and sound internal financial controls.
+
+Where in line with the answers to questions 4 and 5, a claim could be implied, for example through
+redeeming a voucher, rather than through completing an application form. In these circumstances,
+including for the purposes of taking action under the Fraud Act 2006, councils should be clear to
+households that by redeeming the money, they are self-certifying against the statements set out at
+paragraph 25 of the guidance.
+
+**Q4. What payment methods are acceptable, other than BACS?**
+
+Councils are encouraged to establish a range of payment options to enable them to provide support to
+eligible households in different circumstances.
+
+All payment options used for the rebate should enable councils to:
+i) Be satisfied that the person receiving the money is entitled to payment;
+ii) Keep an audit trail of the payments redeemed, when and by whom;
+iii) Prevent payments being redeemed after 30 September 2022 (as per paragraph 7 of the guidance,
+any payments redeemed after this date will be outside the scope of the Government’s reconciliation
+exercise);
+iv) Be satisfied that the payment method selected is appropriate value for money when compared with
+other alternatives and adequately secure against fraud.
+
+Support under both the core and discretionary scheme should not be provided through restricted use
+vouchers (for example food or fuel vouchers.)
+
+**Q5. Can councils use single use voucher-based payment transactions in appropriate circumstances? (for example, Post Office Payout or other similar providers)**
+
+Yes. To enable councils to reach households in a range of different circumstances, councils can use single
+use voucher-based payment transactions to provide support where they consider it appropriate. Councils
+should ensure that they put in place suitable controls to ensure the payment mechanism meets the criteria
+listed under question 4 (such as ID checks).
+
+**Q6. How can councils support eligible households that are overdrawn?**
+
+Councils may wish to provide information as part of their application process on how eligible households
+can exercise their first right of appropriation on the £150 payment, so their bank doesn’t use it to pay off
+any overdraft. A sample letter that households may wish to use to exercise their right of appropriation is
+available here: https://www.nationaldebtline.org/sample-letters/ask-your-bank-pay-particular-bills/
+
+**Q7. Can councils make payment to a third party?**
+
+In exceptional circumstances, yes. Having regard to the guidance, a council may consider it appropriate
+for a payment to be made to a third party if nominated by an eligible, liable council taxpayer. Councils
+should still undertake the appropriate pre-payment checks in relation to the nominated individual, whilst
+ensuring the taxpayer isn’t under duress to nominate the third party. A record should be maintained of all
+such payments for future audit and assurance records.
+
+3
+
+**Q8. Can councils automatically credit £150 to eligible households’ council tax accounts (either those eligible under the core or discretionary scheme) where current payment details are not already held?**
+
+No. As set out in paragraph 24 of the guidance, councils can offer the option of a credit to council tax
+accounts to eligible households (under the core and discretionary scheme) for whom they do not hold
+current details allowing councils to make automatic payments. However, this option should always first
+be provided alongside one of direct payment.
+
+This is so that households have the choice to receive the support up-front, rather than as a credit on their
+council tax account, which may be spread across their usual council tax instalments. It also allows support
+to be provided where households do not pay council tax, have a council tax liability of less than £150 or
+have already paid their council tax liability for 2022-23 in full.
+
+**Q9. Can councils automatically credit £150 to eligible households’ council tax accounts (either those eligible under the core or discretionary scheme) where current payment details are not already held, as a backstop option?**
+
+Yes. Councils can specify that if households do not respond when given a choice of payment method by a
+certain date, they will take this as an indication that the household wishes to receive the support as a
+council tax account credit. Councils should make clear which council tax account the money will be
+credited to. It is for councils to determine an appropriate timescale to allow for response – up to and
+including the 30 September 2022 – and the number of reminders (if any) that are appropriate prior to
+making any automatic credits.
+
+**Q10. Where eligible households choose to receive a council tax account credit (or this is applied as a backstop option), does this have to be allocated to the financial year 2022-23?**
+
+No. Where a household that is eligible for support chooses to receive this as a credit to their council tax
+account (or this is applied as a backstop option), councils can choose whether to allocate this to the
+financial year 2022-23, or to any arrears. This should be made clear when giving households the option to
+receive support as a council tax credit. As with other eligible households, households in arrears can
+choose instead to receive a direct payment. Credits should not be allocated to future years’ liability (eg.
+2023-24 onwards).
+
+**Q11. Can councils use bank account details or information that they hold for other purposes (for example for housing benefit or local council tax support) to administer the rebate?**
+
+In principle, yes. Councils can use any information which they hold to administer the rebate (for example
+to confirm eligibility or to make payments) where they are satisfied that they can lawfully use it under
+GDPR for administering the rebate. This may depend on the types of data and ways in which it is
+collected and is therefore an issue for individual councils to take legal advice on if necessary.
+
+DWP has written separately to councils to confirm that the rebate will be classified as Local Welfare
+Provision. This permits councils to use Searchlight for verification purposes in order to administer the
+Discretionary Fund.
+
+4
+
+**Q12. What are the GDPR implications of using data obtained to collect council tax for the different purpose of paying grants outside the council tax system?**
+
+Councils may wish to consider the lawful bases for processing set out in the ICO's Guide to Data
+Protection, such as processing data for a public task where the processing is not incompatible with the
+purposes for which the data was collected: https://ico.org.uk/for-organisations/guide-to-data-
+protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing/public-task /.
+Where an authority has concerns about its plans to implement the scheme as set out in the guidance, we
+recommend it seek its own legal advice.
+
+## Eligibility for the Council Tax Rebate
+
+**Q13. Who is eligible for the rebate in a rental property?**
+
+A household is eligible for the rebate if it meets the criteria set out at paragraph 11 of the guidance.
+Payment should be made to a liable council tax payer (or an occupant where the property is exempt) for
+that household.
+
+Some examples of situations involving tenants, and the expected approach, are as follows:
+• A rental property meets the criteria set out at paragraph 11 of the guidance and councils hold a live
+council tax direct debit instruction for that property.
+i) If the name on the direct debit details match a liable party, automatic payment of the rebate can be
+made.
+ii) If the name on the direct debit details does not match a liable party (for example because the
+council tax bill is usually paid by the landlord as part of an “all bills included” tenancy
+agreement), automatic payment **should not** be made. Instead, councils should contact a liable
+party to confirm whether they would like the rebate paid into the existing direct debit account, or
+to arrange an alternate payment mechanism.
+
+**Q14. Who is eligible for the rebate relating to an HMO (for council tax purposes)?**
+
+No-one (even if the property is in class N). If the tenants of an HMO for council tax purposes pay energy
+bills directly, they may be able to access support from their council’s discretionary fund.
+
+## The Discretionary Fund
+
+**Q15. Can the Department clarify how the Discretionary Fund allocations have been calculated?**
+
+Allocations for the core scheme and the Discretionary Fund were published alongside the guidance, as
+well as a methodology note. 60% of the £144 million Discretionary Fund has been allocated based on
+shares of the index of multiple deprivation and 40% allocated based on shares of the estimated number of
+local council tax support claimants in bands E – H as at September 2021.
+
+**Q16. What are the Government’s expectations for use of the Discretionary Fund?**
+
+Councils can determine how best to use their Discretionary Fund to support those suffering financial
+hardship as a result of the rising cost of living, in consideration of paragraphs 36 – 40 of the guidance.
+Where councils consider it the best means of supporting those in financial difficulty, they can use the
+discretionary fund to offer carefully targeted 'top-up' payments to the most vulnerable households in
+bands A - D (for example, those on means tested benefits), or to offer support exceeding £150 per
+household under their discretionary scheme. The Government expects that all support from the
+Discretionary Fund is targeted towards those most likely to be suffering hardship as a result of the rising
+
+5
+
+cost of living. Allocations from the Discretionary Fund should be spent by 30 November 2022. Any
+remaining funding will be required to be repaid to government.
+
+## Fraud risk
+
+**Q17. What are councils’ responsibilities for protecting against fraud under this scheme?**
+
+It is the responsibility of each council’s Chief Financial Officer to put in place appropriate arrangements
+to support the proper administration of their council’s financial affairs, as well internal audit systems to
+ensure that effective and sound financial and internal controls are in place. This includes tackling fraud
+and safeguarding public money.
+
+The guidance sets out the minimum measures that councils should take to detect and prevent fraud.
+Councils are required to undertake pre-payment checks prior to payment of any grant which is not
+awarded to a person where there is a “live” direct debit instruction. These should allow them to satisfy
+themselves that the person is entitled to payment and that the payment details provided (if applicable)
+belong to an entitled person and relate to the relevant address. Councils should retain a record of these
+checks, as per paragraph 28 of the guidance.
+
+Councils are also encouraged to take additional steps to prevent erroneous payments, for example waiting
+to pay households for whom they hold a live direct debit instruction until the first council tax payment for
+2022-23 has been taken on the given live instruction.
+
+**Q18. Will councils be expected to draw up risk assessment or pre-payment/post-payment assurance plans?**
+
+Councils are expected to conduct pre-payment checks as per the guidance and adopt appropriate
+assurance checks when disbursing payments in order to limit the risk of fraud and error. Councils should
+take an appropriately robust approach towards risk assessment and payment assurance locally. Following
+payment, councils should collect evidence on any fraud and error uncovered, as per paragraph 29 of the
+guidance. The department may additionally undertake spot-checks on councils’ counter fraud systems.
+
+**Q19. Can the Department provide further information about Spotlight?**
+
+Spotlight is a due-diligence risk tool which councils can use for the council tax rebate scheme as part of
+their pre-payment checks for both the core and discretionary scheme. The fees incurred for checks will be
+covered by the government and not councils themselves. Guidance on how to use the tool will be offered
+to councils from the Spotlight team, together with training via online webinars over the coming weeks.
+The Cabinet Office team will support councils and answer questions about the use and functionality of the
+software and can be contacted at spotlight-localauthority@cabinetoffice.gov.uk
+Of course, councils may alternatively wish to use an equivalent tool, provided it enables the same pre-
+payment checks as set out at paragraph 29 of the guidance.
+
+**Q20. How can councils help people to keep their personal information safe?**
+
+The council tax rebate creates an opportunity for malicious actors to pose as government departments,
+local authorities or council tax rebate services in order to collect personal or banking information from
+citizens. Councils should communicate the rebate process clearly to citizens including how and when they
+will be contacted. Councils may wish to signpost citizens to advice on identifying scams and reporting
+suspicious emails, phone calls and text messages, such as guidance published by Action Fraud and
+NCSC’s Suspicious Email Reporting Service (SERS). Councils may also wish to see NSCS’s guidance
+on defending against email phishing attacks.
+
+6
+
+## Funding for councils
+
+**Q21. When will payments for the scheme be made to councils?**
+
+Payments covering the full allocation for the core and discretionary schemes, as published here, will be
+made to councils on 30 March.
+
+**Q22. Will the Department undertake a New Burdens assessment and when will New Burdens funding be paid?**
+
+As set out in the guidance and in line with the New Burdens doctrine, the government will meet the
+administrative costs incurred by councils as a result of implementing the scheme.
+
+We are undertaking an initial new burdens exercise to estimate the early set-up costs and will make a
+down payment against these costs shortly. We are also engaging with local government representatives to
+gather detailed evidence of the full New Burdens costs arising from the range of activities councils need
+to undertake in line with the guidance and will reconcile against these in due course.
+
+## Monitoring and reconciliation
+
+**Q23. When will DLUHC start collecting monitoring information via DELTA? What information will be requested?**
+
+We expect to start asking councils for monitoring related information on the scheme from early May
+onwards. Councils should be prepared to return data at least monthly. An outline of the information
+required is as follows, at both parliamentary constituency level and local authority level:
+
+a) Cumulative spend to date against the core Council Tax Rebate Scheme (£)
+
+b) Date automatic awards started to be made under the core Scheme to households for whom the
+council holds a live council tax Direct Debit instruction (captured once)
+c) Date awards started to be made under the core Scheme to households for whom the council did
+not already hold payment details (captured once)
+d) Number and value (£) of automatic payments made under the core Scheme to households for
+whom the council holds a live council tax Direct Debit instruction
+e) Number and value (£) of payments under the core Scheme paid to households for whom the
+council did not already hold payment details
+f) Cumulative spend to date against the Discretionary Fund for the Council Tax Rebate Scheme
+(£)
+g) Date awards started to be made under the Discretionary Fund (captured once)
+h) Number and value (£) of payments made under the Discretionary Fund
+i) Total number of households supported to date across the core Council Tax Rebate Scheme and
+Discretionary Fund
+j) Number and percentage of total households (across all bands) who paid their council tax by
+Direct Debit as at the 1 April 2022 (captured once)
+k) Date the council tax rebate information leaflet for households in council tax bands A-D was
+sent out (captured once)
+
+Separately, councils should be prepared to submit records in accordance with paragraph 28 of the
+guidance, as part of spot checks throughout the financial year.
+
+7
+
+**Q24. What evidence is expected from councils where fraud/error is identified?**
+
+Where fraud or error is identified, councils are expected to make reasonable efforts to recover the money,
+in accordance with their general fiduciary duties. Where councils consider it appropriate to write off any
+debts as a result of fraud or error, as usual, full details and reasoning to satisfy audit and assurance should
+be held on each case.
+
+**Q25. What data will be required for reconciliation of spend under the core Council Tax Rebate Scheme?**
+
+As set out at paragraph 7 of the guidance, the Government will run a standalone reconciliation exercise in
+Autumn 2022 against spend for the core Council Tax Rebate Scheme, under the terms set out in
+paragraphs 10 to 18. Spend will need to be certified by Chief Financial Officers. As part of the
+reconciliation process, councils should be prepared to declare the following:
+
+• How much grant has been spent on the core Council Tax Rebate Scheme under the terms set out
+in paragraphs 10 to 18 of the guidance?
+• Of this, how much – if any:
+a) is the council seeking to recover?
+b) has the council written off?
+• For a) and b) above – from how many households?
+
+Further information about the reconciliation process will be provided shortly.
+
+8

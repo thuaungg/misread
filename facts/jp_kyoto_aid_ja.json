@@ -1,0 +1,16 @@
+{
+  "title": "令和８年度 就学援助制度のお知らせ",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Japanese",
+  "box_heading": "必要な手続き",
+  "action_required": "conditional",
+  "summary": "京都市の就学援助（学用品費などの援助）のお知らせ。希望する保護者は申込書を学校に持参し、年度初めからの認定には新規は５月１５日、継続は５月３１日までに申し込む。",
+  "facts": {
+    "action": "就学援助を希望する場合は、申込書と必要書類（マイナンバー申告書など）を保護者が直接学校に持参して申し込む。",
+    "deadline": "新規申込み：年度当初からの認定には５月１５日まで。継続申込み：５月３１日まで（昨年度の認定は６月３０日に終了）。申込みは随時受付（学校休業日を除く）。",
+    "consequence": "期限を過ぎて申し込むと、認定は申込月の１日からとなる。",
+    "contact": "制度について：京都いつでもコール（電話 661-3755）。申込みの個別相談：学校。"
+  },
+  "trap": "Two deadlines for two kinds of family (new 15 May, renewal 31 May) inside a dense table; late applications lose months of support."
+}

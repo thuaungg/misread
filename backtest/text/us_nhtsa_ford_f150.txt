@@ -1,0 +1,271 @@
+Ford Motor Company
+Ford Customer Service Division
+PO Box 1904
+Dearborn, Michigan 48121
+
+(cid:44)(cid:8)(cid:8)(cid:2)(cid:2)(cid:8)(cid:4)(cid:6)(cid:5)(cid:5)(cid:7)(cid:5)(cid:1)(cid:44)
+771173544640 A/1/000001/1
+(cid:46)(cid:45)(cid:46)(cid:46)(cid:46)(cid:47)(cid:46)(cid:47)(cid:46)(cid:48)(cid:46)(cid:48)(cid:45)(cid:48)(cid:45)(cid:47)(cid:48)(cid:46)(cid:45)(cid:47)(cid:47)(cid:48)(cid:48)(cid:48)(cid:45)(cid:46)(cid:45)(cid:48)(cid:45)(cid:47)(cid:45)(cid:46)(cid:46)(cid:46)(cid:47)(cid:47)(cid:48)(cid:46)(cid:46)(cid:46)(cid:46)(cid:45)(cid:45)(cid:48)(cid:47)(cid:48)(cid:45)(cid:46)(cid:47)(cid:45)(cid:46)(cid:45)(cid:45)(cid:45)(cid:46)(cid:48)(cid:45)(cid:47)(cid:45)(cid:45)(cid:45)(cid:45)(cid:47)(cid:48)(cid:48)
+
+JOHN A. SAMPLE July 2024
+123 SAMPLE ST
+SAMPLE CITY, MI 12345-6789
+
+## * * * IMPORTANT SAFETY RECALL * * *
+
+Safety Recall Notice 24S37 / NHTSA Recall 24V444
+
+2014 F-150 Ford Truck
+This Notice Applies to Your Vehicle, Vehicle Identification Number (VIN):
+
+This notice is sent to you in accordance with the National Traffic and Motor Vehicle Safety Act.
+Ford Motor Company has decided that a defect which relates to motor vehicle safety exists in certain
+2014 F-150 vehicles, with the VIN shown above.
+We apologize for this situation and want to assure you that, with your assistance, we will correct this
+condition. Our commitment, together with your dealer, is to provide you with the highest level of service
+and support.
+
+What is the issue? On your vehicle, an intermittent failure of the output speed sensor (OSS) in
+the transmission may result in an unintended downshift to first gear.
+
+What is the risk? An unintended downshift into first gear can cause an abrupt wheel speed
+reduction, which could cause the rear tires to slide until the vehicle speed
+slows. This condition could result in a loss of vehicle control, increasing the
+risk of a crash.
+
+What will Ford and Ford Motor Company has authorized your dealer to update the Powertrain
+your dealer do? Control Module (PCM) with software that will prevent an unintended
+downshift into first gear in the event of an intermittent OSS failure, and to
+check for the presence of certain diagnostic trouble codes (DTCs). This
+service will be performed free of charge (parts and labor).
+
+How long will it take? The time needed for this repair is less than one-half day. However, if certain
+DTCs are present in the PCM, and due to service scheduling requirements,
+your dealer may need your vehicle for a longer period of time.
+
+What should you do? Please call your dealer without delay and request a service date for Recall
+24S37. Provide the dealer with your VIN, which is printed near your name at
+the beginning of this letter.
+Ford has not issued instructions to stop driving your vehicle under this safety
+recall. You should contact your dealer for an appointment to have your
+vehicle remedied as soon as practicable.
+If you do not already have a servicing dealer, you can access
+ford.com/support for dealer addresses, maps, and driving instructions.
+Ford Motor Company wants you to have this safety recall completed on your
+vehicle. The vehicle owner is responsible for making arrangements to have
+the work completed. Ford Motor Company can deny coverage for any vehicle
+damage that may result from the failure to have this recall performed on a
+timely basis. Therefore, please have this recall performed as soon as
+possible.
+Please note: Federal law requires that any vehicle lessor receiving this
+recall notice must forward a copy of this notice to the lessee within ten
+days.
+
+1 of 4 01521
+A/1/000001/1 24S37 NI/DTB124S371
+© Copyright 2024 Ford Motor Company
+
+What should you do? NOTE: You can receive information about Recalls and Customer Satisfaction
+(continued) Programs through our FordPass App. The app can be downloaded through
+the App Store or Google Play. In addition, there are other features such as
+reserving parking in certain locations and controlling certain functions on your
+vehicle (lock or unlock doors, remote start) if it is equipped to allow control.
+
+Mobile Service Ford Mobile Service is offered by participating dealers, contact your dealer
+for details.
+
+Pick-Up and Delivery Complimentary vehicle Pick-Up & Delivery service may also be available
+upon request through participating dealers. Your dealer will pick up your
+vehicle and return it with the repair completed.
+
+Do you need a rental If your dealer determines that certain DTCs are present in the PCM, and
+vehicle? needs your vehicle overnight, your dealer is authorized to provide a rental
+vehicle for your personal transportation at no charge (except for fuel and
+insurance) while your vehicle is at the dealership for repairs. Please see your
+dealer for guidelines and limitations.
+
+Have you previously If you have previously paid for a repair that addresses the issue described in
+paid for this repair? this letter, you still need to have this recall performed to ensure the latest
+software was used.
+You may be eligible for a refund of previously paid repairs. Refunds will only
+be provided for service related to certain DTCs stored in the PCM and
+molded leadframe replacement. To verify eligibility and expedite
+reimbursement, give your paid original receipt to your dealer.
+Refund requests may also be sent directly to Ford Motor Company. To
+request your refund from Ford, send the refund request with all required
+documentation, including your original repair receipt (no photocopies), to
+Ford Motor Company at PO Box 6251, Dearborn, Michigan 48121-6251.
+Refund requests mailed to this address may take up to 60 days to process.
+Your original receipt will be returned to you.
+Detailed information regarding eligibility for Ford's reimbursement program
+and documentation requirements may be obtained by contacting the Ford
+Customer Relationship Center at 1-866-436-7332.
+
+What if you no longer If you no longer own this vehicle and have an address for the current owner,
+own this vehicle? please forward this letter to the new owner.
+You received this notice because government regulations require that
+notification be sent to the last known owner of record. Our records are based
+primarily on state registration and title data, which indicate that you are the
+current owner.
+
+Can we assist you If you have difficulties getting your vehicle repaired promptly and without
+further? charge, please contact your dealership’s Service Manager for assistance.
+RETAIL OWNERS: If you have questions or concerns, please contact our
+Ford Customer Relationship Center (CRC) at 1-866-436-7332 and one of
+our representatives will be happy to assist you. The CRC is open on
+weekdays from 8:00 AM – 11:00 PM and on Saturday 8:00 AM - 8:00 PM
+(Eastern Time). TTY/TDD users, please contact the CRC at the number listed
+using the Telecommunication Relay Service by dialing 711.
+If you wish to contact us through the Internet, our address is
+ford.com/support.
+FLEET OWNERS: If you have questions or concerns, please contact our
+Ford Pro Contact Center at 1-800-34-FLEET, choose Option #1, and one of
+our representatives will be happy to assist you. If you wish to contact us
+through the Internet, our address is fleet.ford.com.
+Representatives are available Monday through Friday: 7:00 AM – 11:00 PM
+and Saturday 7:00 AM – 5:00 PM (Eastern Time).
+If you are still having difficulty getting your vehicle repaired in a reasonable
+time or without charge, you may write the Administrator, National Highway
+Traffic Safety Administration, 1200 New Jersey Ave. S.E., Washington, D.C.
+20590 or call the toll-free Vehicle Safety Hotline at 1-888-327-4236
+(TTY: 1-800-424-9153) or go to NHTSA.gov. Reference NHTSA Safety
+Recall 24V444.
+
+Thank you for your attention to this important matter.
+
+Ford Customer Service Division
+
+2 of 4 01521
+A/2/000001/1 24S37 NI/DTB124S371
+© Copyright 2024 Ford Motor Company
+
+Ford Motor Company
+Ford, División de Servicio al Cliente
+PO Box 1904
+Dearborn, Michigan 48121
+
+(cid:44)(cid:8)(cid:8)(cid:2)(cid:2)(cid:8)(cid:4)(cid:6)(cid:5)(cid:5)(cid:7)(cid:5)(cid:1)(cid:44)
+771173544640 A/3/000001/1
+(cid:46)(cid:45)(cid:46)(cid:46)(cid:46)(cid:47)(cid:46)(cid:47)(cid:46)(cid:48)(cid:46)(cid:48)(cid:45)(cid:48)(cid:45)(cid:47)(cid:48)(cid:46)(cid:45)(cid:47)(cid:47)(cid:48)(cid:48)(cid:48)(cid:45)(cid:46)(cid:45)(cid:48)(cid:45)(cid:47)(cid:45)(cid:46)(cid:46)(cid:46)(cid:47)(cid:47)(cid:48)(cid:46)(cid:46)(cid:46)(cid:46)(cid:45)(cid:45)(cid:48)(cid:47)(cid:48)(cid:45)(cid:46)(cid:47)(cid:45)(cid:46)(cid:45)(cid:45)(cid:45)(cid:46)(cid:48)(cid:45)(cid:47)(cid:45)(cid:45)(cid:45)(cid:45)(cid:47)(cid:48)(cid:48)
+
+JOHN A. SAMPLE Julio de 2024
+123 SAMPLE ST
+SAMPLE CITY, MI 12345-6789
+
+## * * * CAMPAÑA DE SEGURIDAD IMPORTANTE * * *
+Aviso de Campaña de seguridad 24S37 / Campaña 24V444 de la NHTSA
+2014 F-150 Ford Truck
+Este aviso se relaciona con su vehículo con el número de identificación del vehículo (VIN):
+
+Este aviso se le envía de acuerdo con la Ley Nacional de Seguridad de Tránsito y Vehículos Motorizados de
+los EE. UU.
+Ford Motor Company determinó que existe un defecto relacionado con la seguridad en algunos vehículos
+F-150 2014, con el VIN que aparece más arriba.
+Lamentamos esta situación y deseamos asegurarle que, con su ayuda, corregiremos el problema. Nuestro
+compromiso, junto con el de su concesionario, es ofrecerle servicio y apoyo de alto nivel.
+¿Cuál es el Una falla intermitente del sensor de velocidad de salida (OSS) de la transmisión del
+problema? vehículo podría ocasionar un cambio descendente involuntario a la primera marcha.
+¿Qué riesgo existe? El cambio descendente involuntario a la primera marcha podría producir una
+reducción abrupta de la velocidad de las ruedas, lo que, a su vez, podría causar
+que las llantas se deslicen hasta que disminuya la velocidad del vehículo. Esta
+condición podría traducirse en una pérdida de control del vehículo, lo cual aumenta
+el riesgo de sufrir un accidente.
+¿Qué medidas Ford Motor Company autorizó a su concesionario a actualizar el módulo de control
+adoptarán Ford y su del tren motriz (PCM) con un software que evitará un cambio descendente
+concesionario? involuntario a la primera marcha en caso de una falla intermitente del OSS y a
+verificar la presencia de ciertos códigos de diagnóstico de falla (DTC). Este
+servicio se realizará sin costo alguno (piezas y mano de obra).
+¿Cuánto tiempo El tiempo necesario para esta reparación será de menos de medio día. Sin
+tomará? embargo, si ciertos DTC están presentes en el PCM, y debido a los requisitos de
+planificación de servicio, es posible que su concesionario tarde un poco más.
+¿Qué debe hacer? Llame a su concesionario lo antes posible y solicite una cita de servicio para
+realizar la Campaña 24S37. Proporcione el VIN a su concesionario, el cual está
+impreso debajo de sus datos al comienzo de esta carta.
+Para esta campaña de seguridad, Ford no ha emitido instrucciones de dejar de
+manejar el vehículo. Deberá ponerse en contacto con su concesionario a fin de
+programar una cita para solucionar este problema lo más pronto posible.
+Si aún no tiene un concesionario para realizar el servicio, puede acceder a
+ford.com/support para conocer las direcciones de los concesionarios, ver mapas y
+obtener las instrucciones para llegar.
+Ford Motor Company le recomienda realizar esta campaña de seguridad en su
+vehículo. El propietario del vehículo es responsable de efectuar los arreglos
+necesarios para llevar a cabo el trabajo. Ford Motor Company puede negar la
+cobertura en caso de que el vehículo hubiese sufrido daños por no haber realizado
+la campaña de manera oportuna. Por lo tanto, le solicitamos que realice esta
+campaña lo antes posible.
+Tenga presente que: La ley federal exige que los arrendadores de vehículos
+que reciban este aviso de campaña envíen una copia del mismo al
+arrendatario en un plazo de diez días.
+NOTA: Puede recibir información sobre las campañas y los programas de
+satisfacción del cliente a través de la aplicación FordPass. La aplicación se puede
+descargar a través de App Store o Google Play. Adicionalmente, existen otras
+funciones como reserva de estacionamientos en determinados lugares, además de
+control de ciertas funciones en el vehículo (bloqueo o desbloqueo de puertas,
+arranque remoto) si así está equipado para permitir el control.
+3 of 4 01521
+A/3/000001/1 24S37 NI/DTB124S371
+© Copyright 2024 Ford, División de Servicio al Cliente
+
+Servicio móvil El Servicio móvil de Ford se ofrece a través de los concesionarios que participan,
+comuníquese con su concesionario para obtener detalles.
+Servicio de retiro y El servicio complementario de retiro y entrega de vehículos también podría estar
+entrega disponible previa solicitud a través de los concesionarios que participan. Su
+concesionario retirará el vehículo y lo regresará con la reparación realizada.
+¿Necesita un Si su concesionario determina que ciertos DTC están presentes en el PCM y el
+vehículo de alquiler? vehículo debe permanecer en las instalaciones durante la noche, el concesionario
+está autorizado a ofrecerle un vehículo de alquiler para su transporte personal sin
+costo (excepto combustible y seguro) mientras su vehículo se encuentre en
+reparación. Comuníquese con su concesionario para conocer las pautas y
+limitaciones.
+¿Pagó anteriormente Si pagó previamente por la reparación que resuelve el problema que se describe
+por esta reparación? en esta carta, igualmente deberá realizar esta campaña a fin de asegurarse de
+que se utilizó el software más reciente.
+Es posible que cumpla con los requisitos para recibir un reembolso por las
+reparaciones que pagó previamente. Solo se proporcionarán reembolsos por el
+servicio relacionado con ciertos DTC almacenados en el PCM y el reemplazo del
+bastidor moldeado de cables. Para comprobar si cumple con los requisitos y
+agilizar el reembolso, proporcione el recibo de pago original a su concesionario.
+También puede enviar las solicitudes de reembolso directamente a Ford Motor
+Company. Para solicitar un reembolso de Ford, envíe la solicitud de reembolso con
+toda la documentación que se solicita, incluido el recibo original de la reparación
+(no envíe fotocopias), a Ford Motor Company, P.O. Box 6251, Dearborn, Michigan
+48121-6251. El procesamiento de las solicitudes de reembolso que se envían a
+esta dirección puede tardar hasta 60 días. Se le regresará el recibo original.
+Comuníquese con el Centro de Relación con Clientes al 1-866-436-7332 para
+obtener información detallada relacionada con la elegibilidad para el programa de
+reembolso de Ford y los requisitos de documentación.
+¿Qué pasa si ya no Si usted ya no es el propietario del vehículo y tiene la dirección del propietario
+es el propietario del actual, le solicitamos que le reenvíe esta carta.
+vehículo? Usted recibió este aviso porque las regulaciones del gobierno exigen el envío de
+notificaciones al propietario conocido más reciente del registro. Nuestros registros
+se basan principalmente en datos estatales y de propiedad, que indican que usted
+es el propietario actual del vehículo.
+¿Podemos hacer Si tiene problemas para reparar su vehículo de inmediato y sin costo alguno,
+algo más por usted? comuníquese con el Gerente de Servicio de su concesionario para solicitar ayuda.
+PROPIETARIOS MINORISTAS: Si tiene dudas o preguntas, comuníquese con
+nuestro Centro de Relación con Clientes (CRC) Ford al 1-866-436-7332 y uno
+de nuestros representantes con gusto lo atenderá. El CRC está abierto de lunes a
+viernes de 8:00 a.m. a 11:00 p.m. y los sábados de 8:00 a.m. a 8:00 p.m. (hora del
+este). Si es usuario de TTY/TDD, comuníquese con el CRC al número que se
+menciona, mediante el servicio de retransmisión de telecomunicaciones, para esto,
+marque el 711.
+Si desea comunicarse con nosotros a través de Internet, nuestra dirección es
+ford.com/support.
+PROPIETARIOS DE FLOTAS: Si tiene dudas o preguntas, comuníquese con
+nuestro Centro de contacto de Ford Pro al 1-800-34-FLEET, elija la opción n.° 1
+y uno de nuestros representantes con gusto lo atenderá. Si desea comunicarse
+con nosotros a través de Internet, nuestra dirección es fleet.ford.com.
+Los representantes atienden de lunes a viernes de 7:00 a.m. a 11:00 p.m. y
+sábado de 7:00 a.m. a 5:00 p.m. (hora del este).
+Si continúa con dificultades para reparar su vehículo en un tiempo razonable o sin
+cargo, le sugerimos que escriba al Administrador, National Highway Traffic Safety
+Administration, 1200 New Jersey Ave. S.E., Washington, D.C. 20590 o bien que
+llame sin cargo a la línea directa de seguridad vehicular al 1-888-327-4236 (TTY:
+1-800-424-9153) o visite NHTSA.gov. Mencione la Campaña de seguridad 24V444
+de la NHTSA.
+Gracias por su atención en este asunto sumamente importante.
+Ford, División de Servicio al Cliente
+
+4 of 4 01521
+A/4/000001/1 24S37 NI/DTB124S371
+© Copyright 2024 Ford, División de Servicio al Cliente

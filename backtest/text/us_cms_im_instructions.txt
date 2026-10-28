@@ -1,0 +1,34 @@
+**Form Instructions for the Important Message from Medicare (IM) CMS-10065 Page 1 of the Important Message from Medicare (IM) Heading:** Insert contact information here: The name, address and telephone number
+of the hospital or Medicare health plan that delivers the notice must appear above the
+title of the form. The entity’s registered logo is not required, but may be used.
+
+**Patient Name:** Fill in the beneficiary’s/enrollee’s first and last name.
+
+**Patient number:** The Patient number may be a unique medical record or other
+provider-issued identification number. It may not be the Social Security Number, HICN
+or any other Medicare number issued to the beneficiary such as the MBI (Medicare
+Beneficiary Identifier).
+
+**Bullet 3:** Insert the name and toll-free number of the Quality Improvement
+Organization (QIO) for the state in which the hospital is located.
+
+**Page 2 of the Important Message from Medicare Bullet 4:** Insert the name and toll-free number of the QIO for the state in which the
+hospital is located.
+**Bullet 6 (Plans only):** The plan’s name and contact information must be displayed
+here for the enrollee’s use in case an expedited appeal is requested or in the event the
+enrollee or QIO seeks the plan’s identification.
+
+**Additional information (Optional):** This section provides space for additional pertinent
+information that may be useful to the beneficiary/enrollee. It may not be used as a
+Detailed Notice of Discharge, even if facts pertinent to the termination decision are
+provided.
+
+**Signature line:** Have the beneficiary/enrollee or representative sign the notice to
+indicate that he or she has received it and understands its contents.
+
+**Date/Time:** Have the beneficiary/enrollee or representative write the date and time that
+he or she signed the notice. If the document is delivered, but the enrollee or the
+representative refuses to sign on the delivery date, annotate the IM to indicate the date
+and time that the notice was delivered.
+
+Form CMS 10065-IM instructions (Exp. 12/31/2022) OMB approval 0938-1019

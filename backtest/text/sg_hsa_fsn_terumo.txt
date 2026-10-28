@@ -1,0 +1,116 @@
+24 Jul 2019
+
+## FIELD SAFETY NOTICE
+
+**SPECTRA OPTIA ® APHERESIS SYSTEM System Alarm Discontinues Procedure Product Name: Spectra Optia Apheresis System (Spectra Optia) Catalog Number: 61000 No affected unit was sold in Singapore.***
+
+Dear Valued Customer:
+
+Terumo BCT has become aware of an increased prevalence of the “Return pump did not stop”
+alarm occurring in a portion of the Spectra Optia Apheresis System population. Spectra Optia
+systems with the serial numbers listed above could exhibit this alarm improperly, resulting in a
+discontinuation of the procedure.
+
+Terumo BCT is issuing this field safety notice to inform users of the Spectra Optia system about
+this deficiency and to assure that all potentially affected devices are corrected. You are being
+notified of this defect because our records indicate that you have received one or more of the
+identified devices.
+
+This notice advises Spectra Optia operators to observe and respond to all system alarms and
+their resulting on-screen instructions by following good clinical practice:
+▪ Presentation of the “Return pump did not stop” alarm imparts no immediate risk to the
+patient or donor connected to the device.
+▪ This system alarm ends the current procedure without the ability to continue the
+procedure or conduct automated rinseback for an extracorporeal blood volume loss
+based upon the disposable set type.
+▪ Additional patient/donor procedures could be required based on the timing of the alarm
+presentation, either immediately following an interrupted procedure or when
+arrangements can be made to continue therapy.
+
+**ACTIONS BEING TAKEN BY TERUMO BCT**
+
+a) Terumo BCT is taking action by notifying you of this potential defect in a Spectra Optia
+system you have from the list of serial numbers above.
+
+**Terumo BCT, Inc. Terumo BCT Europe N.V. Terumo BCT Asia Pte. Ltd. Terumo BCT Latin America S.A. Terumo BCT Japan, Inc.**
+10811 West Collins Ave. Europe, Middle East and Africa 89 Science Park Drive La Pampa 1517–12 th Floor Tokyo Opera City Tower 49F,
+Lakewood, Colorado 80215-4440 Ikaroslaan 41 #04-25 (Lobby B) C1428DZE 3-20-2, Nishi-Shinjuku,
+USA 1930 Zaventem The Rutherford Buenos Aires Shinjuku-ku, Tokyo 163-1450,
+USA Phone: 1.877.339.4228 Belgium Singapore 118261 Argentina Japan
+Phone: +1.303.231.4357 Phone: +32.2.715.0590 Phone: +65.6715.3778 Phone: +54.11.5530.5200 Phone: +81.3.6743.7890
+Fax: +1.303.542.5215 Fax: +32.2.721.0770 Fax: +65.6774.1419 Fax: +54.11.5530.5201 Fax: +81.3.6743.9800
+Page 1 of 3
+SOFA32-SG-100
+**UNLOCKING THE POTENTIAL OF BLOOD** | **TERUMOBCT.COM**
+
+b) Terumo BCT has identified the cause of this alarm behavior as an artifact of the Pump
+Driver Circuit Card Assembly and will arrange for inspection of all Spectra Optia systems
+with this identified defect.
+c) A member of Terumo BCT’s technical service team will contact you to arrange for
+inspection of any potentially affected devices at your facility. Devices containing this
+defect will be corrected by replacing the Pump Driver Circuit Card Assembly.
+
+**ACTIONS REQUIRED BY HEALTHCARE PROVIDERS AND DISTRIBUTORS**
+
+1. Distribute this notification to all Spectra Optia system users within your organization.
+2. Continue to use your Spectra Optia system(s) in accordance with the operator’s manual
+and the operator training materials.
+
+3. **IMPORTANT** : Complete the attached acknowledgement and fax or email the
+acknowledgement to Terumo BCT by August 30, 2019. Your return of the
+acknowledgement is critical so that we can confirm that you have received the field
+safety notice.
+
+**CONTACT INFORMATION**
+Terumo BCT is dedicated to providing you with the highest quality support and communicating
+information regarding our products. If you have any questions, please contact your Terumo BCT
+representative or your regional Customer Support Center at the following contacts:
+
+▪ Phone: +65 6715 3778
+▪ Fax: +65 6774 1419
+▪ Email: APACSafetyAlert@terumobct.com
+
+Sincerely,
+
+Kelvin Koh
+Director, Regulatory Affairs
+
+*Please note that there may be other affected serial numbers globally. Should the Spectra Optia be
+purchased from an overseas dealer, please verify the serial number with Terumo BCT representative.
+
+Page 2 of 3
+SOFA32-SG-100
+
+**FIELD SAFETY NOTICE ACKNOWLEDGEMENT Spectra Optia Apheresis System: System Alarm Discontinues Procedure Acknowledgement and Receipt Form Response Is Required**
+
+I have read and understood the instructions provided in the letter of 24 Jul 2019. (Please check one box)
+Yes No
+
+I have additional questions. I would like a Terumo BCT representative to contact me. (Please check one
+box)
+Yes No
+
+Are there any adverse events (serious injury or death) associated with system alarm discontinues
+procedure on Spectra Optia that have not been previously reported? (Please check one box)
+Yes No
+
+If yes, please explain:
+
+Affected Serial No(s).:
+
+Facility Name:
+
+Facility Address:
+
+**Acknowledger’s Details**
+
+Print Name: Signature:
+
+Title: Date:
+
+Telephone: Email:
+
+**Please fax this completed form to +65 6774 1419 or email it to APACSafetyAlert@terumobct.com .**
+
+Page 3 of 3
+SOFA32-SG-100

@@ -1,0 +1,10 @@
+{
+ "_note": "Hand-checked Chinese for the letter page. These win over the machine translation in cache/ui/chinese.json.",
+ "scrambled_chip": "文字可能是乱码",
+ "note_scrambled": "此文件的文字看起来是乱码：它的字体隐藏了真正的字，因此姓名、日期和金额可能被读错。请将答案键与打印的信件仔细核对，或从原始文件（例如 Word 文件或网页）复制粘贴文字。",
+ "source_original": "{name} 原文 ↗",
+ "sample_values": "已填入示例信息",
+ "retrieved_on": "{date} 获取。",
+ "read_in": "语言",
+ "translating": "正在翻译…"
+}

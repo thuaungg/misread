@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+
+# Local run output
+results/
+
+# Retired examples
+app/cache/retired/
+excluded/
+
+# Backtest: source PDFs (46 MB, re-downloadable from manifest.json) and scratch
+backtest/raw/
+backtest/lang/
+backtest/cache_before_refresh/
+backtest/results_v*/
+backtest/regression_v*.json
+backtest/summary_v*.md
+backtest/*.log

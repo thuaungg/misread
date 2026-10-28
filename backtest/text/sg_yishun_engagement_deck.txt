@@ -1,0 +1,534 @@
+## The Personal
+
+## Learning Device
+
+## (PLD) Initiative
+
+**Briefing for Parents**
+
+AAA PPPRRREEESSSEEENNNTTTAAATTTIIIOOONNN BBBYYY
+MMMIIINNNIIISSSTTTRRRYYY OOOFFF EEEDDDUUUCCCAAATTTIIIOOONNN,,, SSSIIINNNGGGAAAPPPOOORRREEE
+
+**The National Digital Literacy Programme and the PLD Initiative**
+An Overview
+
+**THE NATIONAL DIGITAL LITERACY PROGRAMME AND PLD INITIATIVE**
+## The National Digital Literacy Programme (NDLP)
+
+1. The NDLP was launched in March 2020 to help students **strengthen their digital literacy and acquire digital skills** needed to navigate an increasingly digitalised
+world.
+
+2. Under the NDLP, every secondary school student will **own a school-prescribed Personal Learning Device (PLD)** . Students may use funds from their Edusave
+Account to pay for the PLD.
+
+**3 THE NATIONAL DIGITAL LITERACY PROGRAMME AND PLD INITIATIVE**
+## Intended Outcomes of the PLD Initiative
+
+The use of the PLD for teaching and learning aims to:
+
+**Support the Development of Support Self-Directed and Enhance Teaching and Digital Literacy Collaborative Learning Learning 4**
+
+## Learning with a PLD
+
+## Yishun Secondary School
+
+Note: The information contained in this deck of slides is customised according to our
+school’s context and the device selected.
+
+**LEARNING WITH A PLD**
+## How will your child/ward use the PLD?
+
+At Yishun Secondary School, your child/ward will be using the PLDs for
+• Active learning in all subjects
+• Collaborative learning with teachers and classmates
+• Self-directed learning anytime, anywhere
+• Home based learning
+• Basic ICT courses and use of digital tools
+
+**6 Supporting Students in the Safe and Effective Use of the Devices SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES Cyber Wellness Concerns Identified by Local Studies/Surveys Harmful Online Gaming and Content associated risks Cyberbullying Excessive social media use 8 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Supporting Students in the Safe and Effective Use of
+## the Devices
+
+The school has measures in place to enable a safer digital environment for
+learning with the use of PLDs, e.g.
+
+• School rules on digital device use
+• Classroom management and routines
+• Cyber Wellness Education in CCE
+• Partnering parents/guardians to support students in their use of technology
+for learning
+• Device Management Application (DMA) to support a safer digital
+environment for learning
+
+**9 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## School Rules on Digital Device Use
+
+• Students are not allowed to use any electronic devices except their personal
+learning device (PLDs) during lesson.
+• Students are discouraged from bringing any electronic devices other that their
+PLDs to school. They are responsible for the safe-keeping of their devices. The
+school will not be responsible for any loss or damages.
+
+**10 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Classroom Management and Routines
+
+**Expectations for Students**
+• Bring fully charged devices and use plds only when instructed for
+educational purposes.
+• Stay on approved apps and websites.
+• Handle devices with care and responsibility.
+
+**How Parents Can Support**
+• Reinforce responsible digital habits.
+• Notify the school of any technical issues.
+
+**11 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Cyber Wellness Education in CCE
+
+**Educating students on Cyber Wellness**
+MOE has made significant changes to the Character and Citizenship Education
+(CCE) curriculum. Cyber Wellness lessons will feature significantly in these
+lessons.
+
+The broad topics covered in Cyber Wellness are:
+• Cyber Use
+• Cyber Identity
+• Cyber Relationships
+• Cyber Citizenship
+• Cyber Ethics
+**12 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Cyber Wellness Education in CCE
+
+Throughout their Secondary School education, students will learn about:
+• Balanced use and self control
+• Cyber bullying and Upstanding
+• How to be a positive influence online
+• How to handle online falsehoods
+• How to manage social media (peer influence, emotions, echo chambers)
+• Online relationship and Online safety (grooming, self disclosure)
+• To respect intellectual property rights
+
+**13 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Cyber Wellness Programmes
+
+In addition to these lessons, through various programmes in school, students will
+continue to learn to be **respectful, safe, and responsible users of technology** .
+
+**14 SUPPORTING STUDENTS IN THE SAFE AND EFFECTIVE USE OF THE DEVICES**
+## Parents’/Guardians’ Role
+
+• We would like to partner parents/guardians so that students are well
+supported in their use of technology for learning.
+
+• As parents/guardians, you can help in the following ways:
+o Model good digital habits for your child/ward e.g. parents/guardians not using devices
+during family meals.
+o Know your child/ward well, and have conversations with your child/ward about safe and
+responsible use of technology.
+o Discuss and come up with ground rules for internet/device usage that both your
+child/ward and you can agree with.
+o Encourage your child/ward to use productivity tools using his/her PLD, to organise
+information and simplify tasks for efficiency.
+
+**15 Role of the DMA in Providing a Safer Digital Environment for Learning PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## DMA Installation
+
+• The Chromebook Device Management Application (DMA) solution, **Lightspeed Systems®,** will be installed on all students’ devices to provide a safe learning
+experience for students. The DMA will be funded by MOE.
+
+• DMA will be installed after the collection of the device. Students will be guided on the
+installation.
+
+• The installation of DMA applies to both devices purchased through the school and any
+student-owned devices that parents/guardians opt for the student to use in lieu of the
+school-prescribed PLD.
+
+• The DMA will be uninstalled from the device when students graduate or leave the
+school.
+
+**17 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## In-School DMA Settings (Default)
+
+Schools will determine DMA settings for **in-school use** . As a default, these
+settings will continue to be in place after school as well:
+• MOE and the school will set the level of web content filtering, including filtering
+objectionable content or content that may not be conducive to teaching and learning
+(e.g. social media, pornography, gambling, or websites containing extremist content).
+• School hours is defined to be from **6 am to 4 pm.** and after school hours would be
+from **4 pm to 11 pm.** The device will shut down at **11 pm** by default.
+• The school will determine the applications and programs to be installed to support
+teaching and learning.
+
+**18 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## After-School DMA Parent Options
+## 1. After-School DMA Parent Options provide parents with the flexibility in
+## managing your child’s/ward’s use of PLD after school hours.
+## 2. The following tables outline the different levels of restrictions, controls, and
+## monitoring for each After-School DMA Parent Option .
+
+**Default Option A Option B In-school DMA settings will DMA settings can be modified by DMA will be inactive** * **after school continue after school Parents/Guardians after school hours hours hours**
+For parents/guardians who want their For parents/guardians who prefer to For parents/guardians who do not want
+child’s/ward’s use of the device to be take charge of the level of restrictions their child’s/ward’s use of the device
+restricted only to teaching and for their child’s/ward’s use of the after school hours to be regulated by
+learning, and prefer to leave it to the device after school hours regulated by the DMA at all.
+school to decide on DMA settings after the DMA.
+school hours.
+
+*No data will be collected after school hours when the DMA is inactive.
+• Having default school settings continue after school hours is the best option for parents/guardians who prefer not to, or do not feel ready
+to manage their child’s/ward’s device use on their own.
+• Parents/guardians can request to change their choice of DMA settings, which is the existing practice. **19 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING** Chromebook PLD
+## After-School DMA Parent Options
+
+## Default Setting Alternative Setting: Option A Alternative Setting: Option B
+**(This will apply if no (DMA settings can be modified from (DMA will be inactive only after Alternative Setting is chosen) the Default settings in place) school hours) Protect** Web content filtering will Parents/Guardians will be able to No content filtering at all after school
+**students from** include, but not limited to the include additional web content filtering hours.
+**objectionable** following categories: by submitting a request to the school.
+**content** • Violent/extremist content
+• Sexual/pornographic
+content
+• Gambling-related content
+**Reduce** Parents/Guardians and Parents/Guardians will be able to install Parents/Guardians and/or students
+**distractions** students will be unable to additional applications by submitting a will be able to install additional
+**from learning** request to the school.
+install additional applications. applications after school hours.
+**through control of** Applications will be accessible both
+during and after school hours. Applications installed by
+**applications**
+parents/guardians and/or students
+after school hours will not be
+accessible during school hours.
+**20 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING** Chromebook PLD
+## After-School DMA Parent Options
+
+## Default Setting Alternative Setting: Option A Alternative Setting: Option B
+**(This will apply if no (DMA settings can be modified from (DMA will be inactive only after Alternative Setting is chosen) the Default settings in place) school hours) Limit screen** The school will define the Parents/Guardians can: No control over screen time.
+**time** specific hours during which the • modify the amount of screen time
+device is allowed to access the
+for their child/ward by submitting a
+internet.
+request to the school*;
+• turn their child's/ward’s web
+browsing on or off, controlling
+whether the PLD can access the
+internet; and
+• allow/disallow certain categories of
+web access.
+*Parents would have to choose from a range of pre-determined hours and submit their request to the school. Screen time limits set by the school will
+override parents’/guardians’ settings during school hours.
+
+**21 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING** Chromebook PLD
+## After-School DMA Parent Options
+
+## Default Setting Alternative Setting: Option A Alternative Setting: Option B
+**(This will apply if no (DMA settings can be modified from (DMA will be inactive only after Alternative Setting is chosen) the Default settings in place) school hours) Monitor** Parents/Guardians will not be Parents/Guardians can track their Parents/Guardians will not be able to
+**students’ cyber** able to track their child’s/ward’s browser history. monitor or control their child’s/ward’s
+**activities** child’s/ward’s browser history. use of the device through the DMA.
+
+**Provision of Parent Account X X 22 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Support for Parents/Guardians
+
+## Parents/guardians may wish to consider the following questions to decide the After-
+## School DMA Parent Option that best suits your child/ward.
+
+**A. Child’s/ward’s current device usage habits B. Parents’/Guardians’ involvement**
+• How much time does my child/ward spend on their • How confident and familiar am I with managing my
+device? child’s/ward’s cyber wellness?
+• How well is my child/ward able to regulate their device • Are there existing routines and open conversations on
+usage on their own? the use of the Internet at home?
+• Does my child/ward get easily distracted while doing • Am I aware of how to prevent different types of cyber
+online learning? threats that my child/ward might face?
+
+**23 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Supporting Resources
+Parents/guardians play a crucial role in guiding your child/ward to use devices responsibly and safely.
+DMA complements your efforts in supporting your child/ward as they navigate the digital space.
+Here are some resources that you can refer to:
+**B. Bite-size tips and advice via C. Resources from MOE and other A. Parent Kit Parentingwith.MOEsg Instagram ​ agencies** (available on resources
+repository in Parents Gateway)
+
+**24 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Supporting Resources
+
+**D. Parenting for Wellness Toolbox for Parents E. More resources are available via MOE Cyber Wellness Webpage**
+The following extracted quick tips and strategies have
+been shared to you via Parents Gateway. Click on the
+pink header to download the full suite of resources of
+the Toolbox.
+
+**25 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Supporting Resources
+
+**F. Parent Handbooks (I) and (II) on Learning with a Personal Learning Device**
+These Handbooks provide tips on supporting your child in the use of PLDs for learning
+and are shared via the PG notification together with the letter to purchase PLDs.
+
+**26 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Data Collected by the DMA
+
+1. The DMA does **NOT** collect any of the following data:
+• Login IDs and passwords entered into websites or into any applications
+• Actions performed (e.g. posts, online comments, items added to a shopping cart, etc.)
+when visiting websites and using apps
+• Documents and photos stored in the PLDs
+• PLD location
+• Webcam videos and microphone recordings
+
+2. Parents may request corrections to their personal data (e.g. email addresses,
+names) by contacting the school, in accordance with the Personal Data and
+Protection Act (PDPA).
+
+**27 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Data Security
+
+• All user data collected through the DMA will be stored in secure servers
+managed by appointed DMA Vendors with stringent access controls and audit
+trials implemented. The DMA solutions used are cloud-based Software-as-a-
+Service (SaaS) solutions and are trusted solutions that have been operating for
+many years. They have also been subject to regular security review and
+assessment by independent reviewers.
+
+**28 PROVIDING A SAFER DIGITAL ENVIRONMENT FOR LEARNING**
+## Data Security
+
+• DMA solutions have sufficient security robustness to ensure data collected are
+properly stored and protected. MOE will also subject the DMA Vendors to
+regular audit on the security of the system based on tender requirements.
+
+• To prevent unauthorised access, DMA Administrators and DMA Vendors will be
+required to access their accounts using 2-factor authentication or the
+equivalent to ensure proper accountability for information access and other
+activities performed. There will be regular account reviews and audits for DMA
+Administrators’ and DMA Vendors’ accounts.
+
+**29 Device and Funding Information DEVICE FUNDING AND INFORMATION**
+## Yishun Secondary School’s PLD
+
+The school will be using the **Acer Chromebook Spin R857TN** for
+teaching and learning.
+Total cost of the bundle includes 1/3-
+year warranty and 1/3-year insurance
+with GST: $ **570.00**
+
+- 12.2" WUXGA Touch| Dual
+Cameras | Mil-Std810
+- Processor: Intel 150
+- Memory (GB): 8GB LPDDR5 RAM
+- Storage (GB): 64GB eMMC
+**31 DEVICE FUNDING AND INFORMATION**
+## Yishun Secondary School’s PLD
+
+The school chose the device because of:
+• Portable
+• > 10 hours battery life
+• Multi-touchscreen
+• Built-in stylus (inking function)
+• Video recording
+• Google Apps are integrated into
+ChromeBooks
+- **Model:** Acer Chromebook Spin R857TN • **Add-on/Accessories Item(s):**
+- Processor: Intel 150 - USB Type-C Earpiece w/Mic
+- Memory (GB): 8GB LPDDR5 RAM
+- Storage (GB): 64GB eMMC
+**- Enhanced Bundle Warranty: 3-Year Carry-in Warranty - Enhanced Bundle Insurance: 3-Year Insurance 32 DEVICE FUNDING AND INFORMATION**
+## PLD Bundle
+
+**Device Bundle includes**
+- Model: Acer Chromebook Spin R857TN
+- Processor: Intel N150
+- Memory (GB): 8GB LPDDR5 RAM
+- Storage (GB): 64GB eMMC
+Power Adaptor, Mouse, Stylus, Carrier Bag
+• USB Type-C earpiece w/Mic
+
+Your child’s/ward’s PLD will come with the **Enhanced Device Bundle** which includes:
+• 3-year warranty and
+• 3-year insurance (which includes 2 repairs or 1 replacement claim)
+
+Please note that the price of the PLD Bundle may appear to be higher than similar models on the
+retail market as the price of those devices usually does not include extended warranty and
+insurance coverage.
+**33 DEVICE FUNDING AND INFORMATION**
+## Insurance Coverage
+
+The package includes a a 3-year warranty, and 3-year insurance* which includes:
+
+**Insurance Coverage Claimable**
+• Fire *2 repairs or 1 replacement claim
+• Lightning (3-year insurance)
+• Power Surges
+• Accidental e.g water spillage, drop etc
+• Theft due to forcible entry
+• Robbery
+
+* Accidental loss will not be covered by insurance.
+
+**34 DEVICE FUNDING AND INFORMATION**
+## Technical Support for Students’ Devices
+
+Technical support will be provided to students through:
+• Service Desk set up in school during breaks and after school on a weekly basis
+• Troubleshooting of device issues
+• Solve connectivity issues
+• Collection of devices to be sent for repairs
+• Acer's service centres
+• Information can be found here:
+https://www.yishunsec.moe.edu.sg/parents/pdlp/
+
+**35 DEVICE FUNDING AND INFORMATION**
+## Funding Support for Singapore Citizen (SC) Students
+
+• **The cost of the device bundle can be paid using your child’s/ward’s Edusave account,** after setting aside provision for payment of miscellaneous fees.
+
+• To ensure the affordability of devices, MOE has provided additional Edusave top-
+ups of $200 in 2020 to 2022, and $300 in 2023, to all eligible Singaporean
+students in primary and secondary schools.
+
+• This is on top of the annual $290 credited into the Edusave account for
+Secondary School students and $230 for Primary School students.
+
+**36 DEVICE FUNDING AND INFORMATION**
+## Funding Support for Singapore Citizen (SC) Students
+
+• For SC students who are on MOE Financial Assistance Scheme or whose family’s
+monthly income meets the following criteria:
+Gross Household Income (GHI) ≤ $3,000, or
+Per Capita Income (PCI) ≤ $750
+MOE will subsidise 50% of device bundle cost or $350, whichever is lower.
+
+• The remaining amount will be payable from the students’ Edusave account. If
+there is insufficient balance in the students’ Edusave account for the remaining
+amount, MOE will provide additional subsidy so that the cash out-of-pocket
+(OOP) is $0.
+
+**37 DEVICE FUNDING AND INFORMATION**
+## Funding Scenario: Student A (SC)
+
+**Student A (SC on MOE FAS)**
+GHI ≤ $3,000 or PCI ≤ $750
+Device Bundle Cost **$570.00**
+Student Subsidy (50%) **$285.00**
+Available Edusave Balance $200.00 before deduction
+(After setting aside for misc fees) $200.00 will be deducted
+12.2” Acer
+Additional Subsidy **$85.00**
+Chromebook Spin
+R857TN Cash Out-of-pocket $0.00
+$570
+For more details on financial assistance, please approach the school.
+Each student would receive a personalised bill subsequently.
+
+**38 DEVICE FUNDING AND INFORMATION**
+## Funding Support for Singapore Citizen (SC) Students
+
+• For SC students whose family’s monthly income is:
+$3,000 < Gross Household Income (GHI) ≤ $4,400, or
+$750 < Per Capita Income (PCI) ≤ $1,100
+MOE will subsidise 30% of device bundle cost or $200, whichever is lower.
+
+• The remaining amount will be payable from the students’ Edusave account. If
+there is insufficient balance in the students’ Edusave account for the remaining
+amount, MOE will provide additional subsidy so that the cash out-of-pocket
+(OOP) is not more than $50.
+
+**39 DEVICE FUNDING AND INFORMATION**
+## Funding Scenario: Student B (SC)
+
+**Student B (Non MOE-FAS SC from lower income family)**
+$3,000 < GHI ≤ $4,400 or $750 < PCI ≤ $1,100
+Device Bundle Cost **$570.00**
+Student Subsidy (30%) **$171.00**
+Available Edusave Balance $200.00 before deduction
+(After setting aside for misc fees) $200.00 will be deducted
+12.2” Acer
+Additional Subsidy **$149.00**
+Chromebook Spin
+R857TN Cash Out-of-pocket **$50.00**
+$570
+For more details on financial assistance, please approach the school.
+Each student would receive a personalised bill subsequently.
+
+**40 DEVICE FUNDING AND INFORMATION**
+## Funding Support for Singapore Citizen
+## (SC) Students
+
+• SC students whose family’s monthly Gross Household Income (GHI) > $4,400 or
+monthly Per Capita Income (PCI) > $1,100, no subsidy will be provided.
+Parents/Guardians can use their child’s/ward’s Edusave or cash to defray the
+device bundle cost.
+
+**41 DEVICE FUNDING AND INFORMATION**
+## Funding Scenario: Student C (SC)
+
+**Student C (Not Eligible for Subsidy)**
+GHI > $4,400 or PCI > $1,100
+Device Bundle Cost **$570.00**
+Available Edusave Balance $200.00 before deduction
+(After setting aside for misc fees) $200.00 will be deducted
+Cash Out-of-pocket **$370.00**
+12.2” Acer
+Chromebook Spin For more details on financial assistance, please approach the school.
+R857TN Each student would receive a personalised bill subsequently.
+$570
+
+**42 What’s Next? WHAT’S NEXT?**
+## Parental Consent for Procurement
+
+1. Parents can access the **Parental Consent for the Purchase of Personal Learning Device (PLD)** via a Parents Gateway (PG) notification* that will be sent to you on
+**13 January 2025** .
+2. Parents who want to use Edusave funds for the PLD (for Singapore Citizens
+students only), please submit the online Standing Order Form via this link:
+https://go.gov.sg/edusaveformsgso by **19 January 2025** if you have not done so
+previously.*
+
+* Parents/Guardians without access to PG can request for the hardcopy letter via your child’s/ward’s form teacher. **45 WHAT’S NEXT?**
+## For Singapore Citizens (SC) Students
+
+**Time Frame Activity**
+13 to 19 January 2025 1. Submit:
+a. consent to PLD purchase via in the PG notification which
+includes the following:
+• Intent to Purchase Personal Learning Device (PLD);
+• Authorisation Form for the Collection of PLD
+b. the Standing Order (SO) for the use of Edusave Account via
+https://go.gov.sg/edusaveformsgso (for Singapore Citizen
+students only) if you have not done so previously.
+Parents without access to PG can submit their consent via hardcopy.
+March/April 2025 Collection of devices by students
+
+**46 WHAT’S NEXT? For Singapore Citizens (SC) Students 47 WHAT’S NEXT?**
+## For Permanent Residents / International
+## Students
+
+**Time Frame Activity**
+13 to 19 January 2025 1. Submit consent to PLD purchase which includes the following:
+• Intent to Purchase Personal Learning Device (PLD);
+• Authorisation Form for the Collection of PLD
+
+February 2025 Parent/Guardian to make payment via Giro/PayNow
+March/April 2025 Collection of devices by students
+
+**48 WHAT’S NEXT?**
+## Collection of Devices
+
+Your child/ward will be collecting his/her device in school **from mid of Term 2.**
+If you would like to personally/have another adult to verify the condition of
+the device during collection with your child/ward:
+• You may arrange to collect the device **at the vendor's service/collection centre*** or appoint an adult proxy to do so.
+• Your child/ward would need to bring the device to school and arrange for
+the school’s IT department to install the DMA.
+
+Please approach the school for further advice or clarification if you would like
+to make this arrangement.
+*Parents/Guardians (or adult proxy) will **not** be able to collect the PLD from the school.
+
+**49 WHAT’S NEXT?**
+## Important Contacts / Helplines
+
+**To access / find out more about… Contact / Helpline**
+This deck of slides https://www.yishunsec.moe.edu.sg/parents/
+pdlp/
+Edusave balance 68767129
+Financial assistance 68767129
+
+**50 Thank you**

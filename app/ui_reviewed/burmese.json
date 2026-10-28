@@ -1,0 +1,12 @@
+{
+ "_note": "Hand-checked Burmese for the letter page. These win over the machine translation in cache/ui/burmese.json.",
+ "read_in": "ဘာသာစကား",
+ "translating": "ဘာသာပြန်နေသည်…",
+ "source_original": "{name} မူရင်း ↗",
+ "readings_n": "{done}/{total} ဖတ်ချက်များ",
+ "starting": "စတင်နေသည်",
+ "view_phone_note": "ဖုန်း — ပထမ မျက်နှာပြင်သာ၊ အောက်သို့ မဆွဲကြည့်ပါ",
+ "opt_some": "အချို့ကိစ္စများတွင်သာ",
+ "fix_pitch": "ပြောင်းလဲမှု အသေးလေးများ ဆယ့်နှစ်ခုခန့် စမ်းကြည့်သည်။ သင့်စကားလုံးများကို မပြောင်းလဲဘဲ ဆက်ထားသည်။",
+ "ck_phone_no_detail": "စာ၏ {total} လုံးအနက် {pos} လုံးမြောက်တွင် စတင်သည်။ ဖုန်းတွင် လူများသည် ပထမ {limit} လုံးခန့်သာ မြင်ရသည်။ ထို့ကြောင့် ၎င်းကို အပေါ်ဆုံးတွင် ထားပါ။"
+}

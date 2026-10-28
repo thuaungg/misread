@@ -1,0 +1,6 @@
+{
+ "_note": "Hand-checked Thai for the letter page. These win over the machine translation in cache/ui/thai.json.",
+ "read_in": "ภาษา",
+ "translating": "กำลังแปล…",
+ "source_original": "ต้นฉบับ {name} ↗"
+}

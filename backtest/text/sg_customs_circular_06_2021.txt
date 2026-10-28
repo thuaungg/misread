@@ -1,0 +1,320 @@
+**SINGAPORE CUSTOMS**
+
+Circular No: 06/2021
+
+19 Jul 2021 (Updated on 08 Apr 2025)
+
+All Traders and Declaring Agents
+
+Dear Sir/Madam
+
+**ADVISORY: ACCURATE DECLARATION OF PERMIT FIELDS FOR THE IMPORT AND EXPORT OF GOODS**
+
+Singapore Customs would like to remind all Traders and Declaring Agents (DAs)
+on the importance of accurate declaration of all permit fields for the import and export of
+goods. We would like to share some of the requirements involving the following permit
+fields:
+
+a) **Harmonised System (HS) Code:** You should declare the correct 8-digit HS
+codes based on your goods description at the permit line item. For a shipment
+with multiple items, items that are classified under different HS codes should
+be declared as separate line items in the declaration, even though the goods
+may come from the same supplier.
+
+You may use the HS/CA product code search engine available at the
+TradeNet ® website
+(https://www.tradenet.gov.sg/tradenet/portlets/search/searchHSCA/searchIn
+itHSCA.do) to search for the HS code of a particular product, and check
+whether an item is controlled or not.
+
+b) **Goods Value** : The value of goods declared in Singapore dollars must be
+based on **commercial invoice(s)** (instead of proforma invoices, etc.) and
+relevant supporting documents to substantiate the value.
+
+Page 1 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+i) Generally, the taxable value on imported goods is calculated based
+on the cost, insurance and freight (CIF) value and all other charges
+(e.g. commissions and brokerage, packing costs, assists, royalties
+and licence fees, etc.) incidental to the sale and delivery of the goods
+into Singapore. For dutiable goods, the Goods and Services Tax
+(GST) payable is computed based on the CIF value plus all incidental
+charges including the Customs/Excise duty payable. For non-dutiable
+goods, the GST payable is computed based on the CIF value plus all
+incidental charges.
+
+ii) For exports, please declare the goods value in FOB INCOTERMS (i.e.
+cost + inland freight).
+
+iii) You may refer to Circular No: 09/2012 for replacement goods,
+samples, gifts or free-of-charge items.
+
+iv) To convert foreign currency into Singapore dollars, please refer to
+Singapore Customs website > E-Services > Exchange Rates.
+
+c) **Goods Description:** The description of goods declared should provide a
+clear indication of the goods. In the “Item Description” field in the permit
+applications, please declare the specific description of the goods as detailed
+in the supporting documents such as commercial invoice(s), instead of
+generic or uninformative details as the description for your goods (e.g.
+abridged HS code description, model number of goods, etc.).
+
+d) **HS Quantity and Unit:** Items should be declared based on the unit of quantity
+of the respective HS code, e.g. the unit of quantity for electronic integrated
+circuits (memories, HS code 85423200) is in “MIL”, i.e. unit of one thousand.
+For HS codes with unit of quantity in “VAL”, you are required to declare the
+valid Unit of Measurement (UOM) based on the measurement specified in
+your commercial invoice.
+
+e) **Country/Region of Origin (COO):** This should be declared based on where
+the items are produced/manufactured. For controlled goods, please comply
+with the declaration requirements specified by the relevant Competent
+Authorities.
+
+f) **Country/Region of Final Destination:** Indicate the country where the goods
+are finally destined to.
+
+Page 2 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+g) **Preferential Indicator:** When declaring export permit, “PRI” is required to be
+selected under the “Preferential Indicator” field if the overseas importer would
+be claiming preferential tariff treatment on the goods.
+
+i) Generally, the exporter would have made out the origin declaration or
+certification on the invoice or commercial document which certifies
+that the goods qualify as originating goods under the Free Trade
+Agreements (FTA) that Singapore is a party to. For such occurrences,
+it is mandatory to select “PRI”.
+
+ii) You may refer to Circular No: 12/2018 for the declaration procedures
+on goods claiming preferential tariff treatment at Singapore’s FTA
+partners under self-certification or self-declaration scheme.
+
+h) **Importer/Exporter UEN (Unique Entity Numbers):** This should be declared
+based on the company UEN. Generic UENs are only allowed to be used for
+the following:
+
+i) 99991000000G (Transit UEN) - Import or export of goods in transit
+through Singapore by Peninsular Malaysian companies;
+
+ii) 99999000000N (Used Personal Effects UEN) - Import or export of
+used household items and personal effects which are not subject to
+control; and
+
+iii) 99999990000C (Miscellaneous UEN) - Import or export goods
+(including goods subject to control) by individuals for non-commercial
+purposes.
+
+You may refer to Circular No: 11/2014 for more details.
+
+**Submission of Supporting Documents and Responding to Queries from Singapore Customs within Stipulated Time**
+
+2. To facilitate Customs’ permit verification, we urge you to ensure the following:
+
+a) Prompt response to Customs’ queries pertaining to the permit declaration
+and/or supporting documents; and
+
+b) Timely submission of approved Customs permit(s) and supporting documents
+such as commercial invoice(s), bill(s) of lading/air waybill(s), packing list(s),
+etc upon Customs’ request or as stipulated in the permit conditions.
+
+Page 3 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+i) Traders and DAs are required to maintain records of your
+transactions, including all supporting documents for a period of 5
+years.
+
+ii) You may refer to Circular No: 10/2010 and visit Singapore Customs
+website > Businesses > New Traders and Registration Services >
+Registration Services > Apply / Update / Renew / Terminate Declaring
+Agent (DA) Account and Declarant > Terms and Conditions for DAs
+and Declarants, on the responsibilities of DA and declarants.
+
+**Permits Requirements for Clearance of Goods**
+
+3. You should ensure that the requisite Customs permits are approved before the
+goods are presented for clearance at the checkpoints. For controlled goods (including
+consolidated cargo), you should ensure that all requisite licences and permits are
+approved by the Competent Authorities before import, export or transshipment of the
+goods.
+
+**Comply With Permit Conditions**
+
+4. As permit conditions vary according to permit types, you are required to read and
+comply with the permit conditions for clearance of goods (such as producing the goods
+at the relevant checkpoints for clearance, goods released from the 1st checkpoint are
+to be cleared at the 2nd checkpoint within 24 hours, etc) to ensure that goods imported
+into, exported from or transhipped via Singapore are properly accounted for.
+
+**Validity of Permits and Un-utilised Permits**
+
+5. Approved permit applications are issued with a validity period. You should ensure
+the validity of the permits when importing, exporting and transhipping goods. If you are
+unable to utilise the permit within the validity period, please apply for the extension of
+permit validity in TradeNet. Alternatively, you may wish to cancel the permit and re-apply
+for a new permit.
+
+Page 4 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+**Offences and Penalties**
+
+6. We would like to remind you that it is the responsibility of all Traders and DAs to
+ensure the accuracy and completeness of the information declared to Customs. Traders
+and DAs must promptly provide the required documents/information upon Customs’
+request within the stipulated time. Failure to make a declaration, incorrect declaration
+and/or refusal to produce trade documents upon demand are offences under the
+Customs Act and Regulation of Imports and Exports Act. Any person found to have
+committed an offence would be penalised.
+
+Yours faithfully
+
+Jeanine Ho
+Head Permits Compliance
+for Director-General of Customs
+Singapore Customs
+
+( This is a computer-generated circular. No signature is required.)
+
+We hope that this circular has been written in a way that is clear to you. If not, please let us have
+suggestions on how to improve this circular at customs_tnreq@customs.gov.sg.
+
+Page 5 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+**UPDATE OF CIRCULAR BY SINGAPORE CUSTOMS Circular No. 06/2021: ADVISORY: ACCURATE DECLARATION OF PERMIT FIELDS FOR THE IMPORT AND EXPORT OF GOODS (dated 19/07/2021)**
+
+Paragraph Current Details Updated Details Date of
+Update
+1(a) You may use the HS/CA product code You may use the HS/CA product code 13 Mar
+search engine available at the search engine available at the TradeNet ® 2025
+TradeNet ® website website
+(https://www.tradenet.gov.sg/tradenet/ (https://www.tradenet.gov.sg/tradenet/portle
+portlets/search/searchHSCA/searc ts/search/searchHSCA/searchInitHSCA.do)
+hInitHSCA.do) to search for the HS to search for the HS code of a particular
+code of a particular product, and check product, and check whether an item is
+whether an item is controlled or not. controlled or not.
+
+1(d) **HS Quantity and Unit:** Items should be **HS Quantity and Unit:** Items should be 13 Mar
+declared based on the unit of quantity of the declared based on the unit of quantity of the 2025
+respective HS code, e.g. the unit of quantity respective HS code, e.g. the unit of quantity
+for electronic integrated circuits (memories, for electronic integrated circuits (memories,
+HS code 85423200) is in “MIL”, i.e. unit of HS code 85423200) is in “MIL”, i.e. unit of
+one thousand. For HS codes with unit of one thousand. For HS codes with unit of
+quantity in “VAL”, you are required to quantity in “VAL”, you are required to
+declare the valid Unit of Measurement declare the valid Unit of Measurement
+(UOM) based on the measurement (UOM) based on the measurement
+specified in your commercial invoice. E.g. specified in your commercial invoice.
+“STK” for sticks, “BOT” for bottles.
+
+1(f) This should be declared based on Indicate the country where the goods are 08 Apr
+consignee address in the commercial finally destined to. 2025
+invoice.
+Page 6 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+1(h) - h) **Importer/Exporter UEN (Unique** 13 Mar
+**Entity Numbers):** This should be 2025
+declared based on the company UEN.
+Generic UENs are only allowed to be
+used for the following:
+
+i) 9999100000G (Transit UEN) -
+Import or export of goods in transit
+through Singapore by Peninsular
+Malaysian companies;
+
+ii) 9999900000N (Used Personal
+Effects UEN) - Import or export of
+used household items and personal
+effects which are not subject to
+control; and
+
+iii) 99999990000C (Miscellaneous
+UEN) - Import or export goods
+(including goods subject to control) by
+individuals for non-commercial
+purposes.
+
+You may refer to Circular No: 11/2014 for
+more details.
+
+3 We would like to remind you that it is the **Permits Required for Clearance of Goods** 13 Mar
+responsibility of all Traders and DAs to 2025
+ensure the accuracy and completeness of 3. You should ensure that the requisite
+the information declared to Customs. Customs permits are approved before the
+Traders and DAs must promptly provide the goods are presented for clearance at the
+required documents/information upon checkpoints. For controlled goods (including
+Page 7 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+Customs’ request within the stipulated time. consolidated cargo), you should ensure that
+Failure to make a declaration, incorrect all requisite licences and permits are
+declaration and/or refusal to produce trade approved by the Competent Authorities
+documents upon demand are offences before import, export or transshipment of
+under the Customs Act and Regulation of the goods.
+Imports and Exports Act. Any person found
+to have committed an offence would be
+penalised.
+
+4 - **Comply With Permit Conditions** 13 Mar
+2025
+4. As permit conditions vary according to
+permit types, you are required to read and
+comply with the permit conditions for
+clearance of goods (such as producing the
+goods at the relevant checkpoints for
+clearance, goods released from the 1st
+checkpoint are to be cleared at the 2nd
+checkpoint within 24 hours, etc) to ensure
+that goods imported into, exported from or
+transhipped via Singapore are properly
+accounted for.
+
+5 - **Validity of Permits and Un-utilised** 13 Mar
+**Permits** 2025
+
+5. Approved permit applications are
+issued with a validity period. You should
+ensure the validity of the permits when
+importing, exporting and transhipping
+goods. If you are unable to utilise the permit
+within the validity period, please apply for
+Page 8 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg
+
+the extension of permit validity in TradeNet.
+Alternatively, you may wish to cancel the
+permit and re-apply for a new permit.
+
+6 - **Offences and Penalties** 13 Mar
+2025
+6. We would like to remind you that it is
+the responsibility of all Traders and DAs to
+ensure the accuracy and completeness of
+the information declared to Customs.
+Traders and DAs must promptly provide the
+required documents/information upon
+Customs’ request within the stipulated time.
+Failure to make a declaration, incorrect
+declaration and/or refusal to produce trade
+documents upon demand are offences
+under the Customs Act and Regulation of
+Imports and Exports Act. Any person found
+to have committed an offence would be
+penalised.
+
+Page 9 of 9
+1 Bulim Drive, Customs Operations Command, Singapore 648171 Tel: (65) 6908 1791
+E-mail: customs_tnreq@customs.gov.sg Website: www.customs.gov.sg

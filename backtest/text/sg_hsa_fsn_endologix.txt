@@ -1,0 +1,464 @@
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+August 08, 2018
+
+**Urgent: Important Safety Update**
+Medical Device Correction for the AFX ® Endovascular AAA System
+
+Dear Physician,
+cc: Chairman Medical Board
+Relevant Head of Departments
+
+This letter provides important information related to the AFX Endovascular AAA System (AFX System)
+which is intended for the endovascular treatment of patients with abdominal aortic aneurysms (AAA). In
+previous safety updates, Endologix has provided information on the rates of Type III endoleaks and
+suggestions for patient surveillance and treatment. This notification provides the following additional
+information:
+
+1) Update on Type III endoleak rates (Appendix 1)
+2) Refined patient-tailored surveillance recommendations (Appendix 2)
+3) Sizing recommendations for AFX with Duraply, which align with the AFX2 with Duraply IFU sizing
+recommendations (Appendix 3) 1
+4) Recommendations for intervening through an AFX device or re-intervening on an AFX device
+(Appendices 4 and 5, respectively)
+Please note this notice provides updated information and revisions to the Instructions for Use (IFU) to
+enhance patient safety. No product return is required. The Regulatory Agency of your country have been
+notified of this safety notice.
+
+**Update on Type III Endoleak Rates**
+Type III endoleaks may cause increased pressure within the aneurysm sac that could increase the risk of
+aneurysm rupture and patient death. Investigations into Type III endoleaks have identified the following
+associations:
+
+ Inadequate component overlap at the index procedure
+ Lateral movement in large or tortuous aortas leading to reduction or loss of component overlap and/or
+implant stability
+ Use of an excessively oversized proximal extension relative to the bifurcated main body device
+ Procedural factors such as extensive guidewire/catheter manipulation or aggressive balloon molding
+ Off-label use (especially in highly calcified anatomy)
+ Implant of other manufacturer’s devices as proximal extensions
+As explained in previous communications, Endologix has taken a number of actions in recent years to address
+Type III endoleaks with the AFX System. These have included changes to the system’s Instructions for Use
+(IFU) as well as product modifications intended to help prevent the occurrence of Type III endoleaks such as
+changing from the original graft material processing referred to as Strata (AFX System with Strata) to an
+improved process known as Duraply™ (AFX System with Duraply™), and introduction of the AFX ® 2
+Bifurcated Endograft System manufactured with Duraply (AFX2 System with Duraply). Endologix has been
+monitoring the effectiveness of these changes through its complaint monitoring system and, as shown in
+Appendix 1, the reported Type IIIa and IIIb endoleak estimated complaint rates at equivalent time points past
+1-year have been lower for the AFX System with Duraply and AFX2 System with Duraply compared to the
+AFX System with Strata, which has been discontinued and was removed from the field in December 2016.
+
+1 Not all iterations of the AFX System are available in all regions.
+
+August 2018 1
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+Note that the estimated complaint rates are calculated based on voluntary complaint reporting and units sold,
+which may underestimate the true event rate on a per patient basis.
+
+**Patient-Tailored Surveillance Recommendations**
+As described in previous updates, all AFX patients require life-long, regular follow-up to assess the
+performance of their endovascular implant. Therefore, at a minimum, Endologix recommends that high-
+resolution CT scan imaging (contrast-enhanced and non-contrast) be performed at one month, six months, one
+year, and annually thereafter.
+
+In addition to these general surveillance recommendations, and in line with the clinical practice guidelines
+published by the Society of Vascular Surgeons (SVS) and the European Society of Vascular Surgeons (ESVS)
+recommending personalized surveillance regimens 2,3 , Endologix is providing information to assist physicians
+in tailoring follow-up for patients. These recommendations are provided in Appendix 2.
+
+**Device Sizing Recommendations**
+As described in previous updates, the AFX2 Sizing Algorithm may mitigate the identified contributing factors
+and help prevent the occurrence of Type III endoleaks. This sizing algorithm was included in the AFX2 with
+Duraply IFU at the time of its commercial release in February 2016 and is being added to the AFX with
+Duraply IFU for consistency across platforms. These sizing recommendations are provided in Appendix 3.
+
+**Guidelines on Intervention Through or Re-intervention On an AFX Device**
+Endologix recognizes there may be a clinical need to either perform an intervention through a previously
+implanted AFX device (e.g., to gain vascular access for a coronary procedure), or a re-intervention on such a
+device (e.g., for treatment of a Type III endoleak). As illustrated in **Figure 1** , the AFX implant has a unique
+endoskeleton design where the ePTFE is only attached to the most proximal and distal stent apices of the
+implant. The ePTFE is not attached to the stent cage throughout its entire length.
+
+**Figure 1: AFX Implant Design**
+
+*Note: Figure 1 above corresponds to Figure 16 of the IFU
+
+2 Chaikof, Elliot L., et al. “The Society for Vascular Surgery Practice Guidelines on the Care of Patients with an Abdominal Aortic Aneurysm.” Journal
+of Vascular Surgery, vol. 67, no. 1, Jan. 2018, pp. 2–77.e2.
+3 Moll, F.l., et al. “Management of Abdominal Aortic Aneurysms Clinical Practice Guidelines of the European Society for Vascular
+Surgery.” European Journal of Vascular and Endovascular Surgery, vol. 41, 2011, pp. S1–S58.
+
+August 2018 2
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+Based on this unique design, Endologix has developed guidelines that should be considered in intervention/re-
+intervention situations to ensure that devices can be tracked through the previously implanted AFX device
+without damage. This includes step-by-step instructions on how to best navigate the endoskeleton design of
+the existing AFX device in order to obtain and confirm proper wire access. These guidelines are intended to
+help guide the physicians and do not take the place of physician judgement. Refer to Appendix 4 and
+Appendix 5 for an outline of the complete intervention and re-intervention guidelines, respectively.
+
+The information described above is included in the revised product IFUs, which can be provided either via
+hard copy upon request to Endologix Customer Service at 800-983-2284 (5:00 A.M. - 6:00 P.M. Pacific
+Time).
+
+Endologix will continue to monitor the clinical experience with the AFX System, listen to physician feedback,
+and provide updates regarding important information collected through complaint monitoring. Endologix
+appreciates your review of this notification and requests that you share it within your organization, as
+appropriate. If you have any questions regarding the content of this notification, please contact your
+Endologix representative or Endologix Customer service at 800.983.2284 (5.00 A.M. – 6:00P.M. Pacific
+Time).
+
+Yours Sincerely,
+
+Matt Thompson, MD
+Chief Medical Officer
+
+August 2018 3
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Appendix 1: Type III Endoleak Update**
+
+As explained above, Endologix has been monitoring the effectiveness of the 2013-2016 IFU and product
+changes through its complaint monitoring system. **Table 1** and **Table 2** below provide the number of Type
+IIIa and IIIb events reported to Endologix that have been observed within the respective durations of
+implantation. Follow up continues to accrue with events reported across all time points. **Figure 2** and **Figure 3** below display the global Type IIIa and Type IIIb endoleak complaint trends for AFX with Strata, AFX
+System with Duraply, and AFX2 System with Duraply. As shown in these figures, the reported Type IIIa and
+IIIb endoleak complaint rates past 1-year have been lower for the AFX System with Duraply and AFX2
+System with Duraply compared to the AFX System with Strata, at equivalent time points. Additionally, it
+appears the Type IIIa endoleak rate for the AFX System with Strata continues to increase. Therefore,
+continued vigilance in patient surveillance and re-intervention in the case of loss of component overlap
+remains important. Note that the estimated complaint rates are calculated based on voluntary complaint
+reporting and units sold, which may underestimate the true event rate on a per patient basis. This
+underestimate may be greater for the more recent versions (i.e., AFX System with Duraply and AFX2 System
+with Duraply), which may have a larger hospital inventory as compared to the AFX System with Strata, which
+is no longer available . In particular, as there are only an estimated 285 patients at risk at 2-years for the AFX2
+System, these particular data should be interpreted with caution.
+
+August 2018 4
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Figure 2: Global Type IIIa Endoleak Complaint Trends by Product Type**
+
+*NOTE: Complaint rates are calculated based on voluntary complaint reporting and units sold, which may underestimate the true
+event rate on a per patient basis. This underestimate may be greater for the more recent versions (i.e. AFX System with Duraply
+and AFX2 System with Duraply), which may have a larger hospital inventory as compared to the AFX System with Strata, which
+is no longer available.
+** NOTE: Rates are generated by first summing all patients that have the minimum designated length of follow-up, based on the
+bifurcated implant sales. Then, all events that occur within the designated period among that same group of patients are summed
+together. The cumulative rate for each period is found by dividing the event sum by the number of at-risk patients. This approach
+provides cumulative complaint rates across a range of follow-up periods. Note that events known to have occurred within the
+designated length of follow-up, but occur in patients who have not yet reached the minimum required follow-up, are not included.
+
+**Table 1: Number of Reported Global Type IIIa Endoleaks by Duration of Implantation ≤30 days > 30 days & >1 year & >2 years & >3 years & >4 years >5 years >6 years ≤ 1 year ≤ 2 years ≤ 3 years ≤ 4 years & & & ≤ 5 years ≤ 6 years ≤ 7 years AFX with** 28 44 80 90 95 65 35 4
+**Strata AFX with** 13 16 14 21 7 - - -
+**Duraply AFX2** 1 9 0 0 - - - -
+**with Duraply**
+*The time to event above is calculated as the difference between the implantation date and event date. Note that this calculation
+differs from the assessment of **Figure 2** .
+
+August 2018 5
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Figure 3: Global Type IIIb Endoleak Complaint Trends by Product Type**
+
+*NOTE: Complaint rates are calculated based on voluntary complaint reporting and units sold, which may underestimate the
+true event rate on a per patient basis. This underestimate may be greater for the more recent versions (i.e. AFX System with
+Duraply and AFX2 System with Duraply), which may have a larger hospital inventory as compared to the AFX System with
+Strata, which is no longer available.
+** NOTE: Rates are generated by first summing all patients that have the minimum designated length of follow-up, based on the
+bifurcated implant sales. Then, all events that occur within the designated period among that same group of patients are
+summed together. The cumulative rate for each period is found by dividing the event sum by the number of at-risk patients.
+This approach provides cumulative complaint rates across a range of follow-up periods. Note that events known to have
+occurred within the designated length of follow-up, but occur in patients who have not yet reached the minimum required
+follow-up, are not included.
+
+**Table 2: Number of Reported Global Type IIIb Endoleaks by Duration of Implantation ≤30 days > 30 days >1 year & >2 years & >3 years & >4 years & >5 years >6 years & ≤ 1 year ≤ 2 years ≤ 3 years ≤ 4 years ≤ 5 years & & ≤ 6 years ≤ 7 years AFX with** 13 21 70 123 174 106 32 2
+**Strata AFX with** 20 13 21 22 1 - - -
+**Duraply AFX2 with** 2 7 3 0 - - - -
+**Duraply**
+* The time to event above is calculated as the difference between the implantation date and event date. Note that this calculation
+differs from the assessment of **Figure 3** .
+
+August 2018 6
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Appendix 2 Patient-Tailored Surveillance Recommendations (To Be Added to the Product IFU)**
+Physicians should evaluate patients on an individual basis and prescribe their follow-up relative to the needs and
+circumstances of each individual patient. This is in line with personalized surveillance regimens discussed in the clinical
+practice guidelines published by the Society of Vascular Surgeons (SVS) and the European Society of Vascular Surgeons
+(ESVS). 2,3 Patients with specific clinical findings (e.g., endoleaks, enlarging aneurysms or changes in the structure or
+position of the stent graft including reduced overlap of stent graft components) should receive follow-up at more frequent
+intervals than described in Section 12.1 General. In addition, enhanced surveillance should be considered for patients at
+higher risk of graft related complications (e.g., treated off-label, with a short seal zone, with clinical risk factors associated
+with Type III endoleaks).
+
+Investigations into Type III endoleaks have identified the following associations:
+
+ Inadequate component overlap at the index procedure
+ Lateral movement in large or tortuous aortas leading to reduction or loss of component overlap and/or implant
+stability
+ Use of an excessively oversized proximal extension relative to the bifurcated main body device
+ Procedural factors such as extensive guidewire/catheter manipulation or aggressive balloon molding
+ Off-label use (especially in highly calcified anatomy)
+ Implant of other manufacturer’s devices as proximal extensions
+If any evidence of therapy failure (i.e., enlarging aneurysm, Type I or III endoleak, or graft occlusion) is observed, the
+patient’s condition and prognosis should be reassessed. Endovascular or open re-intervention to reestablish aneurysm
+exclusion and/or graft patency should be considered.
+
+_________________________________
+1 Chaikof, Elliot L., et al. “The Society for Vascular Surgery Practice Guidelines on the Care of Patients with an Abdominal Aortic Aneurysm.” Journal
+of Vascular Surgery, vol. 67, no. 1, Jan. 2018, pp. 2–77.e2.
+2 Moll, F.l., et al. “Management of Abdominal Aortic Aneurysms Clinical Practice Guidelines of the European Society for Vascular Surgery.” European
+Journal of Vascular and Endovascular Surgery, vol. 41, 2011, pp. S1–S58.
+
+August 2018 7
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Appendix 3 Device Sizing Recommendations (To Be Added to the Product IFU)**
+
+Select the bifurcated and proximal endograft components to maximize overlap (OL) as follows:
+ Measure and record aneurysm length(AL) and maximum aneurysm diameter (AD)
+ **Select Endograft components so that the overlap (OL) is greater than the aneurysm radius (AR = AD ÷2) plus 20 mm (OL ≥AR + 20 mm) Note: If the recommended overlap (OL) cannot be achieved, or if AD > AL, use an infrarenal Endograft component of similar covered length and diameter to bridge to achieve the necessary overlap (OL). Refer to Tables 43-45 for sizing of stent graft components. When selecting a 22, 25, or 28 mm proximal extension, a diameter one size larger than the main body of the bifurcated stent graft is recommended. When selecting a 31 or 34 mm proximal extension, use only a bifurcated stent graft having a 28 mm diameter body.** Under sizing or
+over sizing may result in incomplete sealing or compromised flow.
+
+August 2018 8
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Appendix 4 Intervention Guidelines (To Be Added to the Product IFU)**
+Prior to performing an intervention that requires a catheter to track through an
+existing AFX device, review this Instructions for Use booklet. The following
+**Intervention Guidelines (i.e.,**
+instructions embody basic guidelines to consider when performing a catheter-
+**catheter-based procedures**
+based procedure on a patient implanted with the AFX Endovascular AAA
+**through an existing AFX device)**
+System. These instructions are intended to help guide the physician and do not
+take the place of physician judgment.
+Due to its unique endoskeleton design and because the ePTFE is not attached to
+the stent cage throughout its entire length ( **Figure 1** ), the techniques described
+in the sections below should be employed during an intervention that may be
+traversing/crossing/transferring through the AFX Endovascular AAA System.
+
+**CAUTION: Systemic anticoagulation should be used during the intervention procedure based on hospital and physician preferred protocols. If Heparin is contraindicated, an alternative anticoagulant should be considered. CAUTION: The ePTFE graft is not attached to the stent throughout its General Use Information entire length and could give the appearance of a properly placed wire or accessory, when the wire may be inadvertently placed behind a stent strut. WARNING: Excessive movement during catheter advancement may lead to cephalad movement of the existing AFX device(s), which may result in inadvertent visceral coverage. WARNING: Excessive manipulation during catheter advancement may lead to damage of the existing AFX device, which may result in a Type IIIb endoleak.**
+As part of pre-procedure planning, verify that an appropriately-sized catheter or
+accessory device (e.g., balloons, flexible “J-tip” guidewires, pigtail catheters)
+have been selected to track through the previously implanted AFX Endovascular
+AAA System without damage. Determinants include:
+
+1. The number of modular AFX components currently implanted may impact
+**Pre-Procedure Planning** the flow lumen and/or endoskeleton diameter and should be considered when
+planning an intervention that requires transferring through the existing AFX
+device.
+
+NOTE: The information provided in the subsequent sections is intended to assist
+physicians in tracking through the existing AFX device. Follow the
+manufacturer’s instructions for use for additional pre-procedure planning.
+
+August 2018 9
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Intervention Guidelines (To Be Added to the Product IFU)**
+1. Refer to institutional protocols relating to anesthesia, anticoagulation and
+monitoring of vital signs.
+2. Position patient on imaging table allowing fluoroscopic visualization from
+the aortic arch to the femoral bifurcations.
+3. Gain luminal access through the femoral arteries.
+4. Establish adequate proximal and distal vascular control of the surgically
+exposed femoral artery, as needed.
+5. Following the manufacturer’s instructions for use, advance a flexible “J-tip”
+guidewire, pigtail catheter, or acceptable equivalent, into the vasculature
+under fluoroscopy.
+ NOTE: Proper device choice may limit the likelihood of tracking behind
+a stent strut. Reference **Figure** .
+
+**Figure 4: Ensure Guidewire Is Not Caught Behind Stent Strut Patient Preparation/ Arterial Access CAUTION: Tortuosity and angulation may impact the morphology of the endoskeleton within the vasculature. Use caution when tracking devices through the existing AFX device.**
+
+6. Once the flexible “J-tip” guidewire or pigtail catheter reaches above the
+existing AFX device, slowly advance an occlusion balloon or PTA balloon
+over the wire and under fluoroscopy. Slowly inflate, per the manufacturer’s
+instructions, until the balloon has been fully shaped or formed. It is
+recommended to use a 12mm diameter PTA balloon or an occlusion balloon
+that is partially inflated to ensure devices are not behind a stent strut.
+ Advance and retract the balloon catheter up and down the entire length of
+the existing AFX device to ensure there is proper luminal wire access.
+o NOTE: Balloon kinking during inflation or enlargement of a section
+of the stent cage may be a signal of a potential wire placed behind a
+stent strut. Reference **Figure** .
+
+August 2018 10
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Intervention Guidelines (To Be Added to the Product IFU) Figure 5: Use of a Balloon to Confirm Correct Placement of Guidewire CAUTION: Balloon inflation and advancement should be performed slowly so as not to damage or dislodge the existing AFX device. WARNING: Overinflation of the balloon to ensure luminal access may create the false appearance of a wire placed behind a stent strut or may shift the main body cephalad.**
+
+7. During inflation and while tracking through the aortic lumen, fluoroscopic
+imaging in multiple planes should be used to verify that no accessory devices
+are behind a stent strut.
+8. After verifying correct wire placement fluoroscopically, the balloon should
+be removed and use of alternative techniques (e.g., intravascular ultrasound)
+may be helpful to confirm correct wire placement.
+9. Should incorrect wire placement behind a stent strut be observed, remove
+wire and re-advance guidewire/pigtail catheter, as described above.
+10. Repeat Steps 5-8 for contralateral access, if appropriate.
+
+1. While using continuous fluoroscopy and visualizing the entire existing AFX
+device, advance sheaths slowly up the ipsilateral and/or contralateral access
+points, as needed, and remove dilators.
+
+**CAUTION: If the existing AFX device is at risk of being displaced cephalad while advancing devices (e.g., existing device is in severely angulated or tortuous anatomy), use of an Procedure – Device appropriately-sized balloon on the contralateral (opposite) side Advancement may help to stabilize the existing AFX device.**
+
+2. Following the manufacturer’s instructions for use, prepare and advance any
+devices necessary to complete a procedure. Once a catheter has been passed
+through the existing AFX device and does not lie behind a stent strut, then
+standard wire exchange techniques can be utilized to place a wire of
+appropriate diameter for the procedure. Continue to visualize the entire
+existing AFX device under fluoroscopy when manipulating any devices
+
+August 2018 11
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Intervention Guidelines (To Be Added to the Product IFU)**
+through the existing AFX device.
+
+**CAUTION: Observe any cephalad movement of the existing AFX device as this may obstruct visceral vessels above the covered portion of the stent cage. CAUTION: Care should be taken when tracking accessory devices through an existing AFX device to ensure the ePTFE graft and endoskeleton is not inadvertently punctured or damaged. WARNING: Failure to visualize the entire existing AFX device when manipulating devices through the existing AFX device(s) may result in deformation. WARNING: Excessive movement when positioning devices may lead to cephalad movement, which may result in inadvertent visceral or internal iliac artery coverage. CAUTION: If the existing AFX device is displaced cephalad while advancing the device (e.g., catheter, endovascular devices), use of an appropriately-sized balloon on the contralateral (opposite) side may help to stabilize the existing AFX graft and mitigate further displacement.**
+Procedurally, fluoroscopic imaging in multiple planes should be used to verify
+that no accessory devices are placed behind a stent strut. Imaging should also be
+used after device advancement and/or placement to ensure the existing AFX
+**Imaging Guidelines and Post-**
+device has not been damaged or moved and that a new endoleak is not present.
+**Operative Follow-up**
+Upon confirmation of no negative effect to the existing AFX device, Endologix
+recommends that patients continue on their current imaging surveillance. Refer
+to Section 12 for additional imaging and post-operative follow-up guidelines.
+
+August 2018 12
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Appendix 5 Re-intervention Guidelines (To Be Added to the Product IFU)**
+Prior to performing a secondary intervention, review this Instructions for Use
+booklet, including the Intervention Guidelines in Section 13 above. The
+**Secondary Intervention**
+following additional warning and precautions embody basic guidelines to
+**Guidelines (i.e., endovascular**
+consider when conducting a secondary intervention on a patient implanted with
+**procedures to correct an existing**
+the AFX Endovascular AAA System. These additional warnings and
+**AFX device)**
+precautions are intended to help guide the physician and do not take the place of
+physician judgment.
+**WARNING: Due to the unique design of the existing AFX device, it may be difficult to achieve adequate seal for a Type III endoleak by only utilizing aortic cuffs or extensions. Specifically, the ePTFE is not attached to the stent cage throughout its entire length, thus preventing the newly placed endograft from properly sealing through its entire length. WARNING: Due to the unique design of the AFX device, only utilizing an aortic cuff or extension for the treatment of Type IIIa endoleaks may lead to a Type IIIb endoleak over time. Specifically, the aortic cuff or extension has the potential to puncture the ePTFE graft of the existing AFX device if either end interacts with the existing AFX graft material. CAUTION: Self-expanding and balloon expandable endografts used General Warnings and within the existing AFX device have the potential to puncture Precautions the ePTFE graft if either end interacts with the AFX graft material. CAUTION: Barbs, hooks, or anchors in the new implant may tear the existing graft material or lead to progressive tears throughout the existing AFX device. Any re-intervention should aim to prevent placement of barbs, hooks, or anchors adjacent to or within the ePTFE graft. CAUTION: The guidewire should remain in the lumen of the stent frame rather than behind the endoskeleton for the entire procedure and must be in the suprarenal aorta before any devices can be advanced and implanted within the existing endoskeleton. Care should be taken to prevent guidewire passage behind a stent strut.**
+Procedurally, fluoroscopic imaging in multiple planes should be used to verify
+that no accessory devices are placed behind a stent strut (Reference **Figure** ).
+Imaging should also be used after device placement to ensure the existing AFX
+device has not been damaged and to ensure that the reason for the re-
+intervention has been addressed.
+
+Assuming no additional concerns have been identified, Endologix recommends,
+at a minimum, that high-resolution CT scan (contrast-enhanced and non-
+**Imaging Guidelines and Post-**
+contrast) imaging follow-up to be performed at one month, six months, one
+**Operative Follow Up**
+year, and annually thereafter following any re-intervention. Alternative imaging
+modalities such as magnetic resonance imaging, plain X-Ray or duplex
+ultrasound may be used in patients with impaired renal function or intolerance
+to contrast media. Determination of imaging techniques should be based on the
+physician’s clinical assessment of the patient and stent graft implant, including
+any adjunct procedures that may have been performed in conjunction with the
+endovascular stent graft procedure.
+
+August 2018 13
+
+2 Musick
+Irvine, CA 92618
+949 595 7200
+endologix.com
+
+**Re-intervention Guidelines (To Be Added to the Product IFU) Note:** Additional radiological imaging may be necessary to further evaluate the
+stent graft in situ based on findings revealed by one of the surveillance
+programs. The following recommendations may be considered:
+
+ If there is evidence of poor or irregular position of the stent graft, severe
+angulation, kinking or migration of the stent graft on abdominal X-rays, a
+spiral CT or duplex ultrasound may be considered to assess aneurysm
+size and the presence or absence of an endoleak.
+ If a new endoleak or increase in AAA size is observed by spiral CT,
+adjunctive studies such as 3-D reconstruction or angiographic assessment
+of the stent graft and native vasculature may be helpful in further
+evaluating any changes of the stent graft or aneurysm.
+Spiral CT without contrast or MRI may be considered in select patients who
+cannot tolerate contrast media or who have renal function impairment. For
+centers with appropriate expertise, gadolinium or CO2 angiography may be
+considered in patients with renal function impairment requiring angiographic
+assessment.
+
+August 2018 14
+
+2 Musick
+Irvine, CA 92618 USA
+1 949 595 7200
+endologix.com
+
+**Urgent: Important Safety Update Medical Device Correction for the AFX ® Endovascular AAA System (FS-0008)**
+Dear AFX User,
+Please complete the information below and return by email to Return_forms@endologix.com or mail using the enclosed envelope **within 7 days** of receipt.
+User Information Updated Information
+Hospital/Physician Name ________________________________________
+Department or Contact ________________________________________
+Street Address ________________________________________
+City, State, ZIP ________________________________________
+The undersigned has received, read and distributed, as appropriate, the Medical Device Correction for the AFX ® Endovascular AAA (FS-
+0008). This Safety Update provides updated information on Type III endoleak rates, AFX ®/ /AFX ® 2 device intervention/re-intervention
+and revisions to the Instructions for Use for the AFX ®/ /AFX ® 2 Endovascular AAA System.
+**Name Title Signature Date**

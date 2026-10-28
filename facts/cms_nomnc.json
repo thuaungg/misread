@@ -1,0 +1,12 @@
+{
+  "title": "Medicare Notice of Non-Coverage (NOMNC) - your covered services are ending",
+  "design": "risky",
+  "action_required": "conditional",
+  "facts": {
+    "action": "If you disagree that your services should end, ask your QIO for an immediate (fast) appeal by phone; your services continue during the appeal. Sign the notice to show you received it.",
+    "deadline": "No later than noon on March 13, 2026: the day before coverage ends on March 14, 2026.",
+    "consequence": "Medicare probably won't pay for your skilled nursing services after March 14, 2026; you may have to pay for them yourself.",
+    "contact": "Your QIO (Quality Improvement Organization) at 888-305-6759."
+  },
+  "trap": "'Only if' letter. The deadline is 'noon of the day before the above date', so the reader has to work out the date."
+}

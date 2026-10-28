@@ -1,0 +1,16 @@
+{
+  "title": "ELL ဝန်ဆောင်မှုများ ရရှိခွင့် အကြောင်းကြားစာ",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Burmese",
+  "box_heading": "ဘာလုပ်ရမည်",
+  "action_required": true,
+  "summary": "သင့်ကလေး Maung Thura သည် ELL ဝန်ဆောင်မှုများကို ရရှိခွင့်ရှိသည်။ မိဘကြိုဆိုတွေ့ဆုံပွဲ (09/17/2026၊ 6:00 PM) ကို မပျက်မကွက်တက်ရောက်ပါ။",
+  "facts": {
+    "action": "မိဘကြိုဆိုတွေ့ဆုံပွဲ ကို 09/17/2026 နေ့၊ 6:00 PM အချိန်တွင် School library, 123 Sample Street, Queens, NY 11372 ၌ မပျက်မကွက်တက်ရောက်ပါ။ မလာနိုင်ပါက Daw Nwe Nwe အား (718) 555-0142 တွင် ဖုန်းခေါ်ဆိုကာ ချိန်းဆိုပါ။",
+    "deadline": "09/17/2026 နေ့၊ 6:00 PM (မိဘကြိုဆိုတွေ့ဆုံပွဲ)။ ဤဆုံးဖြတ်ချက်ကို ပြန်လည်ဆန်းစစ်ရန် ၄၅ ရက်အတွင်း တောင်းဆိုနိုင်သည်။",
+    "consequence": "Not stated in the letter.",
+    "contact": "Daw Nwe Nwe (parent coordinator)၊ တယ်လီဖုန်းနံပါတ် (718) 555-0142"
+  },
+  "trap": "Two dates sit above the meeting: the letter date (09/08) and the test date (09/02). The meeting (09/17, 6 pm) is in the middle of the letter, and there's a 45-day review right."
+}

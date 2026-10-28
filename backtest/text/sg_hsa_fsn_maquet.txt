@@ -1,0 +1,125 @@
+## Urgent Field Safety Notice
+
+## 2018-02-27 | EVU-179040 |
+
+## Please forward this information to all relevant users, biomedical staff and risk
+## management department concerned in your facility
+
+## Subject: Servo ventilators
+
+## Products affected:
+
+Product Article No. S/N within this range
+Servo-air 6882000 10141 – 11794
+Servo-i 6487800 83775 – 86721
+Servo-s 6640440 37488 – 38424
+Servo-n 6688600 1240 – 1455
+Servo-u 6694800 22611 – 24876
+
+Dear Customer,
+
+The purpose of this letter is to inform about a potential issue found in the Servo ventilators and the actions that
+will be taken. Our records indicate that your facility has received one or more of these ventilators.
+
+**Normal use and Indications**
+
+The issue identified is related to the behavior of the safety valve. Under normal circumstances, when an event
+occurs that requires the safety valve to open (e.g. a high pressure alarm), the safety valve will open and then
+close automatically as soon as the event has disappeared.
+
+**The following has been discovered**
+
+We have identified that under certain conditions, an internal communication error might prevent the safety valve
+to close automatically. As a consequence, ventilation will stop and a high priority alarm, as well as clinical alarms,
+0578004u
+de will be triggered. We are aware of two instances where this issue has caused desaturation but we have no
+v o
+reports of any permanent injuries.
+r pp
+A g
+: r ebe
+s u
+t a r
+t s G
+10 an
+: no i r
+ah
+i s t a
+r e C
+v y
+040 b
+4
+9 5
+71 : 5
+- 1
+U 7
+VE 2
+- 2
+: D 0 Maquet Critical Care AB
+I - 8102
+c o SE-171 54 Solna, Sweden
+D
+www.getinge.com MM-0191 ver 06 1 of 2
+
+## Field Safety Notice| 2018-02-27 | EVU-179040 |
+
+**Potential hazards**
+
+This issue will stop ventilation, with the safety valve open, thus allowing the patient to breathe freely, but without
+ventilator support. The high priority technical error alarm TE 11 will be activated simultaneously with other clinical
+alarms.
+
+**Precautions**
+
+The Servo ventilator can be used in accordance to the instructions for use, with extra attention to the following:
+ Never leave the patient unattended when connected to the ventilator system.
+ Make sure that a resuscitator is readily available.
+ Act as instructed on alarms:
+In case of a technical error TE 11 replace the ventilator immediately and contact your Getinge/Maquet
+representative.
+
+**Corrective action**
+
+A solution that will correct this behavior has been developed. Getinge/Maquet will initiate an immediate update of
+all affected Servo ventilator units during which the firmware of an internal circuit board will be upgraded. You will
+be contacted by your Getinge/Maquet sales or service representative to plan for the update of your ventilator.
+
+Please maintain awareness on this notice and related actions until your ventilator has been updated to ensure
+effectiveness of the corrective action.
+
+We apologize for any inconvenience this may cause and we will do our outmost to carry through this update as
+swiftly as possible.
+
+Should you have questions or require additional information, please contact your local Getinge/Maquet
+representative.
+
+Sincerely,
+0578004u
+de
+v o
+r pp
+A g
+: r ebe
+s u
+t a r
+t s G
+10 an
+: i r Niklas Lagström Catharina Greberg
+no ah
+i s t a Global Product Manager Deputy Head of Quality
+r e C
+v y
+040 b **Maquet Critical Care AB Maquet Critical Care AB**
+4
+9 5
+71 : 5
+- 1
+U 7
+VE 2
+- 2
+: D 0
+I - 8102
+c o
+D
+
+MM-0191 ver 06 2 of 2

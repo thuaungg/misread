@@ -1,0 +1,107 @@
+## Dräger
+
+Draeger Medical Systems, Inc., Andover, MA 01810 USA
+
+**To our customers and users of the: • The Infinity® Acute Care System™ (IACS); Software Version VG7.0.1, VG7.0.2 • Standalone Infinity® M540 patient monitor; Software Version VG7.0.1, VG7.0.2 Important Safety Notice!**
+
+Possible loss of communication between the cockpit and the M540 patient monitor after
+discharge of patient immediately after docking the monitor to the docking Station,
+
+**March 2019**
+
+Dear Madam or Sir,
+
+The purpose of this letter is to advise you that Dräger is issuing a voluntary field correction to
+address the following Situation:
+
+immediately after the monitor has been docked to the M500 docking Station and a user
+discharges a patient from the M540 patient monitor, there is a possibility that the
+communication between the IACS cockpit and the M540 patient monitor is not established.
+
+If the communication is not established, the IACS cockpit will not be able to send any
+commands to the M540 patient monitor with the exception of the “audio pause”. Changes
+made on the IACS cockpit will not be transferred to the M540 patient monitor, though the
+changes will be reflected on the IACS cockpit.
+
+This lack of communication may occur:
+
+• when the discharge is performed within 10 seconds after docking the M540 patient
+monitor to the M500 docking Station, and
+
+• it occurs only with the first patient admitted to the M540 monitor/IACS cockpit any
+time after the above action has been performed.
+
+This lack of communication would not be obvious to the user.
+
+After another discharge action is performed while the M540 patient monitor remains docked
+to the M500 docking Station, the M540 patient monitor and the IACS cockpit resume normal
+communication.
+
+Based on our information, you are using at least one Infinity Acute Care System that fits into
+the above criteria.
+
+Page 1 of 3
+
+## Drager
+
+Draeger Medical Systems, Inc., Andover, MA 01810 USA
+
+**Interim actions you should take:**
+
+To avoid encountering the described situation, please use the following workflow:
+
+If you dock the M540 and need to perform a discharge, please wait at least 10 seconds prior
+to pressing the Discharge button.
+
+**Correction:**
+
+We are in the process of resolving this product issue and will provide you with an updated
+software version as soon as it becomes available. At that time, your Drager service
+representative will schedule a visit to upgrade all affected Infinity Acute Care Systems.
+
+Please distribute this Safety Information to all potential users within your facility.
+
+We regret any inconvenience this may cause. We consider it a necessary preventive measure
+to increase patient safety and product reliability. We thank you in advance for completing the
+attached Customer Acknowledgement and Response form and returning the completed form
+to your Drager representative per instructions provided.
+
+If you have any further questions, please contact your local Drager representative.
+
+Thank you for your continued support.
+
+Sincerely yours,
+
+Lloyd Ster
+Vice President of Product Management
+Drager Patient Monitoring Systems
+
+cc: Chairman Medical B oard and relevant H ead of Departments
+
+Page 2 of 3
+
+## Dräger
+
+Draeger Medical Systems, Inc., Andover, MA 01810 USA
+
+**Customer Acknowledgement and Response Form**
+
+RE: Possible loss of communication between the cockpit and the M540 patient monitor after
+discharge of patient immediately after docking the monitor to the docking Station.
+
+Customer Name/Address:
+
+□ I acknowledge the receipt of the information in the safety notice and confirm that the
+information has been brought to the attention of all users.
+
+Completed By:
+
+Print Name: ______________________________________________________________
+
+Signature/Date: ______________________________________________________________
+
+Thank you for sending the completed acknowledgement form to our attention per the
+instructions provided by your Dräger representative. Dräger representative will call you to
+schedule a visit to update the Software once the revised Software becomes available.
+
+Page 3 of 3

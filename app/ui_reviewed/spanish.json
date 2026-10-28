@@ -1,0 +1,6 @@
+{
+ "_note": "Hand-checked Spanish for the letter page. These win over the machine translation in cache/ui/spanish.json.",
+ "read_in": "Idioma",
+ "translating": "traduciendo…",
+ "source_original": "Original de {name} ↗"
+}

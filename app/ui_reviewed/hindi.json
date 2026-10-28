@@ -1,0 +1,11 @@
+{
+ "_note": "Hand-checked Hindi for the letter page. These win over the machine translation in cache/ui/hindi.json.",
+ "source_original": "{name} मूल ↗",
+ "sample_values": "नमूना जानकारी जोड़ी गई",
+ "retrieved_on": "{date} को लिया गया।",
+ "fix_pitch": "लगभग एक दर्जन छोटे बदलाव आज़माता है। आपके शब्द वैसे ही रहते हैं।",
+ "read_in": "भाषा",
+ "translating": "अनुवाद हो रहा है…",
+ "original": "मूल",
+ "back_original": "← मूल"
+}

@@ -1,0 +1,276 @@
+{
+  "irs_cp14": {
+    "name": "IRS notice CP14: You have a balance due",
+    "summary": "Tells a taxpayer they owe $1,075.21 and when to pay it.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP14 (sample)",
+    "url": "https://www.irs.gov/pub/notices/cp14_english.pdf",
+    "retrieved": "2026-10-17",
+    "changes": "None. The sample's own typo (“February 20, 2017” on page 3) is kept.",
+    "publisher_short": "IRS"
+  },
+  "irs_cp504": {
+    "name": "IRS notice CP504: We may seize your property",
+    "summary": "Warns the IRS may levy property unless $9,533.53 is paid within 30 days.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP504 (sample)",
+    "url": "https://www.irs.gov/pub/notices/cp504_english.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "None.",
+    "publisher_short": "IRS"
+  },
+  "irs_cp523": {
+    "name": "IRS notice CP523: Your payment plan is ending",
+    "summary": "Warns that a missed $300 installment will end the payment plan.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP523 (sample)",
+    "url": "https://www.irs.gov/pub/notices/cp523_english.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "Pages 1–8 of 10 used; the last two are repeated payment stubs.",
+    "publisher_short": "IRS"
+  },
+  "irs_cp05": {
+    "name": "IRS notice CP05: Your refund is on hold",
+    "summary": "Says the IRS is reviewing a return and holding the refund. Nothing to do for now.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP05 (sample)",
+    "url": "https://www.irs.gov/pub/notices/cp05_english.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "None.",
+    "publisher_short": "IRS"
+  },
+  "irs_cp12": {
+    "name": "IRS notice CP12: We changed your return",
+    "summary": "Says the IRS corrected a math error. Act only if you disagree.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP12 (sample)",
+    "url": "https://www.irs.gov/pub/notices/cp12_english.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "The sample's blank fields were filled with made-up values: tax year 2010, Form 1040, refund $1,247.00, payments and tax amounts, and a phone number.",
+    "publisher_short": "IRS"
+  },
+  "cms_nomnc": {
+    "name": "Medicare notice: Your covered care is ending (NOMNC)",
+    "summary": "Tells a patient Medicare will stop paying for their care, and how to ask for a fast appeal.",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "document": "Form CMS-10123, Notice of Medicare Non-Coverage (2025 version, as published by a Medicare plan)",
+    "url": "https://www.atriohp.com/media/0h0kuhyc/form-cms-10123-nomnc-clean-fillable.pdf",
+    "reference": "https://www.cms.gov/medicare/forms-notices/beneficiary-notices-initiative",
+    "retrieved": "2026-10-18",
+    "changes": "Blank fields filled with made-up values: provider name, patient name and number, end date March 14, 2026, and the service type.",
+    "publisher_short": "Medicare · CMS"
+  },
+  "cms_moon": {
+    "name": "Medicare notice: You're an outpatient (MOON)",
+    "summary": "Tells a patient they're under observation, not admitted, and what that means for costs.",
+    "publisher": "Centers for Medicare & Medicaid Services",
+    "document": "Form CMS-10611, Medicare Outpatient Observation Notice",
+    "url": "https://data.nrhp.org/wp-content/uploads/2020/09/CMS-10611-MOON_v508.pdf",
+    "reference": "https://www.cms.gov/medicare/forms-notices/beneficiary-notices-initiative",
+    "retrieved": "2026-10-18",
+    "changes": "Blank fields filled with made-up values: patient name and number, and the reason for observation.",
+    "publisher_short": "Medicare · CMS"
+  },
+  "nc_renewal": {
+    "name": "North Carolina Medicaid renewal notice",
+    "summary": "Asks the recipient to complete and return a renewal form to keep their coverage.",
+    "publisher": "North Carolina Department of Health and Human Services",
+    "document": "Medical Assistance Renewal Notice (NCFAST-20020)",
+    "url": "https://medicaid.ncdhhs.gov/medical-assistance-notice-ncfasteng/download?attachment=",
+    "retrieved": "2026-10-17",
+    "changes": "Page 1 only; pages 2–5 are the form itself. The blank due date was filled with a made-up date: July 15, 2026.",
+    "publisher_short": "NC Medicaid"
+  },
+  "ohio_renewal": {
+    "name": "Ohio Medicaid renewal form",
+    "summary": "Asks the recipient to renew their Medicaid by a deadline, by mail, phone, online or in person.",
+    "publisher": "Ohio Department of Medicaid",
+    "document": "Medicaid Renewal Form (cover page)",
+    "url": "https://dam.assets.ohio.gov/image/upload/medicaid.ohio.gov/Stakeholders,%20Partners/Unwinding/OBWP%20Medicaid%20Renewal%20Form.pdf",
+    "retrieved": "2026-10-17",
+    "changes": "Cover page only; pages 2–13 are the form itself. Blank dates and case number filled with made-up values.",
+    "publisher_short": "Ohio Medicaid"
+  },
+  "indiana_advance": {
+    "name": "Indiana Medicaid: Your coverage may change",
+    "summary": "Warns that coverage may change and that a renewal form is coming.",
+    "publisher": "Indiana Family and Social Services Administration",
+    "document": "Medicaid Potential Closure or Change Notice (sample)",
+    "url": "https://www.in.gov/medicaid/members/files/Advance-Notification-Upcoming-Renewal-SAMPLE.pdf",
+    "retrieved": "2026-10-17",
+    "changes": "Template fields filled with made-up values: name, case numbers, address, mailing date, coverage date and reason.",
+    "publisher_short": "Indiana Medicaid"
+  },
+  "va_termination": {
+    "name": "Virginia Medicaid: Your coverage is ending",
+    "summary": "Says the recipient no longer qualifies, how to appeal, and how to apply for other coverage.",
+    "publisher": "Virginia Department of Medical Assistance Services (Cover Virginia)",
+    "document": "Renewal closure notice (sample)",
+    "url": "https://coverva.dmas.virginia.gov/media/rkeebju5/fxx730-renewal-closure_english_redacted.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "Pages 1–8 of 10; the last two are “get help in your language” notices. Letter date, member name, end date and phone filled with made-up values.",
+    "publisher_short": "Virginia Medicaid"
+  },
+  "va_checklist": {
+    "name": "Virginia: Send proof by the due date",
+    "summary": "Asks the recipient to send proof of income by a due date or risk denial.",
+    "publisher": "Virginia Department of Social Services",
+    "document": "Verification Checklist (sample)",
+    "url": "https://coverva.dmas.virginia.gov/media/fo5nrm12/fxx710-eligibility-vcl-s-t-m-english_redacted.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "Pages 1–4 of 8. Dates, phone and fax numbers and office address filled with made-up values.",
+    "publisher_short": "Virginia DSS"
+  },
+  "va_approval": {
+    "name": "Virginia Medicaid: You're approved",
+    "summary": "Says the applicant qualifies for Medicaid. Nothing urgent to do.",
+    "publisher": "Virginia Department of Medical Assistance Services (Cover Virginia)",
+    "document": "Approval notice (sample)",
+    "url": "https://coverva.dmas.virginia.gov/media/43lh4nvn/fxx730-intake-approval_english_redacted.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "Pages 1–10 of 12. Dates, member name, Medicaid ID and phone filled with made-up values.",
+    "publisher_short": "Virginia Medicaid"
+  },
+  "sg_edusave_ms": {
+    "name": "Edusave Awards: letter to parents",
+    "summary": "Explains the Edusave Awards. Only bursary families must apply, by early December.",
+    "publisher": "Temasek Primary School (Ministry of Education)",
+    "document": "Anugerah Edusave bagi Sekolah Rendah (Malay version)",
+    "url": "https://isomer-user-content.by.gov.sg/615/e9bd5888-16f1-4f8f-b823-9b019e72daf5/Primary_(ML).pdf",
+    "changes": "None.",
+    "publisher_short": "Temasek Pri · Melayu",
+    "retrieved": "2026-10-18",
+    "document_local": "Anugerah Edusave bagi Sekolah Rendah (versi Bahasa Melayu)",
+    "changes_local": "Tiada perubahan."
+  },
+  "us_fcps_fle_zh": {
+    "name": "Fairfax schools: opting out of sex education",
+    "summary": "Parents only need to act if they don't want their child in Family Life Education classes.",
+    "publisher": "Fairfax County Public Schools",
+    "document": "Family Life Education opt-out letter, SY24-25 (Chinese)",
+    "url": "https://content.govdelivery.com/attachments/VAEDUFCPS/2026/10/05/file_attachments/3805974/FLE-Opt-Out_Letter_SY24-25-Chinese.pdf",
+    "changes": "Left out the 'CHINESE' language label printed at the top.",
+    "publisher_short": "FCPS · 中文",
+    "retrieved": "2026-10-18",
+    "document_local": "家庭生活教育不参加通知信，2024-25 学年（中文版）",
+    "changes_local": "删去了顶部印着的“CHINESE”语言标签。"
+  },
+  "us_edd_id_ru": {
+    "name": "California EDD: prove your identity",
+    "summary": "Send identity documents within 10 days of the mailing date, or unemployment benefits are denied.",
+    "publisher": "California Employment Development Department",
+    "document": "DE 1326C/R (official sample, Russian)",
+    "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de1326cr.pdf",
+    "changes": "Filled in the blank mailing date (09/15/2026) and effective date (09/06/2026) with sample values.",
+    "publisher_short": "EDD · Русский",
+    "retrieved": "2026-10-18",
+    "document_local": "DE 1326C/R (официальный образец, на русском языке)",
+    "changes_local": "Пустые поля «Дата отправки по почте» (09/15/2026) и «Дата вступления в силу» (09/06/2026) заполнены примерными значениями."
+  },
+  "sg_yishun_echa": {
+    "name": "Yishun Secondary: nominate your child for an award",
+    "summary": "Invites parents to nominate their child for the Edusave Character Award by 6 September.",
+    "publisher": "Yishun Secondary School",
+    "document": "Letter to parents, 27 August 2024",
+    "url": "https://isomer-user-content.by.gov.sg/916/168be63f-5788-407b-bfe5-2cecc85a11e3/Letter_to_Parent__ECHA___26_Aug_2024.pdf",
+    "retrieved": "2026-10-18",
+    "changes": "Fixed the spacing in the date (the PDF text read “2 7 August”).",
+    "publisher_short": "Yishun Sec"
+  },
+  "uk_nhs_cervical_hi": {
+    "name": "NHS: cervical screening invitation",
+    "summary": "Invites you to book a screening with your GP. The phone number in it is not for booking.",
+    "publisher": "NHS England (GOV.UK)",
+    "document": "Cervical screening: standard invitation (Hindi)",
+    "url": "https://www.gov.uk/government/publications/cervical-screening-invitations/e56c3089-4134-4636-a296-85c9c4717ac9",
+    "retrieved": "2026-10-18",
+    "changes": "Copied the letter text from the web page; the page's menus and feedback form were left out.",
+    "publisher_short": "NHS · हिन्दी",
+    "document_local": "सर्वाइकल स्क्रीनिंग: सामान्य आमंत्रण (हिन्दी)",
+    "changes_local": "पत्र का पाठ वेब पेज से लिया गया; पेज के मेनू और फ़ीडबैक फ़ॉर्म शामिल नहीं किए गए।"
+  },
+  "us_nysed_ell_my": {
+    "name": "New York schools: your child gets English support",
+    "summary": "Asks parents to come to a parent meeting on a set date, or phone to arrange another time.",
+    "publisher": "New York State Education Department",
+    "document": "Parent notification letter: entitled to English Language Learner services (Burmese), June 2018",
+    "url": "https://www.nysed.gov/sites/default/files/programs/bilingual-ed/burmese_entitlement_june2018.pdf",
+    "retrieved": "2026-10-25",
+    "changes": "Converted from the old Zawgyi Burmese encoding to standard Unicode with the Rabbit converter, removed text the PDF printed four times over (to fake bold type), and filled the blank fields with sample values (names, dates, address, phone number).",
+    "publisher_short": "NYSED · မြန်မာ"
+  },
+  "us_irs_cp12_es": {
+    "name": "IRS: we changed your tax return",
+    "summary": "Says the IRS fixed a math error and owes a $543 refund. Disagree within 60 days.",
+    "publisher": "Internal Revenue Service",
+    "document": "Notice CP12 (official sample, Spanish)",
+    "url": "https://www.irs.gov/pub/notices/cp12_spanish.pdf",
+    "changes": "None.",
+    "publisher_short": "IRS · Español",
+    "retrieved": "2026-10-25"
+  },
+  "ca_garde_fr": {
+    "name": "Quebec school: daycare registration",
+    "summary": "Every parent must register for school daycare, or say they don't need it, between 2 and 13 February.",
+    "publisher": "Centre de services scolaire des Draveurs (Quebec)",
+    "document": "Letter to parents, daycare registration 2026-2027",
+    "url": "https://sources.cssdd.gouv.qc.ca/files/2026/01/SDG-AG-MI-26-27-Lettre-aux-parents-1-1.pdf",
+    "changes": "None.",
+    "publisher_short": "Québec · Français",
+    "retrieved": "2026-10-25"
+  },
+  "kr_mirim_ko": {
+    "name": "Seoul high school: parent survey",
+    "summary": "Asks parents to fill in an online school survey between 1 and 3 December.",
+    "publisher": "Mirim Meister High School, Seoul",
+    "document": "Home letter no. 2025-110, 1 December 2025",
+    "url": "https://www.e-mirim.hs.kr/upload/board/1764730690921.pdf",
+    "changes": "None.",
+    "publisher_short": "Mirim · 한국어",
+    "retrieved": "2026-10-25"
+  },
+  "jp_kyoto_aid_ja": {
+    "name": "Kyoto City: help with school costs",
+    "summary": "How to apply for school-cost support; new applicants by 15 May, renewals by 31 May.",
+    "publisher": "Kyoto City Board of Education",
+    "document": "School expense assistance notice, 2026 (Japanese)",
+    "url": "https://www.city.kyoto.lg.jp/kyoiku/cmsfiles/contents/0000325/325215/R8osirase.pdf",
+    "changes": "None.",
+    "publisher_short": "Kyoto · 日本語",
+    "retrieved": "2026-10-25"
+  },
+  "jp_kyoto_entry_vi": {
+    "name": "Kyoto City: starting primary school",
+    "summary": "Enrolment steps for new first-graders; most families only follow the school's guidance.",
+    "publisher": "Kyoto City Board of Education",
+    "document": "Guide to elementary school enrolment (Vietnamese page)",
+    "url": "https://www.city.kyoto.lg.jp/kyoiku/cmsfiles/contents/0000183/183855/sinsyou1yuusou.pdf",
+    "changes": "Used only the Vietnamese page (page 6 of 6) of Kyoto's multilingual guide.",
+    "document_local": "Hướng dẫn thủ tục nhập học tiểu học (trang tiếng Việt)",
+    "changes_local": "Chỉ dùng trang tiếng Việt (trang 6/6) của tài liệu hướng dẫn nhiều ngôn ngữ của thành phố Kyoto.",
+    "publisher_short": "Kyoto · Tiếng Việt",
+    "retrieved": "2026-10-25"
+  },
+  "id_talenta_livein_id": {
+    "name": "Indonesian school: trip payment",
+    "summary": "Parents pay Rp570,000 for a compulsory grade 10 trip by 15 December, then send proof.",
+    "publisher": "SMA Talenta, Bandung (Indonesia)",
+    "document": "Circular 342/SMA-TLT/S.4/X/2023",
+    "url": "https://www.talentaschool.sch.id/suratedaran/App/SuratDetail/870",
+    "changes": "Replaced the class teachers' names, their personal WhatsApp numbers and the bank account with sample values.",
+    "document_local": "Surat Edaran 342/SMA-TLT/S.4/X/2023",
+    "changes_local": "Nama wali kelas, nomor WhatsApp pribadi mereka, dan nomor rekening bank diganti dengan contoh.",
+    "publisher_short": "Talenta · Indonesia",
+    "retrieved": "2026-10-25"
+  },
+  "pt_manuais_pt": {
+    "name": "Portuguese school: returning textbooks",
+    "summary": "Return school textbooks on your class's day, 8 to 16 July, in good condition.",
+    "publisher": "Escola Secundária Júlio Dantas, Lagos (Portugal)",
+    "document": "Information to the school community, 9 June 2026",
+    "url": "https://www.aejd.pt/files/2025_2026/Recolha_Manuais_2025-2026_ESJD_%20Secundario.pdf",
+    "changes": "None.",
+    "publisher_short": "Lagos · Português",
+    "retrieved": "2026-10-25"
+  }
+}

@@ -1,0 +1,167 @@
+{
+ "cms_moon": {
+  "old_busy": 56,
+  "old_wrong": [],
+  "new_busy": 83,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "cms_nomnc": {
+  "old_busy": 67,
+  "old_wrong": [
+   "contact",
+   "deadline"
+  ],
+  "new_busy": 56,
+  "new_full": 100,
+  "new_wrong": [
+   "action",
+   "contact",
+   "deadline"
+  ],
+  "cards": [
+   [
+    "deadline",
+    "phone",
+    "March 14, 2026"
+   ],
+   [
+    "consequence",
+    "skim",
+    "Medicare coverage of services will end on March 14, 2026, and if you miss the deadline you will lose"
+   ],
+   [
+    "action",
+    "phone",
+    "Contact the facility or health plan to start the appeal process for the Medicare coverage decision"
+   ]
+  ]
+ },
+ "indiana_advance": {
+  "old_busy": 96,
+  "old_wrong": [],
+  "new_busy": 76,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "irs_cp05": {
+  "old_busy": 44,
+  "old_wrong": [
+   "action"
+  ],
+  "new_busy": 85,
+  "new_full": 89,
+  "new_wrong": [],
+  "cards": [
+   [
+    "need_to_act",
+    "glance20",
+    "Yes — I have to respond to the IRS notice to verify the accuracy of your 2018 tax return"
+   ]
+  ]
+ },
+ "irs_cp12": {
+  "old_busy": 19,
+  "old_wrong": [
+   "action",
+   "contact"
+  ],
+  "new_busy": 58,
+  "new_full": 100,
+  "new_wrong": [
+   "consequence"
+  ],
+  "cards": [
+   [
+    "consequence",
+    "glance20",
+    "You are due a refund of $4,320.00"
+   ]
+  ]
+ },
+ "irs_cp14": {
+  "old_busy": 100,
+  "old_wrong": [],
+  "new_busy": 100,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "irs_cp504": {
+  "old_busy": 93,
+  "old_wrong": [],
+  "new_busy": 93,
+  "new_full": 100,
+  "new_wrong": [
+   "deadline"
+  ],
+  "cards": [
+   [
+    "deadline",
+    "phone",
+    "January 30, 2019"
+   ]
+  ]
+ },
+ "irs_cp523": {
+  "old_busy": 93,
+  "old_wrong": [],
+  "new_busy": 96,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "nc_renewal": {
+  "old_busy": 80,
+  "old_wrong": [
+   "consequence"
+  ],
+  "new_busy": 80,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "ohio_renewal": {
+  "old_busy": 96,
+  "old_wrong": [],
+  "new_busy": 100,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ },
+ "va_approval": {
+  "old_busy": 53,
+  "old_wrong": [
+   "action",
+   "consequence"
+  ],
+  "new_busy": 61,
+  "new_full": 83,
+  "new_wrong": [],
+  "cards": [
+   [
+    "consequence",
+    "glance20",
+    "If your benefits are being stopped or changed, you have the right to ask for an appeal. The letter o"
+   ]
+  ]
+ },
+ "va_checklist": {
+  "old_busy": 82,
+  "old_wrong": [],
+  "new_busy": 56,
+  "new_full": 80,
+  "new_wrong": [],
+  "cards": []
+ },
+ "va_termination": {
+  "old_busy": 58,
+  "old_wrong": [],
+  "new_busy": 67,
+  "new_full": 100,
+  "new_wrong": [],
+  "cards": []
+ }
+}

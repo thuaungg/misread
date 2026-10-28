@@ -1,0 +1,16 @@
+{
+  "title": "Inscription au service de garde 2026-2027",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "French",
+  "box_heading": "Ce que vous devez faire",
+  "action_required": true,
+  "summary": "L’école demande à tous les parents d’inscrire leur enfant au service de garde 2026-2027 en ligne, ou d’indiquer qu’ils n’en ont pas besoin, entre le 2 et le 13 février 2026.",
+  "facts": {
+    "action": "Inscrire votre enfant au service de garde en ligne, ou indiquer « Ne pas inscrire au service de garde » si vous n’en avez pas besoin. En garde partagée, le premier répondant doit agir en premier.",
+    "deadline": "Entre le 2 et le 13 février 2026 (au plus tard le 13 février).",
+    "consequence": "Not stated in the letter.",
+    "contact": "Le service de garde de l’école."
+  },
+  "trap": "Even parents who don't need daycare must log in and say so; the start date to enter is 31 August 2026, which is not a deadline."
+}

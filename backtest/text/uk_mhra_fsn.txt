@@ -1,0 +1,283 @@
+## Medical Device Alert
+
+## Ref: MDA/2014/037 Issued: 26 September 2014 at 14:00
+
+## Device
+## All medical devices.
+
+## Problem Action
+
+Delays in acting on Field Safety Notices (FSNs)
+can compromise patient safety. • Ensure there is a system in place for
+appropriate cascading of FSNs and to
+MHRA is aware that FSNs sent by ensure action has been taken.
+manufacturers are not always cascaded in an
+effective and timely manner to the relevant • **For England only** , ensure that relevant
+people that need to be aware of the reported trusts/organisations as identified in the
+problem and for the required actions to be Patient Safety Alert
+carried out. NHS/PSA/D/2014/006 have a Medical
+Devices Safety Officer (MDSO) who is
+MHRA often has to issue Medical Device Alerts registered with the Central Alerting
+(MDAs) reminding users about manufacturers’ System (CAS).
+FSNs where there is insufficient feedback that it
+has reached the appropriate people and been • **For Northern Ireland only** , ensure
+acted upon. trusts/organisations have a Medical
+Devices Liaison Officer (MDLO)
+Action by registered with the Northern Ireland
+Adverse Incident Centre.
+Chief executives/clinical governance leads
+supported by:
+Risk managers, Medical Devices Safety Officers
+(MDSOs), Medical Devices Liaison Officers
+(MDLOs), CAS Officers, EBME managers,
+equipment library managers
+## CAS deadlines Contact
+
+Action underway: 27 October 2014 Adverse Incident Centre
+Medicines & Healthcare products Regulatory
+Action complete: 26 November 2014 Agency
+Tel: 020 3080 7080
+**Note: These deadlines are for systems to be** Email: aic@mhra.gsi.gov.uk
+**in place for cascading FSNs and for a MDSO to be in post (in England).**
+
+Page 1 of 5
+
+## Issued: 26 September 2014 at 14:00 Ref: MDA/2014/037
+
+## Problem
+A Field Safety Notice (FSN) is a communication sent by medical device manufacturers, or their
+representatives, in connection with a Field Safety Corrective Action (FSCA). FSNs outline actions to be
+taken to reduce the risk of death or serious injury associated with the use of a medical device.
+
+A manufacturer undertakes a FSCA for technical or clinical reasons connected with the characteristics or
+performance of a device, where death or serious injury might result. Manufacturers use a FSN to tell their
+customers about a FSCA that they are undertaking.
+
+The MHRA assesses each FSCA and decides whether further advice is required e.g. a Medical Device Alert
+(MDA). If a MDA is issued it will then be distributed via the Central Alerting System (CAS recipients of MDAs
+are required to submit separate feedback on action taken). MDAs are not issued for every FSN.
+
+We currently place manufacturers' FSNs on our website for information only and they will not normally
+require further action by you unless you have been contacted directly by the manufacturer or we have
+issued supplementary advice such as a Medical Device Alert.
+
+It is very important that your organisation takes the actions detailed in the FSN and replies to the
+manufacturer, acknowledging receipt of the FSN. Your organisation's reply is the evidence that the
+manufacturer, and subsequently the MHRA, needs to monitor the progress of the FSCA. Without this reply
+the manufacturer cannot properly verify if the FSCA is complete and so the MHRA may need to issue
+advice. Your organisation could be liable if it does not act on safety information provided by the
+manufacturer and something goes wrong as a result.
+
+**For England only -** Patient Safety Alert NHS/PSA/D/2014/006 issued 20 March 2014 highlights
+recommended changes to strengthen local clinical governance arrangements including the need to identify
+Medical Devices Safety Officers (MDSO) who will replace Medical Devices Liaison Officers (MDLO).
+
+In the future, manufacturers will have access to the MDSO/MDLO contact list and will be requested to
+include MDSO contact when issuing FSNs. Therefore, it is important for MDSOs in England to be registered
+with the CAS team as requested in NHS/PSA/D/2014/006.
+
+**For Northern Ireland** - MDLOs should be registered with the Northern Ireland Adverse Incident Centre and
+keep their contact details current with their appropriate body in accordance with their administration
+guidance.
+
+## Distribution
+This MDA has been sent to:
+• Care Quality Commission (CQC) (headquarters) for information
+• Clinical commissioning groups (CCGs)
+• Directors of public health
+• HSC trusts in Northern Ireland (chief executives)
+• Local authorities in Scotland (equipment co-ordinators)
+• NHS boards and trusts in Wales (chief executives)
+• NHS boards in Scotland (equipment co-ordinators)
+• NHS England area teams
+• NHS trusts in England (chief executives)
+• OFSTED (directors of children’s services) for information
+• Public Health England (for information)
+• Social services in England (directors)
+• Special health authorities for information
+
+**Onward distribution**
+Please bring this notice to the attention of relevant employees in your establishment.
+Below is a suggested list of recipients.
+
+MHRA Page 2 of 5
+
+## Issued: 26 September 2014 at 14:00 Ref: MDA/2014/037
+
+## Trusts
+CAS and SABS (NI) liaison officers for onward distribution to all relevant staff including:
+• All departments
+• All staff
+• All wards
+• Clinical governance leads
+• Community hospitals
+• Community services
+• Day surgery units
+• EBME departments
+• Equipment libraries and stores
+• Equipment stores
+• Health and safety managers
+• Hospital pharmacies
+• Maintenance staff
+• Medical directors
+• Minor injury units
+• MRI units, directors of
+• NHS walk-in centres
+• Nursing executive directors
+• Outpatient clinics
+• Patient transport managers
+• Purchasing managers
+• Radiology departments
+• Risk managers
+• School nurses
+• Sterile services departments
+• Supplies managers
+• Theatres
+• Walk-in centres
+• Wheelchair service managers
+
+## Public Health England
+Directors for onward distribution to:
+• Collaborating centres
+• Consultants in communicable disease control
+• Divisional directors
+• Heads of department
+• Heads of health, safety and quality
+• Health protection nurses
+• HPA laboratories
+• Laboratory managers
+• Regional business managers
+• Regional directors
+• Regional epidemiologists
+• Regional leads
+• Regional microbiologists
+• Risk manager
+• Safety officers
+
+## NHS England area teams
+CAS liaison officers for onward distribution to all relevant staff including:
+• Community optometrists
+• Community pharmacists
+• Dispensing opticians
+• General dental practitioners
+• General practitioners
+• Nutritional nurse specialists
+• Occupational health departments
+• Optometrists
+• Practice managers
+• Practice nurses
+
+## Social services
+Liaison officers for onward distribution to all relevant staff including:
+• Back care/manual handling advisors
+• Care at home staff
+• Care management team managers
+• Children’s disability services
+• Community care staff
+
+MHRA Page 3 of 5
+
+## Issued: 26 September 2014 at 14:00 Ref: MDA/2014/037
+
+• Day centres (older people, learning disabilities, mental health, physical disabilities, respite care, autistic services)
+• Disability equipment stores
+• Education departments for equipment held in schools
+• Environmental health officers
+• Equipment stores
+• Equipment supplies managers
+• In-house domiciliary care providers (personal care services in the home)
+• In-house residential care homes
+• Loan store managers
+• Loaned equipment store managers
+• Occupational health departments
+• Occupational therapists
+• Schools with hoists
+• Transport managers
+• Wheelchair and seating service managers
+
+## Independent distribution
+
+## Establishments registered with the Care Quality Commission (CQC) (England only)
+This alert should be read by:
+• Adult placement
+• Care homes providing nursing care (adults)
+• Care homes providing personal care (adults)
+• Clinics
+• Domiciliary care providers
+• Further education colleges registered as care homes
+• Hospices
+• Hospitals in the independent sector
+• Independent treatment centres
+• Nursing agencies
+• Private medical practitioners
+
+## Establishments registered with OFSTED
+This alert should be read by:
+• Children’s services
+• Educational establishments with beds for children
+• Residential special schools
+
+## Please note: CQC and OFSTED do not distribute these alerts. Independent healthcare providers and social
+## care providers can sign up to receive MDAs directly from the Department of Health’s Central Alerting
+## System (CAS) by sending an email to: safetyalerts@dh.gsi.gov.uk and requesting this facility.
+
+## England
+
+## If you are in England, please send enquiries about this notice to the MHRA, quoting reference number
+## MDA/2014/037 or 2013/012/012/081/011
+
+## Technical aspects
+## Adverse Incident Centre
+## Medicines & Healthcare Products Regulatory Agency
+## Floor 4, 151 Buckingham Palace Road, London SW1W 9SZ
+## Tel: 020 3080 7080 Fax: 020 3118 9814
+## Email: aic@mhra.gsi.gov.uk
+
+## Clinical aspects
+## Mark Grumbridge
+## Medicines & Healthcare Products Regulatory Agency
+## Floor 4, 151 Buckingham Palace Road, London SW1W 9SZ
+## Tel: 020 3080 7128 Fax: 020 8754 3965
+## Email: mark.grumbridge@mhra.gsi.gov.uk
+
+MHRA Page 4 of 5
+
+## Issued: 26 September 2014 at 14:00 Ref: MDA/2014/037
+
+## How to report adverse incidents
+Please report via our website http://www.mhra.gov.uk
+Further information about **CAS** can be found at https://www.cas.dh.gov.uk/Home.aspx
+
+## Northern Ireland
+Alerts in Northern Ireland will continue to be distributed via the NI SABS system.
+Enquiries and adverse incident reports in Northern Ireland should be addressed to:
+Northern Ireland Adverse Incident Centre
+Health Estates Investment Group, Room 17, Annex 6, Castle Buildings, Stormont Estate,
+Dundonald BT4 3SQ
+Tel: 02890 523 704 Fax: 02890 523 900 Email: NIAIC@dhsspsni.gov.uk
+http://www.dhsspsni.gov.uk/index/hea/niaic.htm
+
+## How to report adverse incidents in Northern Ireland
+Please report directly to NIAIC, further information can be found on our website http://www.dhsspsni.gov.uk/niaic
+Further information about **SABS** can be found at http://sabs.dhsspsni.gov.uk/
+
+## Scotland
+All requests regarding return, replacement or modification of the devices mentioned in this alert should be
+directed to the relevant supplier or manufacturer.
+Other enquiries and adverse incident reports in Scotland should be addressed to:
+Incident Reporting and Investigation Centre
+NHS National Services Scotland, Gyle Square, 1 South Gyle Crescent, Edinburgh EH12 9EB
+Tel: 0131 275 7575 Fax: 0131 314 0722 Email: nss.iric@nhs.net
+http://www.hfs.scot.nhs.uk/online-services/incident-reporting-and-investigation-centre-iric/
+
+## Wales
+Enquiries in Wales should be addressed to:
+Improving Patient Safety Team
+Medical Directorate, Welsh Government, Cathays Park, Cardiff CF10 3NQ
+Email: improvingpatientsafety@wales.gsi.gov.uk
+
+MHRA is an executive agency of the Department of Health
+© Crown Copyright 2014
+Addressees may take copies for distribution within their own organisations
+
+MHRA Page 5 of 5

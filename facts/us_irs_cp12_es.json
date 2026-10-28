@@ -1,0 +1,16 @@
+{
+  "title": "Aviso CP12 del IRS: cambios en su declaración de 2009",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Spanish",
+  "box_heading": "Qué necesita hacer",
+  "action_required": "conditional",
+  "summary": "El IRS corrigió un error de cálculo en su Formulario 1040 de 2009 y le corresponde un reembolso de $543.00. Si no está de acuerdo, tiene 60 días para comunicarse con el IRS.",
+  "facts": {
+    "action": "Revise el aviso y compare los cambios con su declaración. Si está de acuerdo, no necesita hacer nada: recibirá un reembolso de $543.00 en 4 a 6 semanas. Si no está de acuerdo, llame al 1-800-829-8374 o escriba al IRS.",
+    "deadline": "Dentro de 60 días a partir de la fecha del aviso (9 de febrero de 2011), solo si no está de acuerdo.",
+    "consequence": "Si no se comunica con el IRS dentro de los 60 días, perderá el derecho de apelar ante un tribunal antes de pagar impuestos adicionales.",
+    "contact": "IRS, teléfono 1-800-829-8374."
+  },
+  "trap": "'Only if' letter: the refund needs no action; only people who disagree must reply within 60 days."
+}

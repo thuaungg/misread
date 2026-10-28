@@ -1,0 +1,16 @@
+{
+  "title": "Anugerah Edusave bagi Sekolah Rendah",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Malay",
+  "box_heading": "Apa yang perlu anda lakukan",
+  "action_required": "conditional",
+  "facts": {
+    "action": "Hanya jika anak anda layak untuk Dermasiswa Merit Edusave (25% terbaik, berkelakuan baik, pendapatan keluarga tidak melebihi $6,900 sebulan atau $1,725 per kapita): lengkapkan borang permohonan yang dihantar melalui pos pada lewat November dan hantarkannya ke kelab masyarakat yang terdekat dengan rumah anda. Anugerah lain tidak perlu dipohon.",
+    "deadline": "Awal bulan Disember.",
+    "consequence": "Not stated in the letter.",
+    "contact": "Not stated in the letter."
+  },
+  "trap": "The only task (the bursary form, by early December) sits in one table cell; every other award needs nothing, and 'late November' is when letters are posted, not a deadline.",
+  "summary": "Surat ini menerangkan Anugerah Edusave. Kebanyakan anugerah diberi secara automatik; hanya keluarga yang layak untuk Dermasiswa Merit Edusave perlu memohon, pada awal Disember."
+}

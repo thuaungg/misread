@@ -1,0 +1,16 @@
+{
+  "title": "Pemberitahuan Kegiatan Live-In Kelas 10 SMA Talenta",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Indonesian",
+  "box_heading": "Yang perlu Anda lakukan",
+  "action_required": true,
+  "summary": "Siswa kelas 10 wajib mengikuti Live-In pada 28 Januari–2 Februari 2024; orang tua membayar Rp570.000 paling lambat 15 Desember 2023 dan mengirim bukti transfer ke wali kelas.",
+  "facts": {
+    "action": "Membayar biaya Live-In Rp570.000 melalui transfer ke rekening Bank OCBC NISP 0000-1234-5678 (a.n. Bendahara Sekolah), lunas pada November 2023 atau dicicil Rp190.000 pada Oktober, November dan Desember 2023, lalu mengirim bukti transfer ke WhatsApp wali kelas.",
+    "deadline": "Paling lambat 15 Desember 2023.",
+    "consequence": "Not stated in the letter.",
+    "contact": "Wali kelas 10 masing-masing melalui WhatsApp (nomor tercantum di surat)."
+  },
+  "trap": "The deadline (15 December) conflicts with the payment options (in full in November, or monthly instalments), and one amount is misprinted as 'Rp. 570.00'."
+}

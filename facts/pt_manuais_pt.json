@@ -1,0 +1,16 @@
+{
+  "title": "Devolução dos Manuais Escolares 2025/2026 – Programa Mega (Secundário)",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Portuguese",
+  "box_heading": "O que precisa de fazer",
+  "action_required": "conditional",
+  "summary": "A escola informa o calendário de devolução dos manuais escolares (8 a 16 de julho) e as regras sobre o seu estado; sem devolver os manuais do 12.º ano não é emitida a ficha ENES.",
+  "facts": {
+    "action": "Se o aluno transitou de ano ou vai mudar de curso ou de escola: devolver os manuais na Biblioteca da Escola Secundária Júlio Dantas no dia marcado para a turma, completos e em bom estado. Se não transitou e não muda de curso nem de escola, não devolve.",
+    "deadline": "Até 16 de julho, no dia da turma (8 a 16 de julho); 5 e 6 de agosto para os manuais guardados para a 2.ª fase dos exames nacionais.",
+    "consequence": "Manuais em mau estado estão sujeitos a penalidades; sem devolver os manuais do 12.º ano não é emitida a ficha ENES nem o certificado de conclusão do curso.",
+    "contact": "Not stated in the letter."
+  },
+  "trap": "Each class has its own day in a table, some students must NOT return their books, and year-12 students risk their exam form."
+}

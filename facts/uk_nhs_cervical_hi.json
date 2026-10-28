@@ -1,0 +1,16 @@
+{
+  "title": "NHS सर्वाइकल स्क्रीनिंग का आमंत्रण",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Hindi",
+  "box_heading": "आपको क्या करना है",
+  "action_required": "conditional",
+  "facts": {
+    "action": "सर्वाइकल स्क्रीनिंग का अपॉइंटमेंट बुक करने के लिए अपनी GP सर्जरी से संपर्क करें; कुछ यौन स्वास्थ्य क्लिनिक भी यह जांच करते हैं।",
+    "deadline": "Not stated in the letter.",
+    "consequence": "स्क्रीनिंग के इतिहास के बावजूद, अगर योनि से असामान्य रक्तस्राव, यौन संबंध के दौरान दर्द या असामान्य स्राव जैसे नए लक्षण हों, तो जल्द से जल्द GP से बात करें।",
+    "contact": "आपकी GP सर्जरी। 0300 311 22 33 और england.contactus@nhs.net केवल इस पत्र को वैकल्पिक प्रारूप में पाने के लिए हैं, अपॉइंटमेंट बुक करने के लिए नहीं।"
+  },
+  "trap": "The only phone number and email in the letter are for other formats of the letter, not for booking; you book through your GP.",
+  "summary": "NHS आपको सर्वाइकल स्क्रीनिंग के लिए आमंत्रित करता है: अपॉइंटमेंट के लिए अपनी GP सर्जरी से संपर्क करें। पत्र में दिया फ़ोन नंबर बुकिंग के लिए नहीं है।"
+}

@@ -1,0 +1,354 @@
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748**
+
+9 January 2026
+
+Dear Parents/Guardian
+
+**Parental Consent for the Purchase of Personal Learning Device ("PLD")**
+
+This letter provides important information on the purchase of a PLD for your child/ward as
+part of the National Digital Literacy Programme (“ **NDLP** ”) and the accompanying applications that the
+school may be rolling out.
+
+2. T he NDLP was launched at MOE’s Committee of Supply Debate in March 2020 to help
+students strengthen their digital literacy. One of the components of the NDLP is the introduction of
+the Personalised Digital Learning Programme (“ **PDLP** ”) for all secondary school students, whereby
+every secondary school student will own a school-prescribed PLD. The PLD will be used together
+with the national e-learning platform – the Singapore Student Learning Space (“ **SLS** ”) – as well as
+other educational technology t o personalise and enhance students’ learning. This will also enable
+students to acquire digital skills and apply these skills as they navigate an increasingly digitalised
+world.
+
+3. **Purchase of PLD bundle.** The school has arranged for you to purchase the PLD from **Acer Computer (Singapore) Pte Ltd** (Vendor) for your child's/ward's use in school. The Vendor was
+chosen from an MOE panel of awarded suppliers based on the choice of device determined by the
+school. The PLD bundle which includes warranty and insurance for purchase by your child/ward will
+be:
+
+**- Model: Chromebook Spin R857TN - Processor: Intel Processor N150 - Memory (size, type, speed): 8GB LPDDR5X 4800MT/s - Storage (type and size): 64GB eMMC - Screen size: 12.2" WUXGA Touch Display - Enhanced Bundle Warranty: 3-Year Carry-in Warranty - Enhanced Bundle Insurance: 3-Year Insurance Upgrade Item(s):**
+- WARRANTY & INSURANCE: Add-on 4th Year Warranty & Insurance
+
+**Add-on/Accessories Item(s):**
+- OEM Branded - USB Earpiece with Mic
+
+The price of the device bundle (inclusive of GST) is **S$608.20**
+
+4. **Use of Edusave** . Students who are Singapore citizens can use their Edusave to pay fully or
+partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians
+can also choose to pay cash for the PLD. MOE has provided Edusave top-ups from 2020 to 2023 to
+all eligible Singaporean students in primary and secondary schools. In 2025, MOE provided a $500
+Edusave top-up for students aged 13-16 years old. This is on top of the annual Edusave contribution
+of $290 for secondary school students and $230 for primary school students.
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748**
+5. **Financial Assistance** . Subsidies are available for students who require funding support to
+purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance
+Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies
+have been granted. Please see the table below for information on the eligibility for the subsidy:
+
+**Students eligible for Income criteria How to Apply for subsidy Subsidy**
+Students under MOE FAS Gross Household Income (“ **GHI** ”) is No action required.
+$4,000 or less, or Automatically subsidised
+Per Capita Income (“ **PCI** ”)* is $1,000 or for the PLD.
+less
+Students under School- **GHI** is $5,500 or less, or Approach the school’s
+based FAS **PCI** is $1,375 or less General Office to apply
+for a subsidy.
+Students who are currently **GHI** is $5,500 or less, or Approach the school’s
+not under the MOE FAS or **PCI** is $1,375 or less General Office to apply
+School-based FAS for a subsidy.
+*** PCI** refers to the GHI divided by the total number of family members in the household.
+
+6. **IT Applications** . Schools will progressively roll out IT applications that will be vital for students’
+teaching and learning through this programme. These include:
+(a) **Student iCON (Google Workspace):** Every secondary school student will be provided
+with access to the Google Suite set of tools, including email address.
+(b) **Microsoft 365 Pro Plus:** Every secondary school student will be able to use Microsoft
+Office tools that include Word, PowerPoint, and Excel.
+
+The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user
+accounts. The school may also install additional EdTech applications other than the two listed above
+and will inform your child/ward prior to the rollout.
+
+7. **Device Management Application (“DMA”).** A **DMA** will be pre-installed on all PLDs
+purchased through the school and will need to be installed on devices that parents/guardians have
+opted for the student to use in lieu of the PLD purchased through the school, after parents/guardians
+have given consent. The DMA has 3 main components which will support the effective use of the PLD
+in the classroom to enhance students' learning and safeguard their cyber wellness:
+(a) Classroom Management Service. To help teachers manage students’ use of the PLD
+during lesson time to improve classroom management and support effective teaching
+and learning.
+(b) Mobile Device Management Service. To help update and manage the PLD, protect the
+PLD from malicious software, and protect students from objectionable internet content.
+(c) Usage Management Service. To enable school and/or parents/guardians to better
+supervise and set helpful limits for students’ use of PLD after school.
+
+8. **Cyber Wellness** . Parents/Guardians may have concerns regarding students’ cyber wellness
+with the introduction of the PLD. The DMA allows the school to manage this by:
+(a) collecting data on usage by the student, such as the websites accessed on the PLD,
+(b) monitoring, filtering, and limiting the type of websites accessible to the student, and
+(c) placing restrictions on students’ screen time to prevent cyber addiction.
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748**
+
+Please refer to Annexes A, B and C for more details on the functions and features of the DMA, and
+on the collection and protection of personal data.
+
+9. **Devices not purchased through the school.** If parents/guardians choose not to purchase
+the school-prescribed PLD bundle (see para 3) and prefer that their child/ward use their own
+computing device (“non-prescribed device”) in school, that device must have the same Operating
+System (OS) as the school-prescribed PLD. The school will verify that the device has the same OS
+as the school-prescribed PLD and is compatible with the DMA before approving it as an alternative to
+the school-prescribed PLD. Parents will be required to consent to the installation of the DMA, and the
+DMA must be installed in the non-prescribed device, before it can be used in school in lieu of the
+school-prescribed PLD.
+
+10. To proceed with the purchase of the school-prescribed PLD, please consent for the purchase
+via the Parents Gateway (PG) notification. Parents who want to use Edusave funds for the PLD
+purchase (for Singapore citizens students only), please submit the online Standing Order (SO) from
+via this link: https://go.gov.sg/edusaveformsgso by **18 January 2026** . This SO is only applicable to
+secondary school students. If you are unable to submit the online form, please approach the school
+for assistance or request a hardcopy form.
+
+11. Should there be any further queries or clarifications, please contact Mrs Jacqueline Lee at
+6876 7129 or email to tan_chew_hsia_jacqueline@moe.edu.sg.
+
+Thank you.
+
+Yours sincerely
+
+Mrs Regina Lee
+Principal
+Yishun Secondary School
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748 Annex A: Functions of the DMA Functions Details 1. Mobile Device Management Service** • Facilitates automatic installation of applications
+required for teaching and learning
+This facilitates the **updating and** • Filters objectionable content or content that
+**management of the PLDs** , **protects PLDs** may not be conducive to teaching and learning
+**from malicious software** , and **protects** (e.g., pornography, gambling, or websites
+**your child/ward from objectionable** containing extremist content)
+**internet content, or content that may not** • Enables automatic updating of PLD OS and its
+**be conducive to teaching and learning** applications in accordance with cybersecurity
+**during school hours** . best practices
+
+**2. Classroom Management Service** During lessons, teachers will be able to:
+• Guide and monitor students’ use of devices
+Enables teachers to **manage the student’s** (e.g., lock or unlock screen to redirect students’
+**use of the PLD** during lesson time to attention or screen sharing)
+improve classroom management and • Launch specific applications and/or websites
+support effective teaching and learning. for teaching and learning on your child’s/ward’s
+device
+Teachers will only be able to view students’ • Facilitate the sharing of content
+screens during lessons.
+**3. Usage Management Service*** • Screen time control to allow school and/or
+parents/guardians to set usage limits so that
+Enables the school and/or your child/ward does not use the PLD
+parents/guardians* to **better supervise and** excessively
+**set helpful limits for your child’s/ward’s** • School and/or parents/guardians can control
+**use of PLD after school** . installation of applications to ensure that the
+device is used optimally for teaching and
+learning
+* Only available for parents/guardians on • Filters objectionable content to protect your
+Option A (See Annex B below) child/ward from harmful content
+• Parents/Guardians can manage device usage
+of child/ward
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748 Annex B: MOE DMA Settings After School Hours for Chromebook PLDs 1**
+1. The Device Management Application (DMA) solution for Chromebook PLDs is LightSpeed
+Systems®.
+2. During school hours, the Default Setting will apply.
+3. After school hours, parents/guardians have a choice to continue with the Default or opt for an
+Alternative Setting. The following table outlines the different levels of restrictions, controls, and
+monitoring for the different DMA options after school hours.
+Alternative Setting: Alternative Setting:
+**Default Setting Option A Option B**
+(Note: This will apply if no
+(DMA settings can be (DMA will be inactive **only**
+Alternative Option is chosen)
+modified) after school hours) 2
+For parents/guardians who For parents/guardians who For parents/guardians who
+**Function** want their child’s/ward’s use prefer to take charge of the do not want their
+of the PLD to be restricted level of restrictions for their child’s/ward’s use of the
+only to teaching and learning child’s/ward’s use of the PLD after school hours to be
+and prefer to leave it to the PLD after school hours regulated by the DMA at all.
+school to decide on DMA regulated by the DMA.
+settings after school hours.
+Protect Web content filtering will Parents/Guardians will be No content filtering after
+students include, but is not limited to able to include additional school hours if a student
+from the following categories: web content filtering by logs in to the Chromebook
+objectionable requesting school block any via his/her personal Google
+content • Violent/extremist content harmful website in addition Account.
+• Sexual/pornographic content to major social media
+• Suicide/self-harm content websites (e.g., YouTube,
+• Cyberbullying content Pinterest, X, Instagram,
+• Content endangering public Facebook).
+health However, parents/guardians
+• Gambling-related content cannot allow access to web
+content that is filtered out
+under the Default Setting.
+Parents can pause internet
+access after school hours.
+Reduce Parents/Guardians and Parents/Guardians will be Parents/Guardians and/or
+distractions students will be unable to able to install additional students will be able to
+from learning install additional Chrome Chrome extensions and/or install additional Chrome
+through extensions and/or applications by submitting a extensions and/or
+control of applications. request to the school. applications after school
+applications As these applications will be hours via the Google Play
+accessible both during and Store, using the
+after school hours, please parent’s/student’s personal
+ensure that the requested Google account.
+applications support your These applications will not
+child's/ward’s learning. be accessible during school
+hours as students will have
+to log in using their student
+iCON account.
+
+1 Please note that software features are subject to change and may be improved or updated over time.
+2 No data will be collected after school hours when the DMA is inactive.
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748**
+Limit screen The school will define the Parents/Guardians can No limitation on duration of
+time specific hours during which modify the amount of screen screen time after school
+the device is allowed to time for their child/ward by hours. Sleep hours are not
+access the internet. setting the PLD sleep hours enforced. 4
+to 1 prescribed time
+between 4:00pm and
+10:30pm or earlier. 3
+Monitor Parents/Guardians will not be Parents/Guardians can track Parents/Guardians will not
+students’ able to track their their child’s/ward’s browser be able to track their
+cyber child’s/ward’s web browser history via the Lightspeed child’s/ward’s web browser
+activities history. parents’ portal. A Filter history.
+Portal Weekly Report can
+also be emailed to them.
+
+Provision of
+Parent **X √ X**
+Account
+
+4. The after-school hours are as follows:
+
+**School hours After-school hours**
+Regular school days Default settings between Parents’/Guardians’ after -school
+6:30 am to 4:00 pm option between 4:00 pm to 6:30 am
+Weekends and Parents’/Guardians’ After -School DMA Option for the whole day
+School Holidays
+
+5. Parents/Guardians may wish to consider the following questions before deciding which Alternative
+Setting option is best for their child/ward.
+
+**a. Child’s/Ward’s current device usage habits**
+o How much time does my child/ward spend on his/her device?
+o How well can my child/ward self-regulate his/her device usage?
+o Does my child/ward become easily distracted during online learning?
+
+**b. Parental/Guardian involvement**
+o Am I familiar with the various cyber threats that my child/ward might encounter?
+o Are there routines and conversations on the use of internet at home?
+o How confident am I in ensuring my child’s/ward’s cyber wellness?
+
+3 During school hours, the screen time limits set by the school will override parents/guardians’ settings.
+4 It is not recommended to install other parental controls (e.g. Family Link) as this could result in conflicting settings
+between school and parent controls. It may result in unexpected issues where some controls such as screen time
+restrictions may not work as intended.
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748 Annex C: Privacy and Data Security Part 1: Data Collected and Managed by the DMA**
+
+1. The DMA does **NOT** collect any of the following data:
+● Login IDs and passwords entered into websites or into any applications
+● Actions performed (e.g., posts, online comments, items added to a shopping cart, etc.) when
+visiting websites and using applications
+● Documents and photos stored in the PLD
+● PLD location
+● Webcam videos and microphone recordings
+
+2. The information collected by DMA will be accessible by the following personnel:
+**Data Collected by DMA Appointed Admin DMA Parent/ from MOE Teacher Vendors Guardian 5 HQ and school**
+Data for DMA administrative purposes such as:
+• Students’ and parents’/guardians’
+information (Name, school name, email
+addresses, and class)
+Y Y Y N
+• Applications installed in your child’s/ward’s
+PLD
+• Device and hardware information (e.g.,
+device model, storage space)
+Data for web content filtering such as:
+• URLs accessed on the PLDs ( Actions
+performed on websites are **NOT** captured) Y Y Y 6 Y
+• Date and time that a website is accessed
+• Student profile (Name, School name)
+Data for ensuring that installed applications are
+updated and functioning properly such as:
+• Installed applications and programs
+Y Y N N
+• Date and time that the applications and
+programs were last updated
+• Application error data
+Data for Sharing Students’ Screen N N Y N
+• The screen view will **NOT** be stored by the
+DMA
+
+5 Parents may request corrections to their personal data (e.g. email addresses, names) by contacting the school, in
+accordance with the PDPA.
+6 The teacher will only be able to access the logs pertaining to the student’s browser history for the class that the teacher
+teaches and will be able to access the logs outside of lessons. The teacher will not have access to the student’s browser
+history outside of those specific lessons.
+
+**WE SEEK, WE STRIVE, WE SOAR**
+
+## YISHUN SECONDARY SCHOOL
+**4 Yishun Street 71, Singapore 768516 Tel: 68767129 Fax: 67557748**
+Note: No data is collected after school hours for Alternative Setting: Option B.
+
+3. To prevent unauthorised access, DMA Administrators and the DMA Vendor will be required to
+access their accounts using 2-factor authentication or the equivalent to ensure proper
+accountability for information access and other activities performed. There will be regular account
+reviews and audits for DMA Administrators’ and the DMA Vendor’s accounts.
+
+4. All user data collected through the DMA (see paragraph 2 of Annex C) will be stored in secure
+servers managed by an appointed DMA Vendor with stringent access controls and audit trail
+implemented. The DMA is a trusted cloud-based Software-as-a-Service (SaaS) solution that has
+been operating for many years. The DMA has also been subjected to regular security review and
+assessment by independent reviewers. Data such as device information, email address of
+students and parents, device information will be deleted when the student graduates or leaves
+school. Website URLs accessed by students will be deleted at the end of each term.
+
+5. MOE has assessed and concluded that the DMA solution has sufficient security robustness to
+ensure data collected are properly stored and protected. MOE will also subject the DMA Vendor
+to regular audit on the security of the system based on tender requirements.
+
+**Part 2: Data collected and managed by the IT Applications**
+
+6. **IT Applications.** For the IT Applications (Student iCON and Microsoft 365 Pro Plus), the school
+will use your child’s/ward’s personal data such as his/her full name, birth certificate number and
+class to set up user accounts. This data will also be used for the purposes of authenticating and
+verifying user identity, troubleshooting and facilitating system improvements. In addition, the
+commercial providers of these platforms (e.g., Google, Microsoft) will collect and manage user
+data generated by your child’s/ward’s use of these applications. The collection, use and disclosure
+of such data are governed by the commercial provider’s terms of use, which can be found here:
+- Student iCON: https://workspace.google.com/terms/education_terms.html
+- Microsoft 365 Pro Plus: https://portal.office.com/commerce/mosa.aspx
+
+7. All user data which is collected by MOE will be stored in secure servers managed by the respective
+vendors of our systems. The Government has put in place strong personal data protection laws
+and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer
+to this website for more information on these laws and policies: https://www.mddi.gov.sg/other-
+pages/personal-data-protection-laws-and-policies/
+
+**WE SEEK, WE STRIVE, WE SOAR**

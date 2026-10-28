@@ -1,0 +1,161 @@
+<From Address> COUNTY OF STATE OF CALIFORNIA
+HEALTH AND WELFARE AGENCY
+DEPARTMENT OF SOCIAL SERVICES
+
+NOTICE DATE:
+CASE NAME:
+CALHEERS CASE NUMBER:
+SAWS CASE NUMBER:
+**WORKER NAME: WORKER ID:**
+TELEPHONE NUMBER:
+**CUSTOMER ID: NOTICE OF ACTION MEDI-CAL APPROVAL, CHANGE,**
+<To Address>
+**DENIAL, AND DISCONTINUANCE**
+
+We have reviewed your eligibility for health coverage. We **State Hearing:** If you think this action is wrong, you can ask
+used the information you gave us and state and federal for a hearing. The back page tells you how. Your benefits
+data to make this decision. may not be changed if you ask for a hearing before this
+action takes place. You have only 90 days to ask for a
+Member(s) of your family have been approved or had a hearing. The 90 days started the day after the county sent
+change in benefits or have been denied or have been you this notice.
+discontinued for Medi-Cal. This Notice of Action explains
+the county's action for each person. As of <APP_MONTH>, your application for Medi-Cal
+As of <DATE>, Medi-Cal eligibility has been approved by benefits has been approved
+the following member(s) of your family:
+The following persons are eligible to receive full Medi-Cal
+Name(s): benefits:
+<NON_MAGI_PERSONS>
+<LIST_OF_APPROVED_NONMAGI_MAGI_PERSONS>
+As of <DATE>, Medi-Cal eligibility or share of cost or The share of cost (if any) for family members listed above
+premium will change for the following member(s) of your is listed below.
+family:
+Report Month <MONTH1> <MONTH2> <MONTH3>
+Name(s): Gross Income $0.00 $0.00 $0.00
+<LIST_OF_CHANGE_NONMAGI_MAGI_PERSONS> Net Non-Exempt Income $0.00 $0.00 $0.00
+Maintenance Need -$0.00 -$0.00 -$0.00
+Medi-Cal eligibility has been denied for the following
+Share Of Cost $0.00 $0.00 $0.00
+member(s) of your family:
+
+Name(s): Benefits for your infant child may continue up to age one
+<LIST_OF_DENIED_NONMAGI_MAGI_PERSONS> under Deemed Eligibility.
+If your family's income, property, or circumstances
+As of <DATE>, Medi-Cal eligibility has been discontinued
+change, you must report this to your worker within ten (10)
+for the following member(s) of your family:
+days. The name and phone number of your worker is
+listed above on this notice.
+Name(s):
+<LIST_OF_DISC_NONMAGI_MAGI_PERSONS> Ineligible members of your family may get Benefits
+Identification Cards (BICs) if your family has a share of
+**Rules:** These rules apply; you may review them at your local welfare cost. Take your plastic BIC with you each time you
+office: <REGULATIONS>
+
+MC 239 A/MC 239/MC-MAGI-C/MC-MAGI-T (11/2015) Page 1 of 4
+
+COUNTY OF STATE OF CALIFORNIA
+**NOTICE OF ACTION** HEALTH AND WELFARE AGENCY
+DEPARTMENT OF SOCIAL SERVICES
+**Continuation Page**
+NOTICE DATE:
+CASE NAME:
+CALHEERS CASE NUMBER:
+SAWS CASE NUMBER:
+**WORKER NAME: WORKER ID:**
+TELEPHONE NUMBER:
+**CUSTOMER ID:**
+
+decision.
+receive medical care. Your plastic card will show your
+medical provider if you have a share of cost.
+For Medi-Cal, your household size is <MagiSize> and
+Ineligible members of your family should present their your household income is <MagiIncome>. The Medi-Cal
+plastic BICs to their medical provider to help pay for your income limit for your household size is
+family's share of cost. Keep your plastic card with you at all <MagiIncomeLimit>. Your income is below this limit, so
+times. you qualify for full-scope Medi-Cal.
+If you have never received a Benefits Identification Card <MagiRegulation> is the regulation or law we relied on for
+(BIC), you will soon receive one in the mail. If you already this decision.
+have a BIC, you should keep using that card. If you
+previously received a BIC but no longer have that BIC, Medi-Cal is being denied for:
+contact your worker for a replacement. You should bring
+this card to your medical provider whenever you need care. <NON_MAGI_PERSONS>
+If you have family members who are eligible for Medi-Cal
+they will also receive cards. The reason for this denial is because you have not
+provided us with proof of the following information:
+DO NOT THROW AWAY YOUR BIC.
+Always present your BIC to your medical provider <Verifications>
+whenever you need care. This card is good as long as you
+are eligible for Medi-Cal. We asked you for the information, but we have not
+received it and it is essential in determining your Medi-Cal
+Pregnant women with a share of cost (SOC) may be eligibility.
+eligible to the Medi-Cal Access Program (MCAP). If you are
+interested, please call 1(800) 433-2611 or visit http:// Keep your plastic Benefits Identification Card (BIC).
+www.coveredca.com information and/or an application. Please do not throw it away. You can use it if you get
+Medi-Cal again.
+Report this coverage to your Eligibility Worker because
+your health insurance premium can be used to reduce your <PERSON_NAME> will no longer receive Medi-Cal
+SOC. services under the MAGI program.
+
+As of <BEG_DATE>, <PERSON_NAME> has a change in **<NAME>**
+eligibility. Your Medi-Cal will end the last day of <MonthYear1>
+because:
+**<NAME>**
+You told us you wanted your Medi-Cal benefits to end.
+Good news! Your Medi-Cal is changing to full-scope on
+<MonthDayYear1> because your income and/or We used the information you gave us and our records to
+household size changed. Your Medi-Cal coverage will make our decision. If you have questions or think we
+continue unless you are found no longer eligible. This made a mistake, or if you have more information to give
+could happen at the time your eligibility is renewed or us, call or write to your worker right away.
+when your situation changes.
+<MagiRegulation> is the regulation or law we relied on
+We counted your household size and income to make our for this decision.
+MC 239 A/MC 239/MC-MAGI-C/MC-MAGI-T (11/2015) Page 3 of 4
+
+COUNTY OF STATE OF CALIFORNIA
+**NOTICE OF ACTION** HEALTH AND WELFARE AGENCY
+DEPARTMENT OF SOCIAL SERVICES
+**Continuation Page**
+NOTICE DATE:
+CASE NAME:
+CALHEERS CASE NUMBER:
+SAWS CASE NUMBER:
+**WORKER NAME: WORKER ID:**
+TELEPHONE NUMBER:
+**CUSTOMER ID: Do you have any changes?** Over the next year, you are
+obligated to report any changes that would affect your
+health insurance within 10 days of such a change. You are
+obligated to contact us if:
+• You move.
+• Your income changes; or
+• Your household changes, for example, you
+marry/divorce, become pregnant, or have a
+child(ren)
+• You become qualified for other health insurance
+
+To report changes, please contact your county office using
+one of the following ways:
+• Telephone:
+• In person:
+• Fax:
+• Office Hours:
+
+To report changes, please contact your county office using
+one of the following ways:
+• County Worker:
+• County Worker ID:
+
+**If you already have a Benefits Identification Card (BIC), do not throw it away.**
+You should keep using that card. If you have never received
+a BIC, one will be mailed to you soon. If you
+previously received a BIC but no longer have that BIC,
+contact your worker for a replacement. The BIC has the
+information your provider needs to check your Medi-Cal
+eligibility. You should bring the BIC to your medical provider
+whenever you need care.
+
+**Questions?** If you have questions or need assistance
+please contact (989) 456-3221
+
+This notice is required by the Affordable Care Act per regulation 42 C.
+
+MC 239 A/MC 239/MC-MAGI-C/MC-MAGI-T (11/2015) Page 4 of 4

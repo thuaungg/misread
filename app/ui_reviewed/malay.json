@@ -1,0 +1,20 @@
+{
+ "_note": "Hand-checked Malay for the letter page. These win over the machine translation in cache/ui/malay.json.",
+ "view_skim": "Imbas",
+ "view_skim_note": "imbas — tajuk, teks tebal, baris pertama",
+ "verdict_wrong": "Pembaca yang mengimbas tersalah faham {list}.",
+ "verdict_missed": "Pembaca yang mengimbas terlepas {list}.",
+ "verdict_ok": "Pembaca yang mengimbas faham mesejnya.",
+ "mistakes_title": "Kesilapan orang apabila mereka mengimbas surat ini",
+ "skim_think": "Jika anda hanya mengimbas, anda mungkin fikir",
+ "ck_bold_detail": "Pembaca yang mengimbas membaca tajuk dan teks tebal dahulu. Tebalkan ayat yang memerlukan tindakan pembaca, atau kumpulkan ayat-ayat itu dalam kotak ringkas “Apa yang anda perlu lakukan” di bahagian atas.",
+ "scrambled_chip": "Teks mungkin rosak",
+ "note_scrambled": "Teks fail ini kelihatan rosak: fonnya menyembunyikan huruf sebenar, jadi nama, tarikh dan jumlah wang mungkin tersalah baca. Semak kunci jawapan dengan teliti berbanding surat bercetak, atau tampal teks daripada dokumen asal (contohnya fail Word atau laman web).",
+ "source_original": "{name} asal ↗",
+ "sample_values": "Nilai contoh ditambah",
+ "retrieved_on": "Diambil pada {date}.",
+ "read_in": "Bahasa",
+ "translating": "sedang menterjemah…",
+ "original": "Asal",
+ "back_original": "← Asal"
+}

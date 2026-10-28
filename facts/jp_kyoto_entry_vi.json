@@ -1,0 +1,16 @@
+{
+  "title": "Hướng dẫn thủ tục nhập học tiểu học (thành phố Kyoto)",
+  "design": "unknown",
+  "kind": "letter",
+  "language": "Vietnamese",
+  "box_heading": "Việc cần làm",
+  "action_required": "conditional",
+  "summary": "Hướng dẫn thủ tục nhập học tiểu học tại Kyoto: phần lớn gia đình chỉ cần chuẩn bị theo hướng dẫn của trường; nếu chuyển nhà hoặc học trường khác, hãy liên hệ trường được chỉ định.",
+  "facts": {
+    "action": "Nếu nhập học vào trường được chỉ định: chuẩn bị theo hướng dẫn của trường. Nếu đã chuyển nhà sau tháng 10, sắp chuyển nhà trước lễ nhập học, muốn học trường tư thục, trường công lập hoặc trường ngoài khu vực: liên hệ trường được chỉ định (nộp Giấy khai báo nếu học trường tư thục, trường công lập).",
+    "deadline": "Not stated in the letter.",
+    "consequence": "Not stated in the letter.",
+    "contact": "Trường được chỉ định (ghi ở góc dưới bên phải của thông báo nhập học)."
+  },
+  "trap": "Most families need do nothing extra; the actions are all 'only if' cases spread across the page."
+}
