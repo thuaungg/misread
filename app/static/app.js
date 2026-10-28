@@ -413,7 +413,44 @@ async function startYourLetter({ title, text, upload }) {
     cur.keyState = "error";
     cur.keyError = e.message;
   }
-  if (state.cur === cur) swap(renderWork);
+  if (state.cur !== cur) return;
+  // a screen change can stall in a background tab, so the alert doesn't wait on it for long
+  Promise.race([swap(renderWork), sleep(1200)]).then(() => { if (state.cur === cur) kindAlert(cur); });
+}
+
+/* A news article, newsletter or blank template gives busy readers nothing to get right or wrong,
+   so the writer is told up front, in the middle of the screen: pick another file, or test it knowing. */
+function kindAlert(c) {
+  const f = c.fact;
+  if (c.id || c.kindAlerted || !f || !f.kind || f.kind === "letter" || !UI_EN[`kind_${f.kind}_note`]) return;
+  c.kindAlerted = true;
+  const pasted = c.upload && c.upload.name === "Pasted text";
+  const d = document.createElement("dialog");
+  d.className = "kind-pop";
+  d.setAttribute("aria-labelledby", "kindPopTitle");
+  d.innerHTML = `<div class="kind-body">
+    <button class="kind-x" type="button" data-pop="anyway" aria-label="${esc(T("close"))}">✕</button>
+    <span class="kind-tag mono small">⚠ ${esc(T(`kind_${f.kind}_chip`))}</span>
+    <h2 id="kindPopTitle">${esc(f.kind_name ? T("kind_pop_title", { what: f.kind_name }) : T("kind_pop_title_generic"))}</h2>
+    <p>${esc(T(`kind_${f.kind}_note`))}</p>
+    <div class="row">
+      <button class="btn primary" type="button" data-pop="other">${esc(T(pasted ? "kind_pop_paste" : "kind_pop_upload"))}</button>
+      <button class="btn" type="button" data-pop="anyway">${esc(T("kind_pop_anyway"))}</button>
+    </div></div>`;
+  d.addEventListener("close", () => d.remove());
+  d.onclick = (e) => {
+    if (e.target === d) return d.close();  // a click on the dimmed page around it
+    const b = e.target.closest("[data-pop]");
+    if (!b) return;
+    d.close();
+    if (b.dataset.pop !== "other") return;
+    goHome();
+    if (pasted) $("#pasteBtn").click();
+    else $("#fileInput").click();  // still inside the click, so the browser opens the file picker
+  };
+  document.body.appendChild(d);
+  d.showModal();
+  $(".btn.primary", d).focus();
 }
 
 /* ============================================================ letter page */

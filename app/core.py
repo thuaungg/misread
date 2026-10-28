@@ -387,15 +387,19 @@ KINDS = ("letter", "newsletter", "template", "not_a_letter")
 
 
 def classify_kind(letter):
-    """letter / newsletter / template / not_a_letter. Its own call: asked alongside the answer key,
-    the model calls almost everything a letter."""
+    """(kind, name): letter / newsletter / template / not_a_letter, and what the document is in a
+    few words of its own language ("news article"), for the page's "not a letter" warning. Its own
+    call: asked alongside the answer key, the model calls almost everything a letter."""
     user = (f"DOCUMENT:\n<<<\n{letter[:60000]}\n>>>\n\n{KIND_RULES}\n\n"
-            'Reply with JSON only: {"kind": "letter" or "newsletter" or "template" or "not_a_letter"}')
+            '"name" says what the document is in 1 to 5 words, in the document\'s own language, lower case, '
+            'with an article if the language uses one (for example: a news article, a school newsletter, a slide deck, an invoice).\n\n'
+            'Reply with JSON only: {"kind": "letter" or "newsletter" or "template" or "not_a_letter", "name": "..."}')
     try:
-        kind = str(rt.parse_json(API.chat(fixer.REWORD_MODEL, "You classify documents.", user, 0.0, max_tokens=60)).get("kind", ""))
+        out = rt.parse_json(API.chat(fixer.REWORD_MODEL, "You classify documents.", user, 0.0, max_tokens=100))
     except (ValueError, RuntimeError):
-        kind = ""
-    return kind if kind in KINDS else "letter"
+        out = {}
+    kind, name = str(out.get("kind", "")), " ".join(str(out.get("name") or "").split()).strip(" .\"'")
+    return (kind if kind in KINDS else "letter"), name[:40]
 
 
 def _flat(v):
@@ -415,7 +419,7 @@ def extract_facts(text):
     with cf.ThreadPoolExecutor(max_workers=1) as ex:
         kind = ex.submit(classify_kind, letter)
         out = _answer_key(letter)
-        kind = kind.result()
+        kind, kind_name = kind.result()
     req = str(out.get("action_required", "yes")).lower()
     language = str(out.get("language") or "English").strip() or "English"
     if not coach.is_english(language):
@@ -424,7 +428,7 @@ def extract_facts(text):
         items = {k: _flat(out[k]) for k in ("title", "summary", *rt.SLOTS) if out.get(k) and not rt.NOT_STATED.search(_flat(out[k]))}
         out.update(coach._translate(API, items, language, max_tokens=2000) if items else {})
     return {"title": out.get("title") or "Your letter", "design": "unknown", "kind": kind,
-            "language": language, "summary": _flat(out.get("summary") or ""),
+            "kind_name": kind_name if kind != "letter" else "", "language": language, "summary": _flat(out.get("summary") or ""),
             "box_heading": _flat(out.get("box_heading") or fixer.BOX_HEADING).strip(" #*\n") or fixer.BOX_HEADING,
             "action_required": True if req.startswith("y") else False if req.startswith("n") else "conditional",
             "facts": {s: _flat(out.get(s) or "Not stated in the letter.") for s in rt.SLOTS}}

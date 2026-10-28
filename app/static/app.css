@@ -321,6 +321,16 @@ details.more dd { margin: 2px 0 0; font-size: 15px; }
 .toast { position: fixed; left: 50%; bottom: 26px; transform: translate(-50%, 20px); opacity: 0; pointer-events: none; z-index: 60; max-width: min(560px, calc(100vw - 32px)); padding: 13px 18px; background: var(--ink); color: var(--paper); border-radius: 12px; box-shadow: 4px 4px 0 var(--hl); font-weight: 600; transition: opacity .2s, transform .2s; }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+
+/* "This isn't a letter" pop-up (app.js kindAlert) */
+.kind-pop { width: min(480px, calc(100vw - 32px)); padding: 0; border: 2px solid var(--ink); border-radius: var(--r); background: var(--paper); color: var(--ink); box-shadow: var(--sh-lg); animation: rise .2s ease both; }
+.kind-pop::backdrop { background: rgba(18, 18, 18, .5); }
+.kind-body { position: relative; display: flex; flex-direction: column; gap: 12px; padding: 24px 24px 22px; }
+.kind-body h2 { padding-right: 40px; font: 800 24px/1.15 var(--display); letter-spacing: -.02em; }
+.kind-tag { align-self: flex-start; padding: 3px 9px; background: var(--wrong-bg); color: var(--wrong-ink); border: 2px solid var(--ink); border-radius: 8px; box-shadow: 2px 2px 0 var(--ink); font-weight: 700; }
+.kind-x { position: absolute; top: 14px; right: 14px; width: 38px; height: 38px; border: 2px solid var(--ink); border-radius: 10px; background: var(--paper); color: var(--ink); font: 700 16px/1 var(--sans); cursor: pointer; box-shadow: 2px 2px 0 var(--ink); }
+.kind-x:hover { background: var(--hl-soft); }
+.kind-body .row { gap: 12px; margin-top: 6px; }
 @keyframes fade { from { opacity: 0; } to { opacity: 1; } }
 .screen { animation: screen-in .45s cubic-bezier(.2, .8, .2, 1) both; }
 @keyframes screen-in { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }

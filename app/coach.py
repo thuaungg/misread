@@ -313,6 +313,14 @@ def ui_for(api, language):
             saved = json.loads(path.read_text(encoding="utf-8"))
             if set(UI_EN) <= set(saved):
                 return _with_reviewed(saved, slug, language)
+            new = {k: UI_EN[k] for k in UI_EN if k not in saved}
+            if len(new) <= 20:  # a few texts added since this table was saved: translate just those
+                got = _translate(api, new, language, max_tokens=2000)
+                got = {k: v for k, v in got.items() if k in new and set(PLACEHOLDER.findall(UI_EN[k])) <= set(PLACEHOLDER.findall(v))}
+                table = {**new, **saved, **got}
+                if len(got) == len(new):  # a gap is retried next time; meanwhile it shows in English
+                    path.write_text(json.dumps(table, ensure_ascii=False, indent=1), encoding="utf-8")
+                return _with_reviewed(table, slug, language)
         except ValueError:
             pass
     keys = list(UI_EN)
