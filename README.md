@@ -27,7 +27,7 @@ NVIDIA Nemotron on [Nebius Token Factory](https://tokenfactory.nebius.com).
    | View | What the reader sees |
    | --- | --- |
    | Full read | the whole letter (the baseline) |
-   | Skim | headings, bold text and the first line of each paragraph |
+   | Skim | headings, bold text and the first sentence of each paragraph |
    | Glance | about 1 word in 5, top to bottom |
    | Phone | the first 110 words, one phone screen |
 
