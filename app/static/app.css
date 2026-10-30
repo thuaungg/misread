@@ -322,6 +322,14 @@ details.more dd { margin: 2px 0 0; font-size: 15px; }
 .toast.show { opacity: 1; transform: translate(-50%, 0); }
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
 
+/* Official help links in the Reader view (app.js helpTile) */
+.help-links { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 12px; }
+.help-links li { display: flex; flex-direction: column; gap: 3px; padding: 10px 12px; border: 2px solid var(--ink); border-radius: 10px; background: var(--paper); }
+.help-links a { color: var(--ink); font-weight: 700; text-decoration: underline; text-decoration-color: var(--hl); text-decoration-thickness: 3px; text-underline-offset: 3px; overflow-wrap: anywhere; }
+.help-links a:hover { background: var(--hl-soft); }
+.help-links p { font-size: 14px; color: var(--ink-2); }
+.help-tile .btn { align-self: flex-start; }
+
 /* "This isn't a letter" pop-up (app.js kindAlert) */
 .kind-pop { width: min(480px, calc(100vw - 32px)); padding: 0; border: 2px solid var(--ink); border-radius: var(--r); background: var(--paper); color: var(--ink); box-shadow: var(--sh-lg); animation: rise .2s ease both; }
 .kind-pop::backdrop { background: rgba(18, 18, 18, .5); }

@@ -12,6 +12,7 @@ import sys
 import threading
 import time
 import types
+import urllib.parse
 import uuid
 
 APP = pathlib.Path(__file__).resolve().parent
@@ -19,6 +20,7 @@ sys.path.insert(0, str(APP.parent))
 import run_test as rt  # noqa: E402
 import fixer  # noqa: E402
 import coach  # noqa: E402
+import web_help  # noqa: E402
 
 CACHE = APP / "cache"
 VIEW_ORDER = ["full", "skim", "glance20", "phone"]
@@ -177,6 +179,21 @@ def read_in_sample(sample_id, language):
     out = coach.read_in(API, s["fact"], (s["test"] or {}).get("cards", []), language)
     if out["complete"] and out["ui"] and not MOCK:
         save_cache(sample_id, "read." + re.sub(r"[^a-z]+", "-", language.lower()), out)
+    return out
+
+
+def help_sample(sample_id):
+    """An example letter's official-help links (web_help). Examples are public, so the search is
+    saved and reused; a visitor's own letter is searched only when they ask, and never saved."""
+    saved = load_cache(sample_id, "help")
+    if saved is not None:
+        return saved
+    s = load_sample(sample_id)
+    src = s["source"] or {}
+    sender = {"sender": src.get("publisher", ""), "published_at": urllib.parse.urlsplit(src.get("url", "")).hostname or ""}
+    out = web_help.official_help(API, s["fact"], sender) if not MOCK else None
+    if out:
+        save_cache(sample_id, "help", out)
     return out
 
 

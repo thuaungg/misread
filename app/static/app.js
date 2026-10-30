@@ -830,6 +830,10 @@ function renderSide() {
   } else if (state.mode === "reader") {
     if (needsReadIn(c) && !c.readPending) setTimeout(() => loadReadIn(c), 0);
     tiles.push(readerTile(c));
+    if (state.status.web_help) {
+      if (c.id && c.help === undefined && !c.helpPending) setTimeout(() => loadHelp(c), 0);
+      tiles.push(helpTile(c));
+    }
     if (c.test.cards.length) tiles.push(watchTile(c));
   } else if (c.test.testable === false) {
     tiles.push(nothingTile());
@@ -958,6 +962,37 @@ function readerTile(c) {
   return `<div class="tile reader-tile"><h2>${esc(T("in_short"))}${langSwitch(c, "reader")}</h2>${gist ? `<p class="gist">${esc(gist)}</p>` : ""}${none}
     ${rows ? `<dl class="todo">${rows}</dl>` : ""}
     <span class="mono small muted">${esc(T("highlights"))}</span></div>`;
+}
+
+/* Official help: the sender's own pages about this kind of letter, found by a web search (Tavily).
+   An example's links are saved on the server; a visitor's own letter is searched only on request. */
+async function loadHelp(c) {
+  if (c.helpPending) return;
+  c.helpPending = true;
+  if (state.cur === c) renderSide();
+  try {
+    c.help = (await api("/api/help", c.id ? { sample_id: c.id } : { fact: c.fact })).help || null;
+  } catch (e) {
+    c.help = null;
+    if (!c.id) toast(e.message);
+  } finally {
+    c.helpPending = false;
+  }
+  if (state.cur === c && state.mode === "reader") renderSide();
+}
+
+function helpTile(c) {
+  if (c.helpPending) return `<div class="tile help-tile"><h2>${esc(T("help_title"))}</h2><span class="mono small muted">${esc(T("help_searching"))}</span></div>`;
+  if (c.help === undefined) {  // a visitor's own letter: nothing leaves the server until they ask
+    return `<div class="tile help-tile"><h2>${esc(T("help_title"))}</h2>
+      <button class="btn" type="button" data-act="findHelp">${esc(T("help_find"))}</button>
+      <span class="mono small muted">${esc(T("help_note"))}</span></div>`;
+  }
+  if (!c.help) return c.id ? "" : `<div class="tile help-tile"><h2>${esc(T("help_title"))}</h2><p>${esc(T("help_none"))}</p></div>`;
+  return `<div class="tile help-tile"><h2>${esc(T("help_title"))}</h2><ul class="help-links">${c.help.links.map((l) =>
+    `<li><a href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.title)} ↗</a>
+      <span class="mono small muted">${esc(new URL(l.url).hostname.replace(/^www\./, ""))}</span></li>`).join("")}</ul>
+    <span class="mono small muted">${esc(T("help_via", { query: c.help.query }))}</span></div>`;
 }
 
 function watchTile(c) {
@@ -1116,6 +1151,7 @@ const ACTIONS = {
   test: () => runJob("test"),
   fix: () => runJob("fix"),
   retryKey: () => { const c = state.cur; startYourLetter({ title: c.title, text: c.text, upload: c.upload }); },
+  findHelp: () => loadHelp(state.cur),
   toggleFixed: () => {
     state.version = state.version === "fixed" ? "original" : "fixed";
     state.view = "full";

@@ -29,8 +29,8 @@ PUBLIC = False  # --public: the saved examples are never overwritten
 LIMITED = False  # --public without --no-limits: daily runs per visitor and in total
 
 # Runs each visitor (by IP address) may start per day, and the site's total per day, in --public mode.
-PER_VISITOR = {"extract": 5, "test": 5, "fix": 2, "read_in": 20}
-PER_DAY = {"extract": 150, "test": 120, "fix": 25, "read_in": 400}
+PER_VISITOR = {"extract": 5, "test": 5, "fix": 2, "read_in": 20, "help": 10}
+PER_DAY = {"extract": 150, "test": 120, "fix": 25, "read_in": 400, "help": 300}
 
 
 class DayCounter:
@@ -171,7 +171,8 @@ class Handler(http.server.BaseHTTPRequestHandler):
             return self.send_file(STATIC / path[len("/static/"):])
         if path == "/api/status":
             reason = None if core.LIVE else ("offline" if os.environ.get("NEBIUS_API_KEY") else "no_key")
-            return self.send_json({"live": core.LIVE, "mock": core.MOCK, "offline_reason": reason, "models": core.MODELS})
+            return self.send_json({"live": core.LIVE, "mock": core.MOCK, "offline_reason": reason, "models": core.MODELS,
+                                   "web_help": core.LIVE and core.web_help.enabled()})
         if path == "/api/samples":
             return self.send_json(core.list_samples())
         m = re.fullmatch(r"/api/sample/([a-z0-9_]+)", path)
@@ -230,6 +231,15 @@ class Handler(http.server.BaseHTTPRequestHandler):
                 cards = data.get("cards") if isinstance(data.get("cards"), list) else []
                 cards = [{"said": str(c.get("said", "")), "truth": str(c.get("truth", ""))} for c in cards if isinstance(c, dict)]
                 return self.send_json(core.coach.read_in(core.API, core.check_fact(data.get("fact")), cards, language))
+            if path == "/api/help":
+                if not self.need_live():
+                    return
+                sid = data.get("sample_id")
+                if sid in core.sample_ids():  # an example: saved after the first search, so usually free
+                    return self.send_json({"help": core.help_sample(sid)})
+                if self.over_limit("help"):
+                    return
+                return self.send_json({"help": core.web_help.official_help(core.API, core.check_fact(data.get("fact")))})
             if path == "/api/locate":
                 if not core.LIVE or PUBLIC:
                     return self.fail("needs a key", 503)

@@ -40,7 +40,11 @@ NVIDIA Nemotron on [Nebius Token Factory](https://tokenfactory.nebius.com).
    move it to the top, add a "What you need to do" box built only from the letter's own sentences,
    and one rewording. Each is read again by busy readers. The best edit that beats the original is
    shown; if none does, Misread says so.
-6. **Reader view**: a plain summary for the person receiving the letter, readable in 15 languages.
+6. **Reader view**: a plain summary for the person receiving the letter, readable in 15 languages,
+   with **Official help**: links to the sender's own pages about this kind of letter, found by a live
+   web search with [Tavily](https://tavily.com).
+7. **Not a letter?** A news article, newsletter or blank template gets a pop-up saying so, with a
+   button to upload something else.
 
 ### Any language
 
@@ -51,13 +55,34 @@ Vietnamese, Malay and Hindi. Languages written without spaces are measured fairl
 Japanese and Korean at 2 characters a word; Thai, Lao and Khmer at 6 letters; Burmese at about
 2.5 syllables).
 
-### The models
+### Built on NVIDIA Nemotron, Nebius Token Factory and Tavily
 
-| Job | Model |
-| --- | --- |
-| Busy readers | `nvidia/Nemotron-3_5-Lightning` |
-| Grading, finding sentences, detecting the language | `nvidia/nemotron-3-super-120b-a12b` |
-| Answer key, coaching, rewording, translation | `nvidia/Nemotron-3-Ultra-550b-a55b` |
+Every model call is an NVIDIA Nemotron model on [Nebius Token Factory](https://tokenfactory.nebius.com),
+each size matched to its job:
+
+| Job | Model | Why this size |
+| --- | --- | --- |
+| Busy readers (12 readings per letter) | `nvidia/Nemotron-3_5-Lightning` | Fast and cheap enough to read every view three times; given part of a letter, it guesses confidently, like a hurried person |
+| Grading, finding the key sentences, detecting the language, writing the web search | `nvidia/nemotron-3-super-120b-a12b` | Careful, consistent judgments, run many times per letter |
+| Answer key, document type, coaching, rewording, translation | `nvidia/Nemotron-3-Ultra-550b-a55b` | The hardest reading and writing |
+
+**Where Token Factory sped us up**
+
+- **No infrastructure.** The OpenAI-compatible API is called with Python's standard library
+  (`urllib`), with no SDK and no GPUs to manage. Our server is a small Docker container that sends
+  every model call to Token Factory.
+- **Three sizes behind one key.** Moving a job between Lightning, Super and Ultra is a one-line change,
+  which is how we found the right size for each step.
+- **JSON mode and the thinking switch** (`response_format`, `enable_thinking`) give parseable replies
+  and per-call control over reasoning, across hundreds of calls per run.
+- **Parallel bursts.** A test sends 12 readings at once and the fixer re-reads about a dozen edits;
+  that is what made a 100-letter backtest practical in a hackathon.
+
+**Tavily** powers the Reader view's *Official help*. Nemotron 3 Super turns the answer key into a short
+search (only the sender and the kind of letter, never names, numbers or addresses), and the server calls
+Tavily's search API at runtime, first on the sender's own site, then on official-looking sites only
+(`app/web_help.py`). The 13 examples' results are saved; for a visitor's own letter, the search runs
+only when they click *Find official pages*.
 
 ---
 
@@ -67,7 +92,8 @@ You need Python 3.11 or newer. There's nothing to install: the app uses only the
 
 1. Get an API key at [tokenfactory.nebius.com](https://tokenfactory.nebius.com).
 2. Copy `.env.example` to `.env` and paste your key after `NEBIUS_API_KEY=`.
-   `.env` is ignored by git.
+   For the *Official help* links, also add a [Tavily](https://tavily.com) key after `TAVILY_API_KEY=`
+   (without one, that box simply doesn't appear). `.env` is ignored by git.
 3. Start the app:
 
    ```bash
@@ -118,6 +144,8 @@ Scores move a little from run to run, because the readers are AI models.
 ## Privacy
 
 Letters are never written to disk or to logs. The server forgets a finished run after 15 minutes.
+The Tavily web search is sent only the sender and the kind of letter, and only when the visitor asks
+for it.
 
 ---
 
@@ -141,6 +169,7 @@ Letters are never written to disk or to logs. The server forgets a finished run 
 | `app/server.py` | web server (standard library only) |
 | `app/core.py` | runs, the built-in examples, saved results |
 | `app/coach.py` | tips, the checklist, page and Reader view translations |
+| `app/web_help.py` | *Official help*: the Nemotron-written search and the Tavily call |
 | `app/static/` | the page: `index.html`, `app.js`, `app.css`, English page text `ui_en.json` |
 | `app/cache/` | saved results for the examples, and machine page translations |
 | `app/ui_reviewed/` | hand-checked page translations (these win over machine ones) |
